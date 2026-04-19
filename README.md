@@ -27,7 +27,7 @@ Built for **DataHacks 2026** · Scripps Institution of Oceanography theme: *Envi
 
 **Problem.** Marine heatwaves — periods when sea-surface temperatures exceed the 90th-percentile climatology for 5+ consecutive days (Hobday et al. 2016) — are now **20× more frequent** than four decades ago. They cost the global aquaculture industry **~$8 billion per year** in losses. A single event — the 2016 Chilean MHW-HAB — killed 27 million farmed salmon worth ~$800M. Yet **no operational system delivers multilingual, voice-driven early intelligence** at the coastal locations where operators, insurers, and regulators actually need it.
 
-**Solution.** Nereus is a voice-driven 3D command center where users talk (or type) to an AI oceanographer in any of seven languages and get answers grounded in Scripps Argo float profiles, CCE1 mooring data, iNaturalist species observations, and peer-reviewed literature. A bilingual transcript, a live causal knowledge graph, and PDF intelligence briefings complete the product.
+**Solution.** Nereus is a voice-driven 3D command center where users talk (or type) to an AI oceanographer in any of seven languages and get answers grounded in Scripps Argo float profiles, CCE1 mooring data, iNaturalist species observations, and peer-reviewed literature. An event-dossier side panel, a real-time agent-pipeline card, and PDF intelligence briefings complete the product.
 
 **One-line pitch.** *"The ocean doesn't send evacuation orders. We built one."*
 
@@ -60,8 +60,8 @@ flowchart LR
     subgraph browser[Browser — localhost:3000]
         G[3D Globe<br/>react-globe.gl]
         SP[Side Panel<br/>Recharts]
-        KG[Causal Graph<br/>SVG]
-        TR[Live Transcript<br/>bilingual]
+        AP[Agent Pipeline Card<br/>5 RAG stages]
+        AU[Aurora Thinking FX<br/>mint-green bloom]
         VW[Voice Widget<br/>+ 7-lang picker]
     end
 
@@ -76,8 +76,8 @@ flowchart LR
     end
 
     subgraph llms[LLM Layer]
-        GEM[Gemini Flash<br/>short Q&A]
-        CLD[Claude Haiku 4.5<br/>long-form PDF]
+        CLD[Claude Haiku 4.5<br/>primary Q&A + PDF]
+        GEM[Gemini Flash<br/>fallback synthesis]
     end
 
     subgraph data[Data Sources]
@@ -92,15 +92,15 @@ flowchart LR
     VW -->|WebRTC audio| NV
     NV -->|tool calls| G
     NV -->|tool calls| SP
-    NV -->|tool calls| KG
     NV -->|ask_nereus| API
 
-    G --- SP --- KG --- TR
+    G --- SP
+    AP --- AU
 
     API -->|embed query| FAISS
     API -->|load CSVs| STORE
-    API -->|synthesize| GEM
-    API -->|translate + PDF| CLD
+    API -->|synthesize| CLD
+    API -.->|fallback| GEM
 
     ARGO -.->|EDA| STORE
     CCE -.->|EDA| STORE
@@ -112,8 +112,8 @@ flowchart LR
     style G fill:#0B3D5C,stroke:#117A8B,color:#fff
     style API fill:#0B3D5C,stroke:#117A8B,color:#fff
     style FAISS fill:#117A8B,stroke:#5aa8c0,color:#fff
-    style GEM fill:#4285F4,stroke:#1a73e8,color:#fff
     style CLD fill:#D97757,stroke:#B7522E,color:#fff
+    style GEM fill:#4285F4,stroke:#1a73e8,color:#fff
 ```
 
 ### `/api/ask` RAG flow (5 stages)
@@ -136,12 +136,8 @@ sequenceDiagram
     F-->>BE: 5 matching docs
     BE->>LLM: prompt(system + context + question)
     LLM-->>BE: answer in target language
-    alt language != English
-        BE->>LLM: translate(answer, target=English)
-        LLM-->>BE: answer_en
-    end
-    BE-->>FE: {answer, answer_en, sources, suggested_event_id}
-    FE->>FE: update side panel + KG + transcript
+    BE-->>FE: {answer, sources, suggested_event_id}
+    FE->>FE: update side panel + agent pipeline
     FE->>EL: speak answer (if voice session)
     EL-->>User: Nereus voice in target language
 ```
@@ -278,8 +274,7 @@ Three Scripps datasets doing meaningful work — materially stronger Scripps Cha
 | **3D Earth globe** | react-globe.gl with blue-marble texture, 15 extruded stained-glass "canopy" polygons at heatwave regions. Click a polygon or voice-command to fly + zoom. Selected event rockets to 8× altitude with a bright anomaly cap |
 | **Nereus AI voice agent** | ElevenLabs Conversational AI widget running Claude Haiku 4.5. One-click 🎙 mic button starts a WebRTC voice session; 5 client tools drive the globe: `fly_to_event`, `ask_nereus`, `compare_events`, `generate_report`, `reset_view` |
 | **7-language output** | English, Hindi (Devanagari), Spanish, Norwegian, Bahasa Indonesia, French, Portuguese. Compact pill picker in the widget. Response language is independent of input language |
-| **Bilingual translation** | When language ≠ English, Nereus returns both the native-language answer and an English translation (second Claude call). Backend splits + stores both |
-| **Event dossier side panel** | Right side. Category badge, hero "+X.X°C" anomaly card with severity gradient bar, climate-mode pills + bar chart (ONI/PDO/NAO/AMO), species-impact bar chart, gradient "Generate PDF briefing" CTA, peer-reviewed citation footer |
+| **Event dossier side panel** | Right side. Category badge, hero "+X.X°C" anomaly card with severity gradient bar, climate-mode pills + bar chart (ONI/PDO/NAO/AMO), species-impact bar chart, gradient "Generate PDF briefing" CTA, peer-reviewed citation footer. Also renders Nereus's Q&A answers inline after each turn |
 | **Agent pipeline card** | Top-right. Five real-time stages light up per query: 🧭 embed → 🔍 FAISS search → 📚 retrieve → ⚡ invoke LLM → ✍️ compose |
 | **Oceanic aurora effect** | Bottom-of-screen mint-green radial bloom while Nereus thinks or speaks. Environment-theme color (not ocean-blue) to signal the DataHacks climate theme |
 | **PDF intelligence briefings** | Claude-generated 400-700 word structured reports: executive summary, physical signature, ecological and economic impact, analog events, recommended action, primary source citation |
@@ -348,6 +343,8 @@ NEXT_PUBLIC_ELEVENLABS_AGENT_ID=agent_...
 NEXT_PUBLIC_API_BASE=http://localhost:8000
 ```
 
+> **ElevenLabs setup.** You need to create your own Conversational AI agent at [elevenlabs.io/app/agents](https://elevenlabs.io/app/agents) and copy the agent ID into both `ELEVENLABS_AGENT_ID` (root `.env.local`) and `NEXT_PUBLIC_ELEVENLABS_AGENT_ID` (frontend `.env.local`). In the agent's dashboard, register the five client tools Nereus dispatches — `fly_to_event`, `ask_nereus`, `compare_events`, `generate_report`, `reset_view` — so voice commands can drive the globe.
+
 ---
 
 ## Demo script
@@ -362,7 +359,7 @@ Use either text input (press Enter) or click the 🎙 button for voice.
 | 3 | *"Which species were affected?"* | Species-impact retrieval, still grounded in Blob |
 | 4 | *"Compare it to Chile 2016"* | `compare_events` tool + arc animation |
 | 5 | *"Generate a report"* | Claude-generated PDF briefing downloads |
-| 6 | *Switch language picker to हिन्दी*<br/>*"प्रशांत ब्लॉब के बारे में बताइए"* | Multilingual output (Devanagari) + English translation |
+| 6 | *Switch language picker to हिन्दी*<br/>*"प्रशांत ब्लॉब के बारे में बताइए"* | Multilingual output (Devanagari) rendered in the side panel + voice reply |
 | 7 | *"Who uses Nereus?"* | Persona docs, product pitch — closes the demo |
 
 **Voice flow:** click 🎙 → allow mic → speak the question → Nereus answers in his ElevenLabs voice.
@@ -402,8 +399,8 @@ Nereus/
 │       │   ├── VoiceWidget.tsx     ElevenLabs widget, 🎙 button, 7-lang picker, chat bar
 │       │   ├── ThinkingEffect.tsx  Mint-green aurora bloom at bottom
 │       │   ├── AgentActivity.tsx   5-stage RAG pipeline card (top-right)
-│       │   ├── KnowledgeGraph.tsx  (unused — scaffolding retained for future release)
-│       │   └── TranscriptPanel.tsx (unused — scaffolding retained for future release)
+│       │   ├── KnowledgeGraph.tsx  (not mounted — scaffolding kept out of the UI)
+│       │   └── TranscriptPanel.tsx (not mounted — scaffolding kept out of the UI)
 │       ├── lib/api.ts            Typed client for FastAPI
 │       └── store.ts              Zustand global state
 ├── corpus/                       30 Markdown knowledge documents
@@ -426,7 +423,7 @@ Nereus/
 
 | Track / Challenge | Prize | What Nereus earns it with |
 |---|---|---|
-| **ML/AI Track** | $5,000 pool | Real RAG pipeline: MiniLM embeddings, FAISS, Claude+Gemini multi-LLM synthesis, multilingual output, bilingual translation |
+| **ML/AI Track** | $5,000 pool | Real RAG pipeline: MiniLM embeddings, FAISS, Claude+Gemini multi-LLM synthesis, multilingual output across 7 languages |
 | **Product & Entrepreneurship** | $2,500 pool | Three-persona market thesis (aquaculture, insurance, scientist), $8B/year TAM, 7-language reach, PDF briefings sellable to underwriters |
 | **Scripps Challenge** | $1,500 | Three Scripps datasets (EasyOneArgo, CCE1, iNaturalist) in meaningful roles — not checkbox compliance |
 | **NVIDIA Brev.dev** | $500 | `brev/` folder with GPU batch pipeline for corpus embedding at scale |
