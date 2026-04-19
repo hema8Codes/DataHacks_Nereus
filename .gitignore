@@ -1,0 +1,37 @@
+# --- secrets ---
+.env
+.env.*
+.env.local
+.env.*.local
+!.env.*.example
+
+# --- python ---
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# --- node / next.js ---
+node_modules/
+.next/
+out/
+dist/
+build/
+npm-debug.log*
+yarn-debug.log*
+
+# --- generated artifacts ---
+*.faiss
+docs.json
+_last_report.pdf
+brev/outputs/
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~

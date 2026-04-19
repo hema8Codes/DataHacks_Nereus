@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+httpx>=0.28.1,<1.0.0
+pandas>=2.2.3
+numpy>=1.26.4,<2.5
+python-dotenv==1.0.1
+google-generativeai>=0.8.3
+anthropic>=0.40.0
+sentence-transformers>=2.7.0
+faiss-cpu>=1.7.4
+markdown-pdf==1.13.1

@@ -1,0 +1,16 @@
+name,lat_min,lat_max,lon_min,lon_max,start_date,end_date,peak_anom_c,category,citation,short_name,duration_days,bbox,event_id
+NE Pacific Blob (phase 1),35,55,-160,-125,2013-11-01,2014-09-30,2.5,Severe,Bond et al. 2015 (GRL),blob_phase1,333,"[35,55,-160,-125]",MHW_BLOB_PHASE1
+NE Pacific Blob (phase 2),35,55,-160,-125,2014-10-01,2016-04-30,2.8,Severe,Di Lorenzo & Mantua 2016 (Nat CC),blob_phase2,577,"[35,55,-160,-125]",MHW_BLOB_PHASE2
+NE Pacific MHW 2019 (Blob 2.0),35,55,-160,-125,2019-06-01,2020-02-29,3.0,Severe,Amaya et al. 2020 (Nat Comms),blob_2019,273,"[35,55,-160,-125]",MHW_BLOB_2019
+Chile / SE Pacific 2016 MHW-HAB,-45,-20,-85,-70,2016-01-01,2016-04-30,3.3,Extreme,Leon-Munoz et al. 2018 (Sci Rep),chile_2016,120,"[-45,-20,-85,-70]",MHW_CHILE_2016
+Tasman Sea 2015-16,-50,-30,150,175,2015-09-01,2016-03-31,2.9,Severe,Oliver et al. 2017 (Nat Comms),tasman_2015,212,"[-50,-30,150,175]",MHW_TASMAN_2015
+Tasman Sea 2017-18,-50,-30,150,175,2017-11-01,2018-02-28,2.7,Severe,Perkins-Kirkpatrick et al. 2019,tasman_2017,119,"[-50,-30,150,175]",MHW_TASMAN_2017
+Mediterranean 2022,30,45,-5,40,2022-05-15,2022-09-15,4.3,Extreme,Marullo et al. 2023 (Sci Tot Env),med_2022,123,"[30,45,-5,40]",MHW_MED_2022
+Mediterranean 2003 (historic),30,45,-5,40,2003-06-01,2003-09-30,3.5,Extreme,Garrabou et al. 2009 (Global CB),med_2003,121,"[30,45,-5,40]",MHW_MED_2003
+North Atlantic 2023,40,65,-60,-10,2023-05-01,2023-12-31,4.5,Extreme,Kuhn et al. 2024 (Comms Earth Env),natl_2023,244,"[40,65,-60,-10]",MHW_NATL_2023
+North West Atlantic 2012,35,50,-75,-50,2012-02-01,2012-09-30,3.0,Severe,Mills et al. 2013 (Oceanography),nwatl_2012,242,"[35,50,-75,-50]",MHW_NWATL_2012
+Gulf of Maine 2016 (ongoing series),42,45,-70,-65,2016-01-01,2016-12-31,3.2,Severe,Pershing et al. 2015 (Science),gulfmaine_2016,365,"[42,45,-70,-65]",MHW_GULFMAINE_2016
+Great Barrier Reef bleaching 2016,-24,-10,142,155,2016-02-01,2016-05-31,2.8,Severe,Hughes et al. 2017 (Nature),gbr_2016,120,"[-24,-10,142,155]",MHW_GBR_2016
+Great Barrier Reef bleaching 2017,-24,-10,142,155,2017-02-01,2017-05-31,2.5,Severe,Hughes et al. 2018 (Science),gbr_2017,119,"[-24,-10,142,155]",MHW_GBR_2017
+Peru 2017 Coastal Nino,-20,-5,-85,-75,2017-01-01,2017-05-31,3.0,Severe,Garreaud 2018 (IJ Climatology),peru_2017,150,"[-20,-5,-85,-75]",MHW_PERU_2017
+Ningaloo Nino 2011,-30,-15,110,120,2010-12-01,2011-05-31,3.0,Severe,Feng et al. 2013 (Sci Rep),ningaloo_2011,181,"[-30,-15,110,120]",MHW_NINGALOO_2011

@@ -1,0 +1,1601 @@
+obs_id,observed_on,lat,lon,scientific_name,common_name,iconic,taxon_id,event,window
+33802772,2019-09-30,37.1241313696,-2.5374543497,Galerida theklae,Thekla's Lark,Aves,7359,mediterranean_2022,baseline
+33824925,2019-09-30,39.160525,9.0090111167,Erinaceus europaeus,Common Hedgehog,Mammalia,43042,mediterranean_2022,baseline
+33937261,2019-09-30,44.9224657785,9.5755297691,Sus scrofa,Wild Boar,Mammalia,42134,mediterranean_2022,baseline
+195679980,2019-09-30,43.2287418082,5.3480326903,Scorpaena porcus,Black Scorpionfish,Actinopterygii,118631,mediterranean_2022,baseline
+195679951,2019-09-30,43.2287418082,5.3480326903,Calliostoma conulus,Shining Top Shell,Mollusca,528682,mediterranean_2022,baseline
+195679954,2019-09-30,43.2287418082,5.3480326903,Gaidropsarus mediterraneus,Shore Rockling,Actinopterygii,118602,mediterranean_2022,baseline
+195679957,2019-09-30,43.2287418082,5.3480326903,Lima lima,Spiny File Clam,Mollusca,50576,mediterranean_2022,baseline
+195679976,2019-09-30,43.2287418082,5.3480326903,Peltodoris atromaculata,Leopard Sea Slug,Mollusca,326343,mediterranean_2022,baseline
+195679962,2019-09-30,43.2287418082,5.3480326903,Manupecten pesfelis,Cat's Paw Scallop,Mollusca,938598,mediterranean_2022,baseline
+195679978,2019-09-30,43.2287418082,5.3480326903,Petalifera petalifera,,Mollusca,343650,mediterranean_2022,baseline
+48548491,2019-09-30,42.23308,12.97726,Zebrina detrita,Zebra Snail,Mollusca,326195,mediterranean_2022,baseline
+195679948,2019-09-30,43.2287418082,5.3480326903,Bothus podas,Wide-eyed Flounder,Actinopterygii,118640,mediterranean_2022,baseline
+195679970,2019-09-30,43.2287418082,5.3480326903,Pagellus acarne,Axillary Seabream,Actinopterygii,118656,mediterranean_2022,baseline
+195679952,2019-09-30,43.2287418082,5.3480326903,Chelidonichthys obscurus,Longfin Gurnard,Actinopterygii,118626,mediterranean_2022,baseline
+195679971,2019-09-30,43.2287418082,5.3480326903,Pagellus erythrinus,Common Pandora,Actinopterygii,118659,mediterranean_2022,baseline
+195679966,2019-09-30,43.2287418082,5.3480326903,Mullus barbatus,Red Mullet,Actinopterygii,118618,mediterranean_2022,baseline
+195679969,2019-09-30,43.2287418082,5.3480326903,Ophisurus serpens,Giant Snake Eel,Actinopterygii,118592,mediterranean_2022,baseline
+195679953,2019-09-30,43.2287418082,5.3480326903,Dalophis imberbis,Armless Snake Eel,Actinopterygii,618483,mediterranean_2022,baseline
+195679946,2019-09-30,43.2287418082,5.3480326903,Apletodon incognitus,Merged Clingfish,Actinopterygii,445664,mediterranean_2022,baseline
+48548191,2019-09-30,42.23308,12.97726,Zebrina detrita,Zebra Snail,Mollusca,326195,mediterranean_2022,baseline
+195679984,2019-09-30,43.2287418082,5.3480326903,Symphodus tinca,East Atlantic Peacock Wrasse,Actinopterygii,52554,mediterranean_2022,baseline
+146426133,2019-09-30,40.4891383333,-3.7224483333,Muscicapa striata,Spotted Flycatcher,Aves,12971,mediterranean_2022,baseline
+200406421,2019-09-30,42.3052447447,1.1175029505,Gypaetus barbatus barbatus,Eurasian Bearded Vulture,Aves,718425,mediterranean_2022,baseline
+200406420,2019-09-30,42.3112431071,1.1293046702,Aquila chrysaetos,Golden Eagle,Aves,5074,mediterranean_2022,baseline
+35963161,2019-09-30,44.28348,19.92701,Arion vulgaris,Spanish Slug,Mollusca,54583,mediterranean_2022,baseline
+254118217,2019-09-30,37.5099998653,23.4450156927,Bittium reticulatum,Small Needle-whelk,Mollusca,483170,mediterranean_2022,baseline
+149423962,2019-09-30,38.5156581258,-0.1979202782,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,baseline
+254125284,2019-09-30,37.5099437063,23.4450361292,Rissoa splendida,,Mollusca,884037,mediterranean_2022,baseline
+33705952,2019-09-30,44.0988883972,9.7375001907,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+33745849,2019-09-30,39.1999591594,8.3831886202,Gobius incognitus,Incognito Goby,Actinopterygii,505877,mediterranean_2022,baseline
+44138982,2019-09-30,31.8781632104,34.9535979356,Falco vespertinus,Red-footed Falcon,Aves,4641,mediterranean_2022,baseline
+34109685,2019-09-30,43.2752697216,3.5144276024,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,baseline
+33656934,2019-09-30,39.4683394478,-0.4444177734,Upupa epops,Common Hoopoe,Aves,20969,mediterranean_2022,baseline
+34000915,2019-09-30,41.0561528333,8.9648583333,Sus scrofa,Wild Boar,Mammalia,42134,mediterranean_2022,baseline
+34026743,2019-09-30,44.646550583,12.252210439,Garrulus glandarius,Eurasian Jay,Aves,8088,mediterranean_2022,baseline
+33649040,2019-09-30,41.3897788944,2.1857733652,Columba palumbus,Common Wood-Pigeon,Aves,3048,mediterranean_2022,baseline
+33682048,2019-09-30,39.469269477,-0.4438013977,Carduelis carduelis,European Goldfinch,Aves,9398,mediterranean_2022,baseline
+33690928,2019-09-30,32.9179759039,35.8078288421,Gazella gazella,Mountain Gazelle,Mammalia,74352,mediterranean_2022,baseline
+33681559,2019-09-30,39.4664274718,-0.4424737371,Cisticola juncidis,Zitting Cisticola,Aves,7697,mediterranean_2022,baseline
+33674657,2019-09-30,44.4412358017,6.8712553649,Pyrrhocorax graculus,Yellow-billed Chough,Aves,8350,mediterranean_2022,baseline
+254236183,2019-09-30,37.5099761842,23.4450176453,Alvania lactea,,Mollusca,482263,mediterranean_2022,baseline
+33793285,2019-09-30,44.640379506,22.2939825431,Motacilla alba,White Wagtail,Aves,13695,mediterranean_2022,baseline
+34114672,2019-09-30,35.0990731542,32.2909624448,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,baseline
+34114337,2019-09-30,35.1028061573,32.2874683024,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,baseline
+34114223,2019-09-30,35.1016713695,32.2895676961,Lanius collurio,Red-backed Shrike,Aves,12038,mediterranean_2022,baseline
+33646884,2019-09-30,44.1322517515,12.1971198696,Sciurus vulgaris,Eurasian Red Squirrel,Mammalia,46001,mediterranean_2022,baseline
+33666903,2019-09-30,44.6474189758,12.2484960556,Cochlicella barbara,Small Pointed Snail,Mollusca,217273,mediterranean_2022,baseline
+33666874,2019-09-30,44.6483682,12.2487573,Eobania vermiculata,Chocolate-band Snail,Mollusca,199875,mediterranean_2022,baseline
+33745730,2019-09-30,44.6474189756,12.2484960556,Eobania vermiculata,Chocolate-band Snail,Mollusca,199875,mediterranean_2022,baseline
+33690927,2019-09-30,32.9380366667,35.8718633333,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,baseline
+34113792,2019-09-30,35.1027886041,32.2872537274,Oenanthe cypriaca,Cyprus Wheatear,Aves,12834,mediterranean_2022,baseline
+33745706,2019-09-30,39.2000685438,8.3831272647,Tarantinaea lignarius,,Mollusca,1647789,mediterranean_2022,baseline
+33657792,2019-09-30,39.4663462693,-0.4425509765,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,baseline
+54625472,2019-09-30,36.428735,28.235856,Sepioteuthis lessoniana,Bigfin Reef Squid,Mollusca,121187,mediterranean_2022,baseline
+33645911,2019-09-30,44.7923728991,-0.5755714068,Saxicola rubetra,Whinchat,Aves,12908,mediterranean_2022,baseline
+210023596,2019-09-30,32.5561056325,34.9056280389,Limosa lapponica,Bar-tailed Godwit,Aves,3951,mediterranean_2022,baseline
+33645376,2019-09-30,44.7919455634,-0.575318411,Saxicola rubicola,European Stonechat,Aves,201192,mediterranean_2022,baseline
+33656428,2019-09-30,39.4671168679,-0.443211584,Chloris chloris,European Greenfinch,Aves,145360,mediterranean_2022,baseline
+33645912,2019-09-30,44.7893398711,-0.5742550053,Phylloscopus collybita,Common Chiffchaff,Aves,117016,mediterranean_2022,baseline
+33657950,2019-09-30,44.7932452338,7.6664717243,Tachybaptus ruficollis,Little Grebe,Aves,4237,mediterranean_2022,baseline
+34200073,2019-09-30,35.1035610224,32.2904509038,Diplodus vulgaris,Common Two-banded Seabream,Actinopterygii,118667,mediterranean_2022,baseline
+34006649,2019-09-30,35.1048440534,32.2883602148,Gulosus aristotelis,European Shag,Aves,1289604,mediterranean_2022,baseline
+55303569,2019-09-30,39.5607424221,23.1064743368,Delphinus delphis,Common Dolphin,Mammalia,41526,mediterranean_2022,baseline
+187260245,2019-09-30,44.428686,6.896305,Gyps fulvus,Eurasian Griffon,Aves,5366,mediterranean_2022,baseline
+33935673,2019-09-30,35.2132605522,5.6999707595,Strix aluco mauritanica,Maghreb Owl,Aves,718956,mediterranean_2022,baseline
+33657911,2019-09-30,44.7932452338,7.6664717243,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,baseline
+185465502,2019-09-30,35.8708508,2.0240894,Aquila fasciata,Bonelli's Eagle,Aves,144467,mediterranean_2022,baseline
+44358888,2019-09-30,41.4096379,14.6240702,Sciurus vulgaris,Eurasian Red Squirrel,Mammalia,46001,mediterranean_2022,baseline
+34005435,2019-09-30,35.1020177226,32.2898193365,Alcedo atthis,Common Kingfisher,Aves,2599,mediterranean_2022,baseline
+33657862,2019-09-30,44.7932452338,7.6664717243,Anas crecca,Green-winged Teal,Aves,6937,mediterranean_2022,baseline
+33657933,2019-09-30,44.7932452338,7.6664717243,Spatula clypeata,Northern Shoveler,Aves,558438,mediterranean_2022,baseline
+34155311,2019-09-30,35.1037716782,32.2888630496,Parupeneus forsskali,Red Sea Goatfish,Actinopterygii,359362,mediterranean_2022,baseline
+33941123,2019-09-30,35.0471596527,32.4319188229,Ardea alba,Great Egret,Aves,144455,mediterranean_2022,baseline
+33657835,2019-09-30,44.7932452338,7.6664717243,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,baseline
+34260435,2019-09-30,37.345305,27.235525,Felis catus,Domestic Cat,Mammalia,118552,mediterranean_2022,baseline
+33941102,2019-09-30,35.0420147432,32.4289510511,Galerida cristata,Crested Lark,Aves,578607,mediterranean_2022,baseline
+33645488,2019-09-30,44.792346721,-0.5754686147,Phylloscopus collybita,Common Chiffchaff,Aves,117016,mediterranean_2022,baseline
+33645910,2019-09-30,44.7920818767,-0.5753625253,Phylloscopus collybita,Common Chiffchaff,Aves,117016,mediterranean_2022,baseline
+33651008,2019-09-30,44.7933574544,-0.5758662522,Sylvia atricapilla,Eurasian Blackcap,Aves,15282,mediterranean_2022,baseline
+33644957,2019-09-30,37.97709667,23.74097,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,baseline
+121784541,2019-09-30,40.1793605334,23.7073061988,Muraena helena,Mediterranean Moray,Actinopterygii,118590,mediterranean_2022,baseline
+208314401,2019-09-30,41.4142460578,2.1525252145,Myiopsitta monachus,Monk Parakeet,Aves,19349,mediterranean_2022,baseline
+185465525,2019-09-30,34.8066780958,-0.5764593483,Falco biarmicus,Lanner Falcon,Aves,4684,mediterranean_2022,baseline
+33731174,2019-09-30,41.7520670778,0.5077188121,Cyprinus carpio,European Carp,Actinopterygii,53911,mediterranean_2022,baseline
+33645439,2019-09-30,44.7928592278,-0.5757924914,Saxicola rubetra,Whinchat,Aves,12908,mediterranean_2022,baseline
+33645907,2019-09-30,44.7920262806,-0.5753320419,Saxicola rubetra,Whinchat,Aves,12908,mediterranean_2022,baseline
+103900615,2019-09-30,42.9628125603,17.1304297296,Sylvia atricapilla,Eurasian Blackcap,Aves,15282,mediterranean_2022,baseline
+33645904,2019-09-30,44.7890680156,-0.5743698273,Picus viridis,Eurasian Green Woodpecker,Aves,144243,mediterranean_2022,baseline
+33726277,2019-09-30,44.2610785326,6.7432354063,Marmota marmota,Alpine Marmot,Mammalia,46082,mediterranean_2022,baseline
+33726278,2019-09-30,44.2610785326,6.7432354063,Marmota marmota,Alpine Marmot,Mammalia,46082,mediterranean_2022,baseline
+33645903,2019-09-30,44.7879872704,-0.5747248921,Erithacus rubecula,European Robin,Aves,13094,mediterranean_2022,baseline
+33645902,2019-09-30,44.7878354464,-0.5752331527,Ficedula hypoleuca,European Pied Flycatcher,Aves,204512,mediterranean_2022,baseline
+266734868,2019-09-30,36.4592271391,-4.754040041,Anarhynchus alexandrinus,Kentish Plover,Aves,1505620,mediterranean_2022,baseline
+266734867,2019-09-30,36.5068233333,-4.64306,Charadrius hiaticula,Common Ringed Plover,Aves,4801,mediterranean_2022,baseline
+266734866,2019-09-30,36.50685,-4.6419966667,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+266734862,2019-09-30,36.50685,-4.6419966667,Larus fuscus,Lesser Black-backed Gull,Aves,4381,mediterranean_2022,baseline
+35195403,2019-09-30,41.3906618242,9.1614570469,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+34026745,2019-09-30,44.646550583,12.252210439,Sturnus vulgaris,European Starling,Aves,14850,mediterranean_2022,baseline
+33690926,2019-09-30,33.1356670294,35.7753244028,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,baseline
+33641649,2019-09-30,42.0357588027,0.1205425803,Ficedula hypoleuca,European Pied Flycatcher,Aves,204512,mediterranean_2022,baseline
+33643606,2019-09-30,38.0029418554,23.7778198679,Tachymarptis melba,Alpine Swift,Aves,72516,mediterranean_2022,baseline
+266734861,2019-09-30,36.5069266667,-4.63966,Thalasseus sandvicensis,Sandwich Tern,Aves,144541,mediterranean_2022,baseline
+103911751,2019-09-30,42.9610499548,17.133253768,Apus pallidus,Pallid Swift,Aves,6643,mediterranean_2022,baseline
+335262804,2019-09-30,43.6606762256,6.9833427563,Aix galericulata,Mandarin Duck,Aves,7106,mediterranean_2022,baseline
+335262802,2019-09-30,43.6606762256,6.9833427563,Tadorna cana,South African Shelduck,Aves,7071,mediterranean_2022,baseline
+335262801,2019-09-30,43.6606762256,6.9833427563,Branta canadensis,Canada Goose,Aves,7089,mediterranean_2022,baseline
+335262800,2019-09-30,43.6606762256,6.9833427563,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,baseline
+33649663,2019-09-30,42.39598833,18.79815,Helix secernenda,,Mollusca,102448,mediterranean_2022,baseline
+55698553,2019-09-30,44.8799466667,15.61348,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,baseline
+33696568,2019-09-30,43.9516983333,8.1433333333,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,baseline
+33696567,2019-09-30,43.95012,8.1432566667,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,baseline
+266734859,2019-09-30,36.5068283333,-4.63962,Alcedo atthis,Common Kingfisher,Aves,2599,mediterranean_2022,baseline
+34026747,2019-09-30,44.646550583,12.252210439,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+33937290,2019-09-30,44.9218067617,9.5747753978,Vulpes vulpes,Red Fox,Mammalia,42069,mediterranean_2022,baseline
+33646589,2019-09-30,38.6690997928,20.6510876798,Monacha claustralis,,Mollusca,105972,mediterranean_2022,baseline
+270658876,2019-09-30,37.8016461317,23.7792206621,Oblada melanurus,Saddled Seabream,Actinopterygii,118662,mediterranean_2022,baseline
+270658872,2019-09-30,37.8016461317,23.7792206621,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,baseline
+266734858,2019-09-30,36.50652,-4.644105,Arenaria interpres,Ruddy Turnstone,Aves,3938,mediterranean_2022,baseline
+266734854,2019-09-30,36.506505,-4.644125,Calidris alba,Sanderling,Aves,3849,mediterranean_2022,baseline
+270658875,2019-09-30,37.8016461317,23.7792206621,Oblada melanurus,Saddled Seabream,Actinopterygii,118662,mediterranean_2022,baseline
+34026749,2019-09-30,44.646550583,12.252210439,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+270658880,2019-09-30,37.8016461317,23.7792206621,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,baseline
+34026750,2019-09-30,44.646550583,12.252210439,Columba palumbus,Common Wood-Pigeon,Aves,3048,mediterranean_2022,baseline
+270658885,2019-09-30,37.8016461317,23.7792206621,Sarpa salpa,Salema Porgy,Actinopterygii,118663,mediterranean_2022,baseline
+270658881,2019-09-30,37.8016461317,23.7792206621,Diplodus vulgaris,Common Two-banded Seabream,Actinopterygii,118667,mediterranean_2022,baseline
+270658891,2019-09-30,37.8016461317,23.7792206621,Sarpa salpa,Salema Porgy,Actinopterygii,118663,mediterranean_2022,baseline
+47208333,2019-09-30,41.3855555556,2.1813888889,Columba livia,Rock Pigeon,Aves,3017,mediterranean_2022,baseline
+33769195,2019-09-30,34.6781433333,33.05132,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,baseline
+33769194,2019-09-30,34.6811733333,33.055005,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,baseline
+33769196,2019-09-30,34.6803333333,33.0627666667,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,baseline
+66189200,2019-09-30,41.5178282006,2.3172824085,Vulpes vulpes,Red Fox,Mammalia,42069,mediterranean_2022,baseline
+33645650,2019-09-30,37.8883558307,23.748026112,Theba pisana,White Italian Snail,Mollusca,119608,mediterranean_2022,baseline
+33645643,2019-09-30,37.96970574,23.7195482158,Muscicapa striata,Spotted Flycatcher,Aves,12971,mediterranean_2022,baseline
+37184614,2019-09-30,33.035673172,35.2488729156,Hystrix indica,Indian Crested Porcupine,Mammalia,44175,mediterranean_2022,baseline
+33645617,2019-09-30,37.971366759,23.7221016814,Cantareus apertus,Green Garden Snail,Mollusca,96707,mediterranean_2022,baseline
+37184537,2019-09-30,33.0355083229,35.2486076394,Erinaceus concolor,Southern White-breasted Hedgehog,Mammalia,43043,mediterranean_2022,baseline
+334845555,2019-09-30,37.0530429464,-4.8352134973,Porphyrio porphyrio,Western Swamphen,Aves,475028,mediterranean_2022,baseline
+262002382,2019-09-30,32.8361160906,34.9778242333,Herklotsichthys punctatus,Spotback Herring,Actinopterygii,611789,mediterranean_2022,baseline
+262002379,2019-09-30,32.8361766157,34.9772766925,Pseudocaranx dentex,Silver Trevally,Actinopterygii,204776,mediterranean_2022,baseline
+262002374,2019-09-30,32.8361541145,34.9778990489,Caranx crysos,Blue Runner,Actinopterygii,96740,mediterranean_2022,baseline
+262002370,2019-09-30,32.8365935414,34.9798703886,Pomadasys incisus,Bastard Grunt,Actinopterygii,110029,mediterranean_2022,baseline
+254954912,2019-09-30,37.5100066439,23.4449991504,Venus verrucosa,Warty Venus Clam,Mollusca,324540,mediterranean_2022,baseline
+62915432,2019-09-30,40.704645,-3.746206,Saxicola rubicola,European Stonechat,Aves,201192,mediterranean_2022,baseline
+62915427,2019-09-30,40.704645,-3.746206,Phoenicurus ochruros,Black Redstart,Aves,13000,mediterranean_2022,baseline
+62915412,2019-09-30,40.704645,-3.746206,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,baseline
+62915402,2019-09-30,40.704645,-3.746206,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,baseline
+62915378,2019-09-30,40.704645,-3.746206,Lepus granatensis,Granada Hare,Mammalia,43119,mediterranean_2022,baseline
+62915364,2019-09-30,40.704645,-3.746206,Phylloscopus trochilus,Willow Warbler,Aves,117055,mediterranean_2022,baseline
+62915344,2019-09-30,40.704645,-3.746206,Lullula arborea,Woodlark,Aves,7363,mediterranean_2022,baseline
+62915323,2019-09-30,40.704645,-3.746206,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,baseline
+62915302,2019-09-30,40.6170341192,-3.760096988,Oryctolagus cuniculus,European Rabbit,Mammalia,43151,mediterranean_2022,baseline
+62915295,2019-09-30,40.702751,-3.744031,Ficedula hypoleuca,European Pied Flycatcher,Aves,204512,mediterranean_2022,baseline
+62915287,2019-09-30,40.6871525885,-3.7189527622,Aegypius monachus,Cinereous Vulture,Aves,5382,mediterranean_2022,baseline
+62915280,2019-09-30,40.7790323324,-3.6279003636,Aegypius monachus,Cinereous Vulture,Aves,5382,mediterranean_2022,baseline
+62915264,2019-09-30,40.702751,-3.744031,Gyps fulvus,Eurasian Griffon,Aves,5366,mediterranean_2022,baseline
+62915232,2019-09-30,40.6059487971,-3.6952017464,Aegypius monachus,Cinereous Vulture,Aves,5382,mediterranean_2022,baseline
+62915206,2019-09-30,40.68577242,-3.6270930703,Aegypius monachus,Cinereous Vulture,Aves,5382,mediterranean_2022,baseline
+62915194,2019-09-30,40.702751,-3.744031,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,baseline
+35143259,2019-09-30,42.0411880419,3.2267256081,Flabellina affinis,Mediterranean Violet Aeolid,Mollusca,326338,mediterranean_2022,baseline
+35143214,2019-09-30,42.0411808209,3.2266746461,Edmundsella pedata,Pink Coryphella,Mollusca,605942,mediterranean_2022,baseline
+35143161,2019-09-30,42.0455580446,3.2238080353,Cratena peregrina,Cratena Slug,Mollusca,64486,mediterranean_2022,baseline
+35143132,2019-09-30,42.0455448487,3.2237842306,Muraena helena,Mediterranean Moray,Actinopterygii,118590,mediterranean_2022,baseline
+33655411,2019-09-30,44.413645817,13.5445956141,Erithacus rubecula,European Robin,Aves,13094,mediterranean_2022,baseline
+33647117,2019-09-30,44.7924285701,-0.5755463988,Saxicola rubicola,European Stonechat,Aves,201192,mediterranean_2022,baseline
+33643532,2019-09-30,43.8707803237,-0.5934448633,Limax maximus,Leopard Slug,Mollusca,62470,mediterranean_2022,baseline
+33640942,2019-09-30,35.0631386389,24.9472528712,Albinaria corrugata inflata,,Mollusca,633848,mediterranean_2022,baseline
+34385373,2019-09-29,43.4831519,-1.558626,Larus argentatus,European Herring Gull,Aves,204533,mediterranean_2022,baseline
+34385355,2019-09-29,43.4831519,-1.558626,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,baseline
+34385254,2019-09-29,43.4831519,-1.558626,Motacilla alba,White Wagtail,Aves,13695,mediterranean_2022,baseline
+33841098,2019-09-29,41.6708984375,2.7903680801,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,baseline
+33614408,2019-09-29,40.8491499176,-3.9553631097,Prunella modularis,Dunnock,Aves,13988,mediterranean_2022,baseline
+79841618,2019-09-29,43.8479947436,10.5136124608,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,baseline
+33710539,2019-09-29,41.3784671107,19.9232551821,Pernis apivorus,European Honey-buzzard,Aves,5325,mediterranean_2022,baseline
+35143532,2019-09-29,41.951435919,3.2856834774,Hippocampus guttulatus,Long-snouted Seahorse,Actinopterygii,102821,mediterranean_2022,baseline
+33636768,2019-09-29,37.4242991676,25.3329385341,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,baseline
+33608559,2019-09-29,39.8467073171,9.5904515684,Martes martes,Eurasian Pine Marten,Mammalia,41796,mediterranean_2022,baseline
+82447822,2019-09-29,37.16756,-3.5899966667,Motacilla alba,White Wagtail,Aves,13695,mediterranean_2022,baseline
+33710540,2019-09-29,41.3784671107,19.9232551821,Accipiter nisus,Eurasian Sparrowhawk,Aves,5106,mediterranean_2022,baseline
+33942010,2019-09-29,43.6233545055,3.8612305705,Erinaceus europaeus,Common Hedgehog,Mammalia,43042,mediterranean_2022,baseline
+33612079,2019-09-29,39.6414703735,16.165976044,Meles meles,European Badger,Mammalia,855297,mediterranean_2022,baseline
+82447836,2019-09-29,37.1770933333,-3.6029933333,Turdus merula,Eurasian Blackbird,Aves,12716,mediterranean_2022,baseline
+33600350,2019-09-29,41.8542671204,12.4586353302,Erinaceus europaeus,Common Hedgehog,Mammalia,43042,mediterranean_2022,baseline
+33596380,2019-09-29,36.8156418208,11.9891605714,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,baseline
+335262822,2019-09-29,43.7294728958,7.0220091761,Phoenicurus ochruros,Black Redstart,Aves,13000,mediterranean_2022,baseline
+33694090,2019-09-29,41.7000626,14.3243423,Meles meles,European Badger,Mammalia,855297,mediterranean_2022,baseline
+254117497,2019-09-29,37.510012878,23.4450189034,Rissoina bruguieri,,Mollusca,884048,mediterranean_2022,baseline
+254139900,2019-09-29,37.5099723228,23.4450405512,Alvania,,Mollusca,246663,mediterranean_2022,baseline
+42254136,2019-09-29,44.9050755065,11.5527590364,Erinaceus europaeus,Common Hedgehog,Mammalia,43042,mediterranean_2022,baseline
+36212714,2019-09-29,44.489625292,34.1636180878,Podiceps cristatus,Great Crested Grebe,Aves,4208,mediterranean_2022,baseline
+34026734,2019-09-29,44.8740526275,12.2836478997,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,baseline
+33591653,2019-09-29,39.7663879395,19.7450008392,Lanius collurio,Red-backed Shrike,Aves,12038,mediterranean_2022,baseline
+33881047,2019-09-29,42.4610428962,3.1595453542,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,baseline
+33939851,2019-09-29,42.4606899399,3.1577223356,Mullus surmuletus,Striped Red Mullet,Actinopterygii,118619,mediterranean_2022,baseline
+34026736,2019-09-29,44.8740526275,12.2836478997,Hydroprogne caspia,Caspian Tern,Aves,144537,mediterranean_2022,baseline
+33941083,2019-09-29,42.4601665551,3.1584588893,Symphodus roissali,Five-spotted Wrasse,Actinopterygii,113535,mediterranean_2022,baseline
+33939848,2019-09-29,42.4601517108,3.1583109533,Sparus aurata,Gilthead Seabream,Actinopterygii,1494783,mediterranean_2022,baseline
+33881046,2019-09-29,42.4606233969,3.1576570791,Sarpa salpa,Salema Porgy,Actinopterygii,118663,mediterranean_2022,baseline
+33939850,2019-09-29,42.460310014,3.1578754736,Mullus surmuletus,Striped Red Mullet,Actinopterygii,118619,mediterranean_2022,baseline
+98707692,2019-09-29,44.9225767602,35.090860291,Dendrocopos major,Great Spotted Woodpecker,Aves,17871,mediterranean_2022,baseline
+33941082,2019-09-29,42.4605822623,3.1592984205,Symphodus tinca,East Atlantic Peacock Wrasse,Actinopterygii,52554,mediterranean_2022,baseline
+33590345,2019-09-29,38.7989600388,20.7199151069,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,baseline
+33941469,2019-09-29,42.4610413381,3.1596095568,Serranus scriba,Painted Comber,Actinopterygii,118674,mediterranean_2022,baseline
+33940878,2019-09-29,42.4608023441,3.1593144941,Symphodus tinca,East Atlantic Peacock Wrasse,Actinopterygii,52554,mediterranean_2022,baseline
+33699713,2019-09-29,40.7635690143,14.0382486422,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,baseline
+33940877,2019-09-29,42.4608023441,3.1593144941,Symphodus tinca,East Atlantic Peacock Wrasse,Actinopterygii,52554,mediterranean_2022,baseline
+33939847,2019-09-29,42.4615465303,3.1603087429,Lipophrys trigloides,,Actinopterygii,342285,mediterranean_2022,baseline
+149225018,2019-09-29,42.8814990901,23.7661645801,Corvus corax,Common Raven,Aves,8010,mediterranean_2022,baseline
+33882554,2019-09-29,42.4613174049,3.1611436723,Octopus vulgaris,Common Octopus,Mollusca,49315,mediterranean_2022,baseline
+33886372,2019-09-29,42.4605980935,3.1592984205,Gobius incognitus,Incognito Goby,Actinopterygii,505877,mediterranean_2022,baseline
+254190850,2019-09-29,37.5099924801,23.4450038897,Callochiton doriae,,Mollusca,1272183,mediterranean_2022,baseline
+33654803,2019-09-29,40.398026024,19.4771812468,Luria lurida,Lurid Cowry,Mollusca,342274,mediterranean_2022,baseline
+200405422,2019-09-29,42.5809202114,1.0079198678,Turdus viscivorus,Mistle Thrush,Aves,12735,mediterranean_2022,baseline
+141643866,2019-09-29,41.8345117046,1.7515344545,Rattus norvegicus,Brown Rat,Mammalia,44576,mediterranean_2022,baseline
+33885370,2019-09-29,42.8458529654,-2.6517981687,Motacilla alba,White Wagtail,Aves,13695,mediterranean_2022,baseline
+33881045,2019-09-29,42.4618977162,3.1612726968,Diplodus puntazzo,Sharpsnout Seabream,Actinopterygii,53696,mediterranean_2022,baseline
+33599770,2019-09-29,40.8408317566,8.2819442749,Vulpes vulpes,Red Fox,Mammalia,42069,mediterranean_2022,baseline
+33882556,2019-09-29,42.4611907644,3.1603436868,Serranus cabrilla,Comber,Actinopterygii,118675,mediterranean_2022,baseline
+33763462,2019-09-29,41.8920222668,12.4637290338,Myiopsitta monachus,Monk Parakeet,Aves,19349,mediterranean_2022,baseline
+33939840,2019-09-29,42.4611572846,3.1611429103,Chromis chromis,Mediterranean Damselfish,Actinopterygii,118682,mediterranean_2022,baseline
+33881043,2019-09-29,42.461185367,3.1600603383,Diplodus vulgaris,Common Two-banded Seabream,Actinopterygii,118667,mediterranean_2022,baseline
+33710547,2019-09-29,44.7958589911,7.6662421972,Circus aeruginosus,Western Marsh Harrier,Aves,5173,mediterranean_2022,baseline
+45203040,2019-09-29,42.51296933,3.1322278251,Mullus surmuletus,Striped Red Mullet,Actinopterygii,118619,mediterranean_2022,baseline
+45203036,2019-09-29,42.51296933,3.1322278251,Parablennius pilicornis,Ringneck Blenny,Actinopterygii,338049,mediterranean_2022,baseline
+34026725,2019-09-29,44.8069686,12.2366563,Tringa glareola,Wood Sandpiper,Aves,3888,mediterranean_2022,baseline
+45202575,2019-09-29,42.51296933,3.1322278251,Sarpa salpa,Salema Porgy,Actinopterygii,118663,mediterranean_2022,baseline
+45202573,2019-09-29,42.51296933,3.1322278251,Serranus cabrilla,Comber,Actinopterygii,118675,mediterranean_2022,baseline
+45202572,2019-09-29,42.51296933,3.1322278251,Mullus surmuletus,Striped Red Mullet,Actinopterygii,118619,mediterranean_2022,baseline
+34026730,2019-09-29,44.8069686,12.2366563,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,baseline
+33899322,2019-09-29,42.4608073583,3.1589972789,Oedalechilus labeo,Boxlip Mullet,Actinopterygii,118617,mediterranean_2022,baseline
+45202499,2019-09-29,42.51296933,3.1322278251,Parablennius sanguinolentus,Rusty Blenny,Actinopterygii,118686,mediterranean_2022,baseline
+34026732,2019-09-29,44.8069686,12.2366563,Calidris pugnax,Ruff,Aves,339593,mediterranean_2022,baseline
+33881042,2019-09-29,42.4613911576,3.1609079164,Sarpa salpa,Salema Porgy,Actinopterygii,118663,mediterranean_2022,baseline
+45202497,2019-09-29,42.51296933,3.1322278251,Parablennius pilicornis,Ringneck Blenny,Actinopterygii,338049,mediterranean_2022,baseline
+34026733,2019-09-29,44.8069686,12.2366563,Tringa erythropus,Spotted Redshank,Aves,3882,mediterranean_2022,baseline
+33881039,2019-09-29,42.4603621978,3.1575819772,Sparus aurata,Gilthead Seabream,Actinopterygii,1494783,mediterranean_2022,baseline
+45202011,2019-09-29,42.51296933,3.1322278251,Diplodus vulgaris,Common Two-banded Seabream,Actinopterygii,118667,mediterranean_2022,baseline
+244500344,2019-09-29,32.8354402316,34.9769527801,Sepioteuthis lessoniana,Bigfin Reef Squid,Mollusca,121187,mediterranean_2022,baseline
+45202008,2019-09-29,42.51296933,3.1322278251,Symphodus ocellatus,Ocellated Wrasse,Actinopterygii,113534,mediterranean_2022,baseline
+45202006,2019-09-29,42.51296933,3.1322278251,Gobius incognitus,Incognito Goby,Actinopterygii,505877,mediterranean_2022,baseline
+33699195,2019-09-29,40.7657399805,14.0288253959,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+34061399,2019-09-29,44.7952137506,7.6652185991,Pluvialis apricaria,European Golden-Plover,Aves,4889,mediterranean_2022,baseline
+34124926,2019-09-29,44.7948711421,7.6662006229,Circus aeruginosus,Western Marsh Harrier,Aves,5173,mediterranean_2022,baseline
+33794709,2019-09-29,43.210806169,5.4568695836,Gobius cobitis,Giant Goby,Actinopterygii,118703,mediterranean_2022,baseline
+33794663,2019-09-29,43.2107492148,5.4568759538,Sarpa salpa,Salema Porgy,Actinopterygii,118663,mediterranean_2022,baseline
+33792747,2019-09-29,44.762549068,7.7172175779,Ciconia nigra,Black Stork,Aves,4736,mediterranean_2022,baseline
+70777507,2019-09-29,36.8880616667,27.1770383333,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,baseline
+70776920,2019-09-29,36.8879933333,27.1766416667,Galerida cristata,Crested Lark,Aves,578607,mediterranean_2022,baseline
+54624011,2019-09-29,34.692539,33.085248,Sepioteuthis lessoniana,Bigfin Reef Squid,Mollusca,121187,mediterranean_2022,baseline
+48169358,2019-09-29,40.5047783333,-3.735915,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+33810839,2019-09-29,44.7950334056,7.6653664559,Anas crecca,Green-winged Teal,Aves,6937,mediterranean_2022,baseline
+70776874,2019-09-29,36.88918,27.1732583333,Cisticola juncidis,Zitting Cisticola,Aves,7697,mediterranean_2022,baseline
+33644832,2019-09-29,44.6674327462,12.2183964774,Calidris pugnax,Ruff,Aves,339593,mediterranean_2022,baseline
+34061491,2019-09-29,44.7939406167,7.6660564542,Nycticorax nycticorax,Black-crowned Night Heron,Aves,4981,mediterranean_2022,baseline
+33644705,2019-09-29,44.6661954257,12.2207226232,Tringa erythropus,Spotted Redshank,Aves,3882,mediterranean_2022,baseline
+33606790,2019-09-29,44.3804107431,12.2535887933,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,baseline
+34291253,2019-09-29,44.7930771727,7.6668104902,Tringa glareola,Wood Sandpiper,Aves,3888,mediterranean_2022,baseline
+70775820,2019-09-29,36.8892833333,27.1744933333,Muscicapa striata,Spotted Flycatcher,Aves,12971,mediterranean_2022,baseline
+70775707,2019-09-29,36.8888716667,27.1750766667,Lanius collurio,Red-backed Shrike,Aves,12038,mediterranean_2022,baseline
+70775662,2019-09-29,36.8888716667,27.17509,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,baseline
+34061422,2019-09-29,44.7930914486,7.6666505635,Ciconia ciconia,White Stork,Aves,4733,mediterranean_2022,baseline
+34061468,2019-09-29,44.7932882169,7.6665318757,Tadorna ferruginea,Ruddy Shelduck,Aves,7068,mediterranean_2022,baseline
+34241577,2019-09-29,44.7930112659,7.6668021083,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,baseline
+48169342,2019-09-29,40.50619,-3.743245,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+142815753,2019-09-29,43.5235723532,3.9389432358,Laevicardium oblongum,,Mollusca,1026233,mediterranean_2022,baseline
+48169330,2019-09-29,40.5055883333,-3.7415683333,Fringilla coelebs,Common Chaffinch,Aves,10070,mediterranean_2022,baseline
+34005737,2019-09-29,44.7931473622,7.6651971415,Anser indicus,Bar-headed Goose,Aves,7008,mediterranean_2022,baseline
+33937212,2019-09-29,44.7930928762,7.6652095467,Anser cygnoides,Swan Goose,Aves,7014,mediterranean_2022,baseline
+33944022,2019-09-29,44.792662934,7.6660225913,Aix galericulata,Mandarin Duck,Aves,7106,mediterranean_2022,baseline
+254236677,2019-09-29,37.5099721532,23.4450166603,Emarginula octaviana,,Mollusca,1212806,mediterranean_2022,baseline
+209216286,2019-09-29,43.5820031244,-1.3930220243,Tringa glareola,Wood Sandpiper,Aves,3888,mediterranean_2022,baseline
+33589345,2019-09-29,41.3155555725,19.4941673279,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,baseline
+33584805,2019-09-29,41.9600130247,3.2304285173,Aplysia fasciata,Sooty Seahare,Mollusca,253928,mediterranean_2022,baseline
+70939736,2019-09-29,43.785103,11.213833,Alcedo atthis,Common Kingfisher,Aves,2599,mediterranean_2022,baseline
+70939735,2019-09-29,43.785103,11.213833,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,baseline
+34004965,2019-09-29,34.9947747924,32.6871400526,Fringilla coelebs,Common Chaffinch,Aves,10070,mediterranean_2022,baseline
+33610239,2019-09-29,41.9408758291,8.618430869,Haliotis tuberculata,Green Ormer,Mollusca,210285,mediterranean_2022,baseline
+70939742,2019-09-29,43.785103,11.213833,Chloris chloris,European Greenfinch,Aves,145360,mediterranean_2022,baseline
+33584046,2019-09-29,44.1113583333,12.2169866667,Picus viridis,Eurasian Green Woodpecker,Aves,144243,mediterranean_2022,baseline
+34004852,2019-09-29,34.9897976266,32.684129838,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,baseline
+209212904,2019-09-29,43.581643591,-1.4038372632,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,baseline
+33943929,2019-09-29,44.7930391038,7.6660085097,Mareca penelope,Eurasian Wigeon,Aves,558441,mediterranean_2022,baseline
+33640883,2019-09-29,42.38107,3.1559055,Symphodus cinereus,Grey Wrasse,Actinopterygii,113529,mediterranean_2022,baseline
+34125230,2019-09-29,44.6586775763,7.6120381487,Ciconia nigra,Black Stork,Aves,4736,mediterranean_2022,baseline
+224462290,2019-09-29,35.7853485504,-0.1173785817,Elanus caeruleus,Black-winged Kite,Aves,5275,mediterranean_2022,baseline
+70774153,2019-09-29,36.8868816667,27.1805166667,Phylloscopus trochilus,Willow Warbler,Aves,117055,mediterranean_2022,baseline
+33597255,2019-09-29,42.2150076296,12.6034654159,Ardea alba,Great Egret,Aves,144455,mediterranean_2022,baseline
+33886371,2019-09-29,42.4605980935,3.1592984205,Gobius cobitis,Giant Goby,Actinopterygii,118703,mediterranean_2022,baseline
+141452009,2019-09-29,35.7183830004,-0.3790049625,Elanus caeruleus,Black-winged Kite,Aves,5275,mediterranean_2022,baseline
+33883348,2019-09-29,42.5344797429,3.1758515639,Pinna nobilis,Noble Pen Shell,Mollusca,118945,mediterranean_2022,baseline
+33881036,2019-09-29,42.4606233969,3.1580862325,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,baseline
+33940648,2019-09-29,35.0423250665,32.4290099751,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,baseline
+33852057,2019-09-29,44.7938233185,7.66430296,Passer montanus,Eurasian Tree Sparrow,Aves,13851,mediterranean_2022,baseline
+33599675,2019-09-29,41.42068833,2.1009945,Sus scrofa,Wild Boar,Mammalia,42134,mediterranean_2022,baseline
+34026724,2019-09-29,44.6536425386,12.1096405525,Circus aeruginosus,Western Marsh Harrier,Aves,5173,mediterranean_2022,baseline
+33882553,2019-09-29,42.5060620239,3.0863456215,Epinephelus marginatus,Dusky Grouper,Actinopterygii,100119,mediterranean_2022,baseline
+70774095,2019-09-29,36.8867033333,27.1804766667,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,baseline
+34004156,2019-09-29,34.9914492036,32.6884932344,Garrulus glandarius glaszneri,Cyprus Jay,Aves,711045,mediterranean_2022,baseline
+33940600,2019-09-29,35.0451976471,32.430429244,Cisticola juncidis,Zitting Cisticola,Aves,7697,mediterranean_2022,baseline
+33881033,2019-09-29,42.4618858437,3.1613102477,Diplodus cervinus,Horned Bream,Actinopterygii,49984,mediterranean_2022,baseline
+33582090,2019-09-29,41.7111744786,2.7193800732,Erithacus rubecula,European Robin,Aves,13094,mediterranean_2022,baseline
+70773536,2019-09-29,36.886535,27.18077,Phylloscopus trochilus,Willow Warbler,Aves,117055,mediterranean_2022,baseline
+33606781,2019-09-29,44.3564783181,12.2861920318,Cisticola juncidis,Zitting Cisticola,Aves,7697,mediterranean_2022,baseline
+33597259,2019-09-29,42.2056333866,12.6076698303,Ardea alba,Great Egret,Aves,144455,mediterranean_2022,baseline
+33597256,2019-09-29,42.2070153887,12.6068197203,Ardea alba,Great Egret,Aves,144455,mediterranean_2022,baseline
+33606778,2019-09-29,44.3542689805,12.2993241272,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,baseline
+33606779,2019-09-29,44.3541652384,12.2958944076,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,baseline
+33941466,2019-09-29,42.4613341944,3.1599636084,Parablennius pilicornis,Ringneck Blenny,Actinopterygii,338049,mediterranean_2022,baseline
+33886361,2019-09-29,42.4605980935,3.1592984205,Gobius xanthocephalus,Yellow-headed Goby,Actinopterygii,101626,mediterranean_2022,baseline
+224462287,2019-09-29,35.7853485504,-0.1173785817,Elanus caeruleus caeruleus,African Black-winged Kite,Aves,516790,mediterranean_2022,baseline
+33606776,2019-09-29,44.3526492963,12.3057931344,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,baseline
+33886360,2019-09-29,42.4605980935,3.1592984205,Symphodus mediterraneus,Axillary Wrasse,Actinopterygii,113531,mediterranean_2022,baseline
+33882552,2019-09-29,42.4614203,3.1606930611,Serranus scriba,Painted Comber,Actinopterygii,118674,mediterranean_2022,baseline
+33886478,2019-09-29,44.7938049981,7.6641252637,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,baseline
+33881032,2019-09-29,42.4610428962,3.1595453542,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,baseline
+33899329,2019-09-29,42.5863148514,3.121388741,Dicentrarchus labrax,European Seabass,Actinopterygii,99269,mediterranean_2022,baseline
+33879012,2019-09-29,44.7937597918,7.6641658321,Branta leucopsis,Barnacle Goose,Aves,7101,mediterranean_2022,baseline
+33886363,2019-09-29,44.7939548923,7.6639582962,Anas crecca,Green-winged Teal,Aves,6937,mediterranean_2022,baseline
+54178690,2019-09-29,41.7257179698,13.9543204469,Cervus elaphus,Red Deer,Mammalia,204113,mediterranean_2022,baseline
+33939852,2019-09-29,42.4609989836,3.1589546834,Sarpa salpa,Salema Porgy,Actinopterygii,118663,mediterranean_2022,baseline
+33744845,2019-09-29,44.6531920688,12.1098947525,Phalaropus lobatus,Red-necked Phalarope,Aves,3959,mediterranean_2022,baseline
+33852112,2019-09-29,44.7938128497,7.6641356573,Rallus aquaticus,Water Rail,Aves,513926,mediterranean_2022,baseline
+224462286,2019-09-29,35.7853485504,-0.1173785817,Calidris alpina,Dunlin,Aves,3857,mediterranean_2022,baseline
+33842324,2019-09-29,44.7938463975,7.6640753075,Passer italiae,Italian Sparrow,Aves,201233,mediterranean_2022,baseline
+33597331,2019-09-29,42.2266519428,12.6027027996,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,baseline
+33583998,2019-09-29,44.1172945,12.2166883333,Columba palumbus,Common Wood-Pigeon,Aves,3048,mediterranean_2022,baseline
+33886370,2019-09-29,42.4605980935,3.1592984205,Gobius cobitis,Giant Goby,Actinopterygii,118703,mediterranean_2022,baseline
+33940876,2019-09-29,42.4608023441,3.1593144941,Symphodus roissali,Five-spotted Wrasse,Actinopterygii,113535,mediterranean_2022,baseline
+33881031,2019-09-29,42.4613357525,3.1597492021,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,baseline
+33886209,2019-09-29,44.7926707857,7.6647733524,Cygnus cygnus,Whooper Swan,Aves,6916,mediterranean_2022,baseline
+33939846,2019-09-29,42.4613155852,3.1604133495,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,baseline
+33597257,2019-09-29,42.2040326309,12.6112902595,Ardea alba,Great Egret,Aves,144455,mediterranean_2022,baseline
+33902047,2019-09-29,42.4462911668,3.0982060022,Labrus merula,Brown Wrasse,Actinopterygii,103912,mediterranean_2022,baseline
+33698702,2019-09-29,40.741921237,13.9955636475,Circus aeruginosus,Western Marsh Harrier,Aves,5173,mediterranean_2022,baseline
+96562049,2019-09-29,43.162867881,5.6068199873,Gulosus aristotelis,European Shag,Aves,1289604,mediterranean_2022,baseline
+70939739,2019-09-29,43.785103,11.213833,Garrulus glandarius,Eurasian Jay,Aves,8088,mediterranean_2022,baseline
+33901524,2019-09-29,42.461302219,3.1596256504,Parablennius sanguinolentus,Rusty Blenny,Actinopterygii,118686,mediterranean_2022,baseline
+33698648,2019-09-29,40.7420814459,13.9955343974,Oryctolagus cuniculus,European Rabbit,Mammalia,43151,mediterranean_2022,baseline
+33883347,2019-09-29,42.4614895983,3.1603085631,Thuridilla hopei,,Mollusca,326335,mediterranean_2022,baseline
+33593374,2019-09-29,39.286937012,3.1470150171,Aquila fasciata,Bonelli's Eagle,Aves,144467,mediterranean_2022,baseline
+33593316,2019-09-29,39.2712423901,3.0616916344,Hieraaetus pennatus,Booted Eagle,Aves,5154,mediterranean_2022,baseline
+33582916,2019-09-29,44.9383300982,6.8055337824,Alectoris graeca,Rock Partridge,Aves,863,mediterranean_2022,baseline
+74726728,2019-09-29,43.785103,11.213833,Sitta europaea,Eurasian Nuthatch,Aves,14824,mediterranean_2022,baseline
+33882550,2019-09-29,42.4612382546,3.1598883984,Serranus scriba,Painted Comber,Actinopterygii,118674,mediterranean_2022,baseline
+42685953,2019-09-29,44.1024504,9.8240826,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,baseline
+42685914,2019-09-29,44.1024504,9.8240826,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,baseline
+33899317,2019-09-29,42.4613124629,3.1598034801,Tripterygion melanurus,Small Triplefin Blenny,Actinopterygii,114453,mediterranean_2022,baseline
+33881030,2019-09-29,42.4610745564,3.1589230817,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,baseline
+33939843,2019-09-29,42.4611256244,3.1597696193,Tripterygion tripteronotum,Red-black Triplefin,Actinopterygii,188591,mediterranean_2022,baseline
+74726731,2019-09-29,43.785103,11.213833,Dendrocopos major,Great Spotted Woodpecker,Aves,17871,mediterranean_2022,baseline
+33940874,2019-09-29,42.4608023441,3.1593144941,Symphodus roissali,Five-spotted Wrasse,Actinopterygii,113535,mediterranean_2022,baseline
+33622475,2019-09-29,42.3807,3.1562666667,Symphodus rostratus,Pointed-snout Wrasse,Actinopterygii,113536,mediterranean_2022,baseline
+33883349,2019-09-29,42.4612640257,3.159333848,Elysia timida,,Mollusca,481506,mediterranean_2022,baseline
+33813764,2019-09-29,43.7844367662,11.2113417171,Sciurus vulgaris,Eurasian Red Squirrel,Mammalia,46001,mediterranean_2022,baseline
+33640890,2019-09-29,42.3807,3.1562666667,Symphodus roissali,Five-spotted Wrasse,Actinopterygii,113535,mediterranean_2022,baseline
+224462283,2019-09-29,35.7853485504,-0.1173785817,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,baseline
+224462281,2019-09-29,35.7853485504,-0.1173785817,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,baseline
+33596282,2019-09-29,44.6617633885,10.9079306017,Myocastor coypus,Coypu,Mammalia,43997,mediterranean_2022,baseline
+74726730,2019-09-29,43.785103,11.213833,Regulus regulus,Goldcrest,Aves,793469,mediterranean_2022,baseline
+33940872,2019-09-29,42.4608023441,3.1593144941,Symphodus tinca,East Atlantic Peacock Wrasse,Actinopterygii,52554,mediterranean_2022,baseline
+33940871,2019-09-29,42.4608023441,3.1593144941,Symphodus roissali,Five-spotted Wrasse,Actinopterygii,113535,mediterranean_2022,baseline
+33881028,2019-09-29,42.4610428962,3.1595453542,Diplodus vulgaris,Common Two-banded Seabream,Actinopterygii,118667,mediterranean_2022,baseline
+33886375,2019-09-29,42.460915,3.1586566667,Gobius incognitus,Incognito Goby,Actinopterygii,505877,mediterranean_2022,baseline
+224462279,2019-09-29,35.7853485504,-0.1173785817,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,baseline
+33882549,2019-09-29,42.461396555,3.1599098561,Serranus cabrilla,Comber,Actinopterygii,118675,mediterranean_2022,baseline
+33941467,2019-09-29,42.4612072387,3.1604484174,Symphodus tinca,East Atlantic Peacock Wrasse,Actinopterygii,52554,mediterranean_2022,baseline
+166663267,2019-09-29,35.5973847359,-0.7536166727,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,baseline
+166663257,2019-09-29,35.5973847359,-0.7536166727,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,baseline
+69637194,2019-09-29,43.6300490679,15.8965233058,Felimare gasconi,,Mollusca,639212,mediterranean_2022,baseline
+147605747,2019-09-29,41.062504996,29.042666473,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,baseline
+33602252,2019-09-29,43.1548493011,6.4815851083,Garrulus glandarius,Eurasian Jay,Aves,8088,mediterranean_2022,baseline
+185465523,2019-09-29,34.8148432917,-0.5634130418,Falco subbuteo,Eurasian Hobby,Aves,4643,mediterranean_2022,baseline
+33770102,2019-09-29,39.8537053788,-4.0305179358,Coloeus monedula,Eurasian Jackdaw,Aves,336399,mediterranean_2022,baseline
+33882548,2019-09-29,42.4603320592,3.1594595713,Octopus vulgaris,Common Octopus,Mollusca,49315,mediterranean_2022,baseline
+33743786,2019-09-29,44.6920508691,12.1903394229,Phalaropus lobatus,Red-necked Phalarope,Aves,3959,mediterranean_2022,baseline
+33602238,2019-09-29,43.1554291,6.4805888,Curruca melanocephala,Sardinian Warbler,Aves,1289472,mediterranean_2022,baseline
+150036545,2019-09-29,31.804404,34.903272,Hieraaetus pennatus,Booted Eagle,Aves,5154,mediterranean_2022,baseline
+141451984,2019-09-29,35.7222879769,-0.3759163829,Ciconia ciconia ciconia,European White Stork,Aves,721186,mediterranean_2022,baseline
+70939741,2019-09-29,43.785103,11.213833,Turdus merula,Eurasian Blackbird,Aves,12716,mediterranean_2022,baseline
+266912825,2019-09-29,36.5804933333,-4.6002983333,Chloris chloris,European Greenfinch,Aves,145360,mediterranean_2022,baseline
+34058580,2019-09-29,43.3337790762,3.5492131056,Cisticola juncidis,Zitting Cisticola,Aves,7697,mediterranean_2022,baseline
+70939738,2019-09-29,43.785103,11.213833,Psittacula krameri,Rose-ringed Parakeet,Aves,18911,mediterranean_2022,baseline
+70939737,2019-09-29,43.785103,11.213833,Psittacula krameri,Rose-ringed Parakeet,Aves,18911,mediterranean_2022,baseline
+166663218,2019-09-29,35.6008368399,-0.6938050578,Circus aeruginosus,Western Marsh Harrier,Aves,5173,mediterranean_2022,baseline
+34057884,2019-09-29,43.3288804737,3.5396768574,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,baseline
+33673376,2019-09-29,38.8675785,-0.0606637,Motacilla alba,White Wagtail,Aves,13695,mediterranean_2022,baseline
+141451951,2019-09-29,35.7197789598,-0.382095703,Burhinus oedicnemus,Eurasian Stone-curlew,Aves,4923,mediterranean_2022,baseline
+42686051,2019-09-29,44.099028,9.825764,Alcedo atthis,Common Kingfisher,Aves,2599,mediterranean_2022,baseline
+33939849,2019-09-29,42.460626619,3.1582246669,Sparus aurata,Gilthead Seabream,Actinopterygii,1494783,mediterranean_2022,baseline
+41888309,2019-09-29,42.1391993361,15.5232133499,Sphyraena viridensis,Yellowmouth Barracuda,Actinopterygii,47260,mediterranean_2022,baseline
+266912824,2019-09-29,36.57908,-4.6007383333,Parus major,Great Tit,Aves,203153,mediterranean_2022,baseline
+33939842,2019-09-29,42.4603974362,3.1587513915,Coris julis,Mediterranean Rainbow Wrasse,Actinopterygii,50968,mediterranean_2022,baseline
+33899318,2019-09-29,42.4609383333,3.1585883333,Oedalechilus labeo,Boxlip Mullet,Actinopterygii,118617,mediterranean_2022,baseline
+33582082,2019-09-29,41.7130803817,2.7184879035,Meles meles,European Badger,Mammalia,855297,mediterranean_2022,baseline
+33881027,2019-09-29,42.4603701129,3.1579360288,Oblada melanurus,Saddled Seabream,Actinopterygii,118662,mediterranean_2022,baseline
+70939740,2019-09-29,43.785103,11.213833,Sitta europaea,Eurasian Nuthatch,Aves,14824,mediterranean_2022,baseline
+33696891,2019-09-29,40.7482776375,13.9973339055,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+118110601,2019-09-29,41.3673553467,19.9225635529,Pernis apivorus,European Honey-buzzard,Aves,5325,mediterranean_2022,baseline
+166663196,2019-09-29,35.6008368399,-0.6938050578,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,baseline
+166663193,2019-09-29,35.6008368399,-0.6938050578,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,baseline
+166663183,2019-09-29,35.6008368399,-0.6938050578,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,baseline
+179545542,2019-09-29,38.1626240361,-3.9987536246,Cervus elaphus,Red Deer,Mammalia,204113,mediterranean_2022,baseline
+166663154,2019-09-29,35.6105907361,-0.6930643858,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,baseline
+166663114,2019-09-29,35.5942215912,-0.675957416,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,baseline
+74726732,2019-09-29,43.785103,11.213833,Psittacula krameri,Rose-ringed Parakeet,Aves,18911,mediterranean_2022,baseline
+70455430,2019-09-29,42.060615,3.213621,Felimare picta,Regal Sea Goddess,Mollusca,469400,mediterranean_2022,baseline
+41888211,2019-09-29,42.1407904389,15.5145444504,Diplodus vulgaris,Common Two-banded Seabream,Actinopterygii,118667,mediterranean_2022,baseline
+266912821,2019-09-29,36.580475,-4.6021833333,Corvus corax,Common Raven,Aves,8010,mediterranean_2022,baseline
+68513231,2019-09-29,43.1987800757,5.2289487065,Haliotis tuberculata,Green Ormer,Mollusca,210285,mediterranean_2022,baseline
+33583817,2019-09-29,44.1122445,12.2086583333,Unio elongatulus,,Mollusca,994238,mediterranean_2022,baseline
+266912820,2019-09-29,36.5793783333,-4.602645,Phoenicurus ochruros,Black Redstart,Aves,13000,mediterranean_2022,baseline
+33766393,2019-09-29,44.4831243122,12.3967031132,Morus bassanus,Northern Gannet,Aves,3802,mediterranean_2022,baseline
+33815280,2019-09-29,44.4697975582,12.3174135521,Morus bassanus,Northern Gannet,Aves,3802,mediterranean_2022,baseline
+33742904,2019-09-29,44.8766057726,6.8415829777,Rupicapra rupicapra,Northern Chamois,Mammalia,42347,mediterranean_2022,baseline
+33593239,2019-09-29,39.2735710941,3.0464234948,Circaetus gallicus,Short-toed Snake-Eagle,Aves,5242,mediterranean_2022,baseline
+175947306,2019-09-29,36.7740475139,-2.2383377015,Bucanetes githagineus,Trumpeter Finch,Aves,72572,mediterranean_2022,baseline
+41355854,2019-09-29,42.5166171391,9.0951233165,Rhinolophus ferrumequinum,Greater Horseshoe Bat,Mammalia,40645,mediterranean_2022,baseline
+33621687,2019-09-29,38.8675785,-0.0606637,Cisticola juncidis,Zitting Cisticola,Aves,7697,mediterranean_2022,baseline
+33815279,2019-09-29,44.4697975582,12.3174135521,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,baseline
+149346408,2019-09-29,38.8632456043,-0.0647281304,Motacilla flava,Western Yellow Wagtail,Aves,204545,mediterranean_2022,baseline
+33815285,2019-09-29,44.4697975582,12.3174135521,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+33577932,2019-09-29,32.7941479,35.6826909,Prinia gracilis,Graceful Prinia,Aves,7707,mediterranean_2022,baseline
+33934307,2019-09-29,42.3188977315,27.756526952,Dama dama,European Fallow Deer,Mammalia,42161,mediterranean_2022,baseline
+33585098,2019-09-29,42.1912994385,11.8246097565,Cantareus apertus,Green Garden Snail,Mollusca,96707,mediterranean_2022,baseline
+33605899,2019-09-29,43.76338,11.31548167,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,baseline
+33577794,2019-09-29,43.7193362,7.2814039,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+33585129,2019-09-29,42.1913261414,11.8245401382,Cochlicella barbara,Small Pointed Snail,Mollusca,217273,mediterranean_2022,baseline
+33579233,2019-09-29,39.7661094666,19.7441673279,Sylvia atricapilla,Eurasian Blackcap,Aves,15282,mediterranean_2022,baseline
+33815284,2019-09-29,44.4697975582,12.3174135521,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,baseline
+149346407,2019-09-29,38.8632456043,-0.0647281304,Motacilla flava,Western Yellow Wagtail,Aves,204545,mediterranean_2022,baseline
+266912816,2019-09-29,36.578485,-4.6027766667,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,baseline
+33815283,2019-09-29,44.4697975582,12.3174135521,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,baseline
+33934306,2019-09-29,42.2920242863,27.7499213578,Dendrocopos major,Great Spotted Woodpecker,Aves,17871,mediterranean_2022,baseline
+33579324,2019-09-29,37.0015031139,-3.0994753637,Capra pyrenaica hispanica,Southeastern Spanish Ibex,Mammalia,424104,mediterranean_2022,baseline
+44139035,2019-09-29,31.8824766667,34.9227816667,Circaetus gallicus,Short-toed Snake-Eagle,Aves,5242,mediterranean_2022,baseline
+33696453,2019-09-29,40.8374260902,14.2535798409,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+33934305,2019-09-29,42.2920242863,27.7499213578,Dendrocopos leucotos,White-backed Woodpecker,Aves,17943,mediterranean_2022,baseline
+33771895,2019-09-29,44.8331411071,11.4616643508,Erinaceus europaeus,Common Hedgehog,Mammalia,43042,mediterranean_2022,baseline
+33576993,2019-09-29,34.6817218559,33.0505241454,Eobania vermiculata,Chocolate-band Snail,Mollusca,199875,mediterranean_2022,baseline
+33696420,2019-09-29,40.838339257,14.2539607145,Passer italiae,Italian Sparrow,Aves,201233,mediterranean_2022,baseline
+33696382,2019-09-29,40.8382946136,14.2539553501,Monticola solitarius,Blue Rock-Thrush,Aves,13141,mediterranean_2022,baseline
+33741418,2019-09-29,41.6469193958,2.4539721385,Upupa epops,Common Hoopoe,Aves,20969,mediterranean_2022,baseline
+33815281,2019-09-29,44.4697975582,12.3174135521,Circus aeruginosus,Western Marsh Harrier,Aves,5173,mediterranean_2022,baseline
+34247027,2019-09-29,38.02247979,23.83085363,Psittacula krameri,Rose-ringed Parakeet,Aves,18911,mediterranean_2022,baseline
+34681930,2019-09-29,42.0816780425,3.2031496614,Parablennius rouxi,Longstriped Blenny,Actinopterygii,108410,mediterranean_2022,baseline
+150036544,2019-09-29,31.864720055,34.9293311345,Clanga pomarina,Lesser Spotted Eagle,Aves,201033,mediterranean_2022,baseline
+33593033,2019-09-29,39.2688845373,3.0474584922,Mustela nivalis,Least Weasel,Mammalia,569428,mediterranean_2022,baseline
+33583854,2019-09-29,41.4309768677,2.1433990002,Sus scrofa,Wild Boar,Mammalia,42134,mediterranean_2022,baseline
+34742825,2019-09-29,44.3541925654,9.1677163436,Vulpes vulpes,Red Fox,Mammalia,42069,mediterranean_2022,baseline
+305196166,2019-09-29,43.53608,4.622393,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,baseline
+305196156,2019-09-29,43.53608,4.622393,Cygnus olor,Mute Swan,Aves,6921,mediterranean_2022,baseline
+305196136,2019-09-29,43.53608,4.622393,Spatula clypeata,Northern Shoveler,Aves,558438,mediterranean_2022,baseline
+305196102,2019-09-29,43.53608,4.622393,Vanellus vanellus,Northern Lapwing,Aves,4857,mediterranean_2022,baseline
+305196088,2019-09-29,43.53608,4.622393,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,baseline
+305196075,2019-09-29,43.53608,4.622393,Limosa lapponica,Bar-tailed Godwit,Aves,3951,mediterranean_2022,baseline
+305196065,2019-09-29,43.53608,4.622393,Numenius arquata,Eurasian Curlew,Aves,3896,mediterranean_2022,baseline
+305196056,2019-09-29,43.53608,4.622393,Tringa nebularia,Common Greenshank,Aves,3878,mediterranean_2022,baseline
+305196047,2019-09-29,43.53608,4.622393,Hydroprogne caspia,Caspian Tern,Aves,144537,mediterranean_2022,baseline
+305196034,2019-09-29,43.53608,4.622393,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,baseline
+305196016,2019-09-29,43.53608,4.622393,Pandion haliaetus,Osprey,Aves,116999,mediterranean_2022,baseline
+262002369,2019-09-29,32.8358791324,34.9771318532,Pseudocaranx dentex,Silver Trevally,Actinopterygii,204776,mediterranean_2022,baseline
+262002366,2019-09-29,32.836373318,34.9796234501,Diplodus vulgaris,Common Two-banded Seabream,Actinopterygii,118667,mediterranean_2022,baseline
+262002362,2019-09-29,32.8366814335,34.9798971006,Pomadasys incisus,Bastard Grunt,Actinopterygii,110029,mediterranean_2022,baseline
+262002361,2019-09-29,32.8362088293,34.9779062289,Herklotsichthys punctatus,Spotback Herring,Actinopterygii,611789,mediterranean_2022,baseline
+58330944,2019-09-29,40.8699265669,-4.1489273478,Dama dama,European Fallow Deer,Mammalia,42161,mediterranean_2022,baseline
+37695039,2019-09-29,43.9250853,2.1486413,Limax maximus,Leopard Slug,Mollusca,62470,mediterranean_2022,baseline
+35144418,2019-09-29,42.0524850446,3.2041367143,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+35143633,2019-09-29,41.964426639,3.2292371616,Peltodoris atromaculata,Leopard Sea Slug,Mollusca,326343,mediterranean_2022,baseline
+33613668,2019-09-29,32.503705,34.8916033333,Ardea ibis,Western Cattle-Egret,Aves,411086,mediterranean_2022,baseline
+33597348,2019-09-29,43.3298692517,5.0507976978,Apogon imberbis,Mediterranean Cardinalfish,Actinopterygii,118514,mediterranean_2022,baseline
+33580488,2019-09-29,30.8476135426,34.6403968068,Capra nubiana,Nubian Ibex,Mammalia,42352,mediterranean_2022,baseline
+33723765,2019-09-28,36.8610400209,7.2867678407,Buteo rufinus,Long-legged Buzzard,Aves,5192,mediterranean_2022,baseline
+33723771,2019-09-28,36.9195216665,7.1692271376,Emberiza cirlus,Cirl Bunting,Aves,9192,mediterranean_2022,baseline
+33723775,2019-09-28,36.916805202,7.1702745025,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,baseline
+33723767,2019-09-28,36.9191023793,7.1690585373,Emberiza cirlus,Cirl Bunting,Aves,9192,mediterranean_2022,baseline
+33723766,2019-09-28,36.918489087,7.1689430947,Emberiza cirlus,Cirl Bunting,Aves,9192,mediterranean_2022,baseline
+33671043,2019-09-28,36.9190629072,7.1695927737,Curruca melanocephala,Sardinian Warbler,Aves,1289472,mediterranean_2022,baseline
+33671044,2019-09-28,36.9191989692,7.1691943621,Curruca melanocephala,Sardinian Warbler,Aves,1289472,mediterranean_2022,baseline
+33671042,2019-09-28,36.9192521838,7.1697183981,Turdus merula,Eurasian Blackbird,Aves,12716,mediterranean_2022,baseline
+33671041,2019-09-28,36.9194196963,7.1693161996,Galerida cristata,Crested Lark,Aves,578607,mediterranean_2022,baseline
+33535186,2019-09-28,36.8881816,-2.4445519,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,baseline
+55827278,2019-09-28,41.2045063925,22.7743836709,Microcarbo pygmaeus,Pygmy Cormorant,Aves,979813,mediterranean_2022,baseline
+33667176,2019-09-28,36.8886474026,7.2086038911,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,baseline
+33667174,2019-09-28,36.887903319,7.2057209354,Podiceps cristatus,Great Crested Grebe,Aves,4208,mediterranean_2022,baseline
+33613416,2019-09-28,36.8860532956,7.1934485323,Buteo rufinus cirtensis,Atlas Long-legged Buzzard,Aves,512764,mediterranean_2022,baseline
+33613417,2019-09-28,36.8872623556,7.2054439953,Thinornis dubius,Little Ringed Plover,Aves,1580336,mediterranean_2022,baseline
+33555062,2019-09-28,36.887295732,7.20614641,Thinornis dubius,Little Ringed Plover,Aves,1580336,mediterranean_2022,baseline
+33555059,2019-09-28,36.8882517199,7.2057709007,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,baseline
+33555055,2019-09-28,36.8879170683,7.2067418602,Podiceps cristatus,Great Crested Grebe,Aves,4208,mediterranean_2022,baseline
+33555053,2019-09-28,36.8877617544,7.2041883974,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,baseline
+33555050,2019-09-28,36.8873267001,7.2053739338,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,baseline
+33556641,2019-09-28,42.7312083428,21.3487283333,Mus musculus,House Mouse,Mammalia,44705,mediterranean_2022,baseline
+82447799,2019-09-28,37.174775,-3.58459,Erithacus rubecula,European Robin,Aves,13094,mediterranean_2022,baseline
+82447792,2019-09-28,37.17485,-3.5845866667,Erithacus rubecula,European Robin,Aves,13094,mediterranean_2022,baseline
+82447793,2019-09-28,37.1748316667,-3.5846133333,Erithacus rubecula,European Robin,Aves,13094,mediterranean_2022,baseline
+82447791,2019-09-28,37.174835,-3.5846516667,Erithacus rubecula,European Robin,Aves,13094,mediterranean_2022,baseline
+33710541,2019-09-28,41.3142508246,19.4403157429,Erithacus rubecula,European Robin,Aves,13094,mediterranean_2022,baseline
+160946598,2019-09-28,33.5429104,-0.2748757,Buteo rufinus,Long-legged Buzzard,Aves,5192,mediterranean_2022,baseline
+33544053,2019-09-28,44.0276334184,28.6592232812,Hippocampus guttulatus,Long-snouted Seahorse,Actinopterygii,102821,mediterranean_2022,baseline
+33543300,2019-09-28,44.049606252,28.6434060228,Helix lucorum,Turkish Snail,Mollusca,336841,mediterranean_2022,baseline
+160946595,2019-09-28,35.2105876,-0.629983,Pica mauritanica,Maghreb Magpie,Aves,827398,mediterranean_2022,baseline
+33937239,2019-09-28,44.9233220618,9.5767193288,Hystrix cristata,Crested Porcupine,Mammalia,44171,mediterranean_2022,baseline
+132909851,2019-09-28,38.3069382549,-4.9390532076,Dama dama,European Fallow Deer,Mammalia,42161,mediterranean_2022,baseline
+132909175,2019-09-28,38.2976342125,-4.953035228,Cervus elaphus elaphus,European Red Deer,Mammalia,320998,mediterranean_2022,baseline
+141451928,2019-09-28,35.1721474463,-0.6440666628,Falco subbuteo,Eurasian Hobby,Aves,4643,mediterranean_2022,baseline
+82447788,2019-09-28,37.1777716667,-3.5943533333,Anser anser,Greylag Goose,Aves,7018,mediterranean_2022,baseline
+82447785,2019-09-28,37.177775,-3.5943466667,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,baseline
+33536655,2019-09-28,43.7142392414,7.2828073181,Rattus norvegicus,Brown Rat,Mammalia,44576,mediterranean_2022,baseline
+33536607,2019-09-28,43.7141054834,7.28296136,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,baseline
+33786671,2019-09-28,44.8895158918,5.2665522695,Cervus elaphus,Red Deer,Mammalia,204113,mediterranean_2022,baseline
+33640597,2019-09-28,43.7129879376,4.0067946315,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+33640561,2019-09-28,43.7130308137,4.0067787112,Phoenicurus ochruros,Black Redstart,Aves,13000,mediterranean_2022,baseline
+33547565,2019-09-28,44.6702400267,11.7549563252,Myocastor coypus,Coypu,Mammalia,43997,mediterranean_2022,baseline
+33543155,2019-09-28,43.765297761,11.2867630273,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,baseline
+33547566,2019-09-28,44.6670154945,11.7579414375,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,baseline
+33786256,2019-09-28,44.8918878448,5.268340297,Cervus elaphus,Red Deer,Mammalia,204113,mediterranean_2022,baseline
+33543062,2019-09-28,42.1679231722,3.0458714919,Aythya ferina,Common Pochard,Aves,7045,mediterranean_2022,baseline
+70939966,2019-09-28,43.785103,11.213833,Passer italiae,Italian Sparrow,Aves,201233,mediterranean_2022,baseline
+33607577,2019-09-28,39.6443646126,22.4119698075,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,baseline
+80567999,2019-09-28,41.1550963318,1.056717887,Athene noctua,Little Owl,Aves,19998,mediterranean_2022,baseline
+259692488,2019-09-28,42.6604337538,3.3120921822,Tursiops truncatus,Common Bottlenose Dolphin,Mammalia,41482,mediterranean_2022,baseline
+33607575,2019-09-28,39.644802466,22.412656453,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+70939968,2019-09-28,43.785103,11.213833,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,baseline
+33607573,2019-09-28,39.6444307038,22.4122286407,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+33607572,2019-09-28,39.6447704533,22.4116215396,Anser anser domesticus,Domestic Greylag Goose,Aves,120479,mediterranean_2022,baseline
+33645245,2019-09-28,44.404940363,8.9591528386,Psittacula krameri,Rose-ringed Parakeet,Aves,18911,mediterranean_2022,baseline
+33537536,2019-09-28,43.6836274525,3.9255694043,Phoenicurus ochruros,Black Redstart,Aves,13000,mediterranean_2022,baseline
+70939970,2019-09-28,43.785103,11.213833,Garrulus glandarius,Eurasian Jay,Aves,8088,mediterranean_2022,baseline
+33607569,2019-09-28,39.6447343098,22.4122438121,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,baseline
+328264368,2019-09-28,43.240575,-4.82997,Arion ater,Black Slug,Mollusca,82003,mediterranean_2022,baseline
+33607563,2019-09-28,39.6443316353,22.4120811192,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+33607580,2019-09-28,39.6437688355,22.4129097276,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+33607561,2019-09-28,39.6440301067,22.4131806307,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+33607560,2019-09-28,39.6445650337,22.4132626323,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+254144763,2019-09-28,37.5099831609,23.4450350375,Aplus dorbignyi,,Mollusca,518744,mediterranean_2022,baseline
+33607562,2019-09-28,39.6456803122,22.4128775411,Muscicapa striata,Spotted Flycatcher,Aves,12971,mediterranean_2022,baseline
+70939973,2019-09-28,43.785103,11.213833,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,baseline
+33607558,2019-09-28,39.6440209449,22.4117230443,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+33607557,2019-09-28,39.6446001308,22.411783394,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+33607556,2019-09-28,39.6444410306,22.412357806,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+54175645,2019-09-28,41.7724752296,13.9423240439,Cervus elaphus,Red Deer,Mammalia,204113,mediterranean_2022,baseline
+33607555,2019-09-28,39.6444978277,22.4127686867,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+70939969,2019-09-28,43.785103,11.213833,Picus viridis,Eurasian Green Woodpecker,Aves,144243,mediterranean_2022,baseline
+33607554,2019-09-28,39.6448107274,22.4116974799,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+33607553,2019-09-28,39.6446971336,22.4117222913,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+259692487,2019-09-28,42.6843715685,3.339053395,Stenella coeruleoalba,Striped Dolphin,Mammalia,41494,mediterranean_2022,baseline
+33607551,2019-09-28,39.6448746658,22.4124706276,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,baseline
+33607550,2019-09-28,39.6447822733,22.4124122896,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,baseline
+33539511,2019-09-28,38.5033594177,15.9179150512,Charadrius hiaticula,Common Ringed Plover,Aves,4801,mediterranean_2022,baseline
+34116363,2019-09-28,34.914246199,32.629236512,Oenanthe cypriaca,Cyprus Wheatear,Aves,12834,mediterranean_2022,baseline
+33607544,2019-09-28,39.644637183,22.4126033951,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+70939967,2019-09-28,43.785103,11.213833,Columba palumbus,Common Wood-Pigeon,Aves,3048,mediterranean_2022,baseline
+33607540,2019-09-28,39.6446010394,22.4121983815,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+34241772,2019-09-28,43.464356,3.816814,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,baseline
+33607536,2019-09-28,39.644647168,22.4123173324,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,baseline
+33607535,2019-09-28,39.6444845219,22.4122127262,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+33607533,2019-09-28,39.6444514203,22.4121369538,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+33606246,2019-09-28,39.6441140229,22.4118291954,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,baseline
+33606237,2019-09-28,39.6438682516,22.4124464512,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,baseline
+33606230,2019-09-28,39.6436357713,22.4123861015,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+33606227,2019-09-28,39.6438558735,22.4116028965,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,baseline
+33606225,2019-09-28,39.6436840556,22.4121400088,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+33606220,2019-09-28,39.6437132192,22.4124136191,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+33539510,2019-09-28,38.5041626505,15.9187520724,Haematopus ostralegus,Eurasian Oystercatcher,Aves,4843,mediterranean_2022,baseline
+33606211,2019-09-28,39.643810808,22.4121321372,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+33711188,2019-09-28,36.477713389,23.0669975281,Mullus barbatus,Red Mullet,Actinopterygii,118618,mediterranean_2022,baseline
+33539509,2019-09-28,38.5027728348,15.9188213839,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,baseline
+33604357,2019-09-28,36.4777753951,23.066974394,Sparisoma cretense,European Parrotfish,Actinopterygii,112860,mediterranean_2022,baseline
+33606205,2019-09-28,39.6437612197,22.4121189261,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,baseline
+33606195,2019-09-28,39.6437765933,22.4116137297,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+33605574,2019-09-28,39.6451552236,22.4131612696,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,baseline
+33605573,2019-09-28,39.645113917,22.413268558,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,baseline
+33605569,2019-09-28,39.6451923995,22.4132444181,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,baseline
+33605564,2019-09-28,39.6452997965,22.4132712402,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+34241745,2019-09-28,43.464356,3.816814,Carduelis carduelis,European Goldfinch,Aves,9398,mediterranean_2022,baseline
+33605554,2019-09-28,39.6451614195,22.4128039868,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+33605546,2019-09-28,39.6453121884,22.4128458041,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+33605543,2019-09-28,39.6454278465,22.4133898063,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+33605535,2019-09-28,39.6450922106,22.4130206337,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+33605534,2019-09-28,39.6457572441,22.4130386718,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+33605533,2019-09-28,39.6456168028,22.4133183589,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,baseline
+33605528,2019-09-28,39.6453233864,22.4130504778,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,baseline
+33548711,2019-09-28,41.8439407349,12.4597482681,Rumina decollata,Decollate Snail,Mollusca,125669,mediterranean_2022,baseline
+42845423,2019-09-28,44.5401372778,34.2765734722,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+33534493,2019-09-28,44.8095931456,-0.5888105929,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,baseline
+70939972,2019-09-28,43.785103,11.213833,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,baseline
+33601811,2019-09-28,39.6472275632,22.4262665924,Eobania vermiculata,Chocolate-band Snail,Mollusca,199875,mediterranean_2022,baseline
+33766392,2019-09-28,44.6967155211,12.2104620665,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,baseline
+33766391,2019-09-28,44.6940053,12.1793532,Hydroprogne caspia,Caspian Tern,Aves,144537,mediterranean_2022,baseline
+33790270,2019-09-28,44.8622114635,12.2902829154,Hydroprogne caspia,Caspian Tern,Aves,144537,mediterranean_2022,baseline
+37348587,2019-09-28,35.0429748162,32.4307388095,Melopsittacus undulatus domesticus,Domestic Budgerigar,Aves,507971,mediterranean_2022,baseline
+33939701,2019-09-28,44.6044598356,33.440395841,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,baseline
+33527824,2019-09-28,36.740479446,12.0197720267,Oryctolagus cuniculus,European Rabbit,Mammalia,43151,mediterranean_2022,baseline
+33940448,2019-09-28,35.0416335907,32.4286084046,Cisticola juncidis,Zitting Cisticola,Aves,7697,mediterranean_2022,baseline
+34452400,2019-09-28,38.7152302516,-0.4694674811,Monticola solitarius,Blue Rock-Thrush,Aves,13141,mediterranean_2022,baseline
+34452399,2019-09-28,38.7152302516,-0.4694674811,Saxicola rubicola,European Stonechat,Aves,201192,mediterranean_2022,baseline
+160946592,2019-09-28,33.5429104,-0.2748757,Oenanthe deserti,Desert Wheatear,Aves,12842,mediterranean_2022,baseline
+70939971,2019-09-28,43.785103,11.213833,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,baseline
+33940389,2019-09-28,35.0441193374,32.4249700314,Ardea alba,Great Egret,Aves,144455,mediterranean_2022,baseline
+33940376,2019-09-28,35.0416743361,32.4234937141,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,baseline
+71218664,2019-09-28,43.7304660171,7.4028247967,Sus scrofa,Wild Boar,Mammalia,42134,mediterranean_2022,baseline
+160946591,2019-09-28,33.5429104,-0.2748757,Caprimulgus europaeus,Eurasian Nightjar,Aves,19410,mediterranean_2022,baseline
+210676041,2019-09-28,40.0526478648,31.746549006,Oenanthe finschii,Finsch's Wheatear,Aves,12828,mediterranean_2022,baseline
+149723796,2019-09-28,42.5984862616,3.3142739932,Stenella coeruleoalba,Striped Dolphin,Mammalia,41494,mediterranean_2022,baseline
+33790271,2019-09-28,44.8576209,12.2443794,Myocastor coypus,Coypu,Mammalia,43997,mediterranean_2022,baseline
+39238258,2019-09-28,44.721552822,8.5992308334,Capreolus capreolus,Western Roe Deer,Mammalia,42184,mediterranean_2022,baseline
+68054114,2019-09-28,43.6293941,10.6299796,Limax maximus,Leopard Slug,Mollusca,62470,mediterranean_2022,baseline
+33530194,2019-09-28,40.2865259015,17.8529059827,Theba pisana,White Italian Snail,Mollusca,119608,mediterranean_2022,baseline
+38259843,2019-09-28,44.8979876179,9.262481198,Phoenicurus ochruros,Black Redstart,Aves,13000,mediterranean_2022,baseline
+160946691,2019-09-28,33.5429104,-0.2748757,Galerida cristata,Crested Lark,Aves,578607,mediterranean_2022,baseline
+33523888,2019-09-28,35.0397648498,32.4408171099,Anguilla anguilla,European Eel,Actinopterygii,94105,mediterranean_2022,baseline
+33817418,2019-09-28,35.0635062793,32.519008213,Dicentrarchus labrax,European Seabass,Actinopterygii,99269,mediterranean_2022,baseline
+33817129,2019-09-28,35.0443017835,32.4189672218,Parupeneus forsskali,Red Sea Goatfish,Actinopterygii,359362,mediterranean_2022,baseline
+33817026,2019-09-28,35.0440865103,32.4183659784,Diplodus vulgaris,Common Two-banded Seabream,Actinopterygii,118667,mediterranean_2022,baseline
+33523338,2019-09-28,42.7859306335,17.3779067993,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+38087166,2019-09-28,44.0541462341,9.8366280645,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+33816842,2019-09-28,35.0441578643,32.4186395824,Sparisoma cretense,European Parrotfish,Actinopterygii,112860,mediterranean_2022,baseline
+33816738,2019-09-28,35.0442558768,32.4189140609,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,baseline
+33816614,2019-09-28,35.0442165753,32.4189370756,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,baseline
+33525229,2019-09-28,35.2153018115,5.7115612552,Emberiza sahari,House Bunting,Aves,201231,mediterranean_2022,baseline
+60210874,2019-09-28,41.313369751,19.4407749176,Periparus ater,Coal Tit,Aves,144823,mediterranean_2022,baseline
+33790274,2019-09-28,44.8576209,12.2443794,Falco subbuteo,Eurasian Hobby,Aves,4643,mediterranean_2022,baseline
+33522666,2019-09-28,39.5543676492,2.6204718169,Gulosus aristotelis,European Shag,Aves,1289604,mediterranean_2022,baseline
+33528783,2019-09-28,41.7511749268,2.6617150307,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,baseline
+190188714,2019-09-28,36.7717158,3.3351139,Chlidonias leucopterus,White-winged Tern,Aves,4514,mediterranean_2022,baseline
+33543221,2019-09-28,43.2066772955,22.2946499924,Muscicapa striata,Spotted Flycatcher,Aves,12971,mediterranean_2022,baseline
+33940231,2019-09-28,35.0438423286,32.418825886,Alcedo atthis,Common Kingfisher,Aves,2599,mediterranean_2022,baseline
+160946685,2019-09-28,33.5429104,-0.2748757,Alaemon alaudipes,Greater Hoopoe-Lark,Aves,7353,mediterranean_2022,baseline
+33529554,2019-09-28,37.9614048107,23.8030471336,Phylloscopus trochilus acredula,Northern willow warbler,Aves,566297,mediterranean_2022,baseline
+200405021,2019-09-28,42.6272547,0.9941437,Gyps fulvus,Eurasian Griffon,Aves,5366,mediterranean_2022,baseline
+142815747,2019-09-28,43.5189307771,3.9099391161,Dosinia lupinus,Smooth Artemis,Mollusca,448234,mediterranean_2022,baseline
+142815725,2019-09-28,43.5439111176,3.9800109458,Gari depressa,Large Sunset Clam,Mollusca,483096,mediterranean_2022,baseline
+33527413,2019-09-28,37.9630300764,23.8054653891,Otus scops,Eurasian Scops-Owl,Aves,20244,mediterranean_2022,baseline
+66409132,2019-09-28,42.2392723566,1.2055138395,Gyps fulvus,Eurasian Griffon,Aves,5366,mediterranean_2022,baseline
+183507575,2019-09-28,41.9172482054,3.2120981187,Octopus vulgaris,Common Octopus,Mollusca,49315,mediterranean_2022,baseline
+142815706,2019-09-28,43.5439111176,3.9800109458,Spisula subtruncata,Cut Trough Shell,Mollusca,483135,mediterranean_2022,baseline
+33522491,2019-09-28,43.6498641608,11.8339080787,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,baseline
+33689689,2019-09-28,43.5956616667,1.471055,Erinaceus europaeus,Common Hedgehog,Mammalia,43042,mediterranean_2022,baseline
+183507574,2019-09-28,41.9172482054,3.2120981187,Parablennius gattorugine,Tompot Blenny,Actinopterygii,118685,mediterranean_2022,baseline
+183507572,2019-09-28,41.9172482054,3.2120981187,Muraena helena,Mediterranean Moray,Actinopterygii,118590,mediterranean_2022,baseline
+183507569,2019-09-28,41.9172482054,3.2120981187,Serranus scriba,Painted Comber,Actinopterygii,118674,mediterranean_2022,baseline
+33527359,2019-09-28,37.9601204116,23.8035860832,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+183507566,2019-09-28,41.9172482054,3.2120981187,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,baseline
+33528037,2019-09-28,32.8323554993,35.3351364136,Mus musculus,House Mouse,Mammalia,44705,mediterranean_2022,baseline
+33790276,2019-09-28,44.6681075,12.2153528,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,baseline
+142820006,2019-09-28,43.5451991873,3.9867676735,Patella rustica,,Mollusca,546796,mediterranean_2022,baseline
+183507563,2019-09-28,41.9172482054,3.2120981187,Parablennius sanguinolentus,Rusty Blenny,Actinopterygii,118686,mediterranean_2022,baseline
+33527116,2019-09-28,37.9620783333,23.8058,Phylloscopus trochilus,Willow Warbler,Aves,117055,mediterranean_2022,baseline
+183507560,2019-09-28,41.9172482054,3.2120981187,Coris julis,Mediterranean Rainbow Wrasse,Actinopterygii,50968,mediterranean_2022,baseline
+183507559,2019-09-28,41.9172482054,3.2120981187,Symphodus tinca,East Atlantic Peacock Wrasse,Actinopterygii,52554,mediterranean_2022,baseline
+33940930,2019-09-28,37.6205273326,-4.6261731317,Lanius senator,Woodchat Shrike,Aves,12039,mediterranean_2022,baseline
+183507556,2019-09-28,41.9172482054,3.2120981187,Sparus aurata,Gilthead Seabream,Actinopterygii,1494783,mediterranean_2022,baseline
+142815693,2019-09-28,43.5401990381,4.0000719174,Fissurella nubecula,Cloudy Keyhole Limpet,Mollusca,635246,mediterranean_2022,baseline
+183507555,2019-09-28,41.9172482054,3.2120981187,Diplodus vulgaris,Common Two-banded Seabream,Actinopterygii,118667,mediterranean_2022,baseline
+142815692,2019-09-28,43.5401990381,4.0000719174,Diodora graeca,Common Keyhole Limpet,Mollusca,482206,mediterranean_2022,baseline
+33538396,2019-09-28,37.9640154521,23.8040762451,Strix aluco,Tawny Owl,Aves,19898,mediterranean_2022,baseline
+183507554,2019-09-28,41.9172482054,3.2120981187,Symphodus tinca,East Atlantic Peacock Wrasse,Actinopterygii,52554,mediterranean_2022,baseline
+39526003,2019-09-28,34.9110882529,32.6332400165,Oenanthe cypriaca,Cyprus Wheatear,Aves,12834,mediterranean_2022,baseline
+160946684,2019-09-28,33.5429104,-0.2748757,Pterocles alchata,Pin-tailed Sandgrouse,Aves,117078,mediterranean_2022,baseline
+160946683,2019-09-28,33.5429104,-0.2748757,Pterocles alchata,Pin-tailed Sandgrouse,Aves,117078,mediterranean_2022,baseline
+33539001,2019-09-28,37.9648574617,23.8024439712,Turdus merula aterrimus,Southeastern European Blackbird,Aves,732007,mediterranean_2022,baseline
+33539318,2019-09-28,37.9641332527,23.8042810177,Garrulus glandarius graecus,Greek Jay,Aves,711043,mediterranean_2022,baseline
+33577271,2019-09-28,42.714445,18.3519716667,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,baseline
+183507553,2019-09-28,41.9172800165,3.2120936077,Mullus surmuletus,Striped Red Mullet,Actinopterygii,118619,mediterranean_2022,baseline
+33790279,2019-09-28,44.6681075,12.2153528,Numenius arquata,Eurasian Curlew,Aves,3896,mediterranean_2022,baseline
+109578982,2019-09-28,43.8686746334,15.9763869869,Parus major,Great Tit,Aves,203153,mediterranean_2022,baseline
+33790282,2019-09-28,44.6681075,12.2153528,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+109518462,2019-09-28,43.8662815819,15.965790288,Fringilla coelebs,Common Chaffinch,Aves,10070,mediterranean_2022,baseline
+141451889,2019-09-28,33.1033793268,-0.1617666242,Lanius excubitor,Great Grey Shrike,Aves,559070,mediterranean_2022,baseline
+33746977,2019-09-28,42.0003849461,11.9870438799,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,baseline
+33939591,2019-09-28,35.0452847112,32.4197891193,Gulosus aristotelis desmarestii,Mediterranean Shag,Aves,1290249,mediterranean_2022,baseline
+33939518,2019-09-28,35.0452735308,32.4197041688,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,baseline
+33520103,2019-09-28,42.7866172791,17.3802051544,Hexaplex trunculus,Banded Dye-murex,Mollusca,326443,mediterranean_2022,baseline
+33790285,2019-09-28,44.6681075,12.2153528,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,baseline
+33790288,2019-09-28,44.6681075,12.2153528,Himantopus himantopus,Black-winged Stilt,Aves,4835,mediterranean_2022,baseline
+33766388,2019-09-28,44.6681075,12.2153528,Thinornis dubius,Little Ringed Plover,Aves,1580336,mediterranean_2022,baseline
+33790290,2019-09-28,44.6681075,12.2153528,Thinornis dubius,Little Ringed Plover,Aves,1580336,mediterranean_2022,baseline
+33790291,2019-09-28,44.6681075,12.2153528,Tringa erythropus,Spotted Redshank,Aves,3882,mediterranean_2022,baseline
+33790295,2019-09-28,44.6681075,12.2153528,Calidris pugnax,Ruff,Aves,339593,mediterranean_2022,baseline
+33526710,2019-09-28,32.0669416667,34.7963533333,Acridotheres tristis,Common Myna,Aves,204454,mediterranean_2022,baseline
+33521423,2019-09-28,37.0121680759,-3.090131324,Regulus ignicapilla,Common Firecrest,Aves,117097,mediterranean_2022,baseline
+160946663,2019-09-28,33.5429104,-0.2748757,Ramphocoris clotbey,Thick-billed Lark,Aves,144775,mediterranean_2022,baseline
+160946662,2019-09-28,33.5429104,-0.2748757,Alaudala rufescens,Mediterranean Short-toed Lark,Aves,546379,mediterranean_2022,baseline
+141931573,2019-09-28,41.7679688,1.8053264,Galerida cristata,Crested Lark,Aves,578607,mediterranean_2022,baseline
+160946661,2019-09-28,33.5429104,-0.2748757,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+160946656,2019-09-28,33.5429104,-0.2748757,Eremophila bilopha,Temminck's Lark,Aves,7316,mediterranean_2022,baseline
+160946650,2019-09-28,33.5429104,-0.2748757,Ramphocoris clotbey,Thick-billed Lark,Aves,144775,mediterranean_2022,baseline
+33816484,2019-09-28,35.0442402991,32.418959515,Parupeneus forsskali,Red Sea Goatfish,Actinopterygii,359362,mediterranean_2022,baseline
+160946649,2019-09-28,33.5429104,-0.2748757,Pterocles alchata,Pin-tailed Sandgrouse,Aves,117078,mediterranean_2022,baseline
+160946646,2019-09-28,33.5429104,-0.2748757,Eremophila bilopha,Temminck's Lark,Aves,7316,mediterranean_2022,baseline
+160946639,2019-09-28,33.5429104,-0.2748757,Eremophila bilopha,Temminck's Lark,Aves,7316,mediterranean_2022,baseline
+33790299,2019-09-28,44.6681075,12.2153528,Podiceps cristatus,Great Crested Grebe,Aves,4208,mediterranean_2022,baseline
+160946638,2019-09-28,33.5429104,-0.2748757,Passer hispaniolensis,Spanish Sparrow,Aves,13854,mediterranean_2022,baseline
+216107222,2019-09-28,42.9201974945,10.7441432047,Chromis chromis,Mediterranean Damselfish,Actinopterygii,118682,mediterranean_2022,baseline
+160946636,2019-09-28,33.5429104,-0.2748757,Ramphocoris clotbey,Thick-billed Lark,Aves,144775,mediterranean_2022,baseline
+160946629,2019-09-28,33.5429104,-0.2748757,Ramphocoris clotbey,Thick-billed Lark,Aves,144775,mediterranean_2022,baseline
+33790301,2019-09-28,44.6681075,12.2153528,Podiceps nigricollis,Eared Grebe,Aves,4205,mediterranean_2022,baseline
+33519332,2019-09-28,33.1452483799,35.7125111441,Gazella gazella,Mountain Gazelle,Mammalia,74352,mediterranean_2022,baseline
+33767346,2019-09-28,41.0696896634,28.6811245852,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,baseline
+33790302,2019-09-28,44.6681075,12.2153528,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,baseline
+160946628,2019-09-28,33.5429104,-0.2748757,Ramphocoris clotbey,Thick-billed Lark,Aves,144775,mediterranean_2022,baseline
+160946624,2019-09-28,33.5429104,-0.2748757,Ramphocoris clotbey,Thick-billed Lark,Aves,144775,mediterranean_2022,baseline
+33790275,2019-09-28,44.6681075,12.2153528,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,baseline
+33532378,2019-09-28,41.2994651794,19.4965953827,Ensis minor,Jackknife Clam,Mollusca,253502,mediterranean_2022,baseline
+33519177,2019-09-28,44.8851585388,-0.2858833969,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,baseline
+34260469,2019-09-28,37.3853533333,27.25677,Canis familiaris,Domestic Dog,Mammalia,47144,mediterranean_2022,baseline
+103912288,2019-09-28,43.8667686419,15.9749827783,Microcarbo pygmaeus,Pygmy Cormorant,Aves,979813,mediterranean_2022,baseline
+166573478,2019-09-28,33.3409269009,-0.2464775868,Eremophila bilopha,Temminck's Lark,Aves,7316,mediterranean_2022,baseline
+179539952,2019-09-28,38.222997,-3.974868,Capra pyrenaica,Iberian Ibex,Mammalia,42350,mediterranean_2022,baseline
+166573476,2019-09-28,33.3409269009,-0.2464775868,Bucanetes githagineus,Trumpeter Finch,Aves,72572,mediterranean_2022,baseline
+33532574,2019-09-28,41.3007049561,19.4922981262,Patella caerulea,Mediterranean Limpet,Mollusca,359068,mediterranean_2022,baseline
+185465520,2019-09-28,33.5429104,-0.2748757,Ramphocoris clotbey,Thick-billed Lark,Aves,144775,mediterranean_2022,baseline
+166573470,2019-09-28,33.3409269009,-0.2464775868,Riparia riparia,Bank Swallow,Aves,11941,mediterranean_2022,baseline
+185465515,2019-09-28,33.5429104,-0.2748757,Ramphocoris clotbey,Thick-billed Lark,Aves,144775,mediterranean_2022,baseline
+33518852,2019-09-28,44.9419382059,34.08635815,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,baseline
+33521109,2019-09-28,41.3036117554,19.4919452667,Solen marginatus,Grooved Razor Shell,Mollusca,210229,mediterranean_2022,baseline
+33815620,2019-09-28,35.0445586343,32.418994292,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,baseline
+33815536,2019-09-28,35.0442265619,32.4188151048,Thalassoma pavo,Ornate Wrasse,Actinopterygii,50972,mediterranean_2022,baseline
+33521167,2019-09-28,41.3077774048,19.4869441986,Mactra stultorum,Rayed Trough Shell,Mollusca,366852,mediterranean_2022,baseline
+33549234,2019-09-28,41.9433629654,0.8515866101,Gyps fulvus,Eurasian Griffon,Aves,5366,mediterranean_2022,baseline
+33524623,2019-09-28,41.7462620142,1.8165775736,Curruca communis,Common Whitethroat,Aves,1289470,mediterranean_2022,baseline
+33521214,2019-09-28,41.3147239685,19.4894447327,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,baseline
+33654054,2019-09-28,42.3751306,3.0258696,Neogale vison,American Mink,Mammalia,1264432,mediterranean_2022,baseline
+219927516,2019-09-28,33.4497366667,-0.12108,Eremophila bilopha,Temminck's Lark,Aves,7316,mediterranean_2022,baseline
+54178686,2019-09-28,41.7104092647,13.8473540056,Rupicapra pyrenaica ornata,Apennine Chamois,Mammalia,333550,mediterranean_2022,baseline
+185465554,2019-09-28,33.5429104,-0.2748757,Ramphocoris clotbey,Thick-billed Lark,Aves,144775,mediterranean_2022,baseline
+185460745,2019-09-28,33.5602563915,-0.1650672644,Ramphocoris clotbey,Thick-billed Lark,Aves,144775,mediterranean_2022,baseline
+219927366,2019-09-28,33.4498216667,-0.121005,Ramphocoris clotbey,Thick-billed Lark,Aves,144775,mediterranean_2022,baseline
+219927466,2019-09-28,33.4498216667,-0.121005,Bucanetes githagineus,Trumpeter Finch,Aves,72572,mediterranean_2022,baseline
+147165739,2019-09-28,36.9700013071,36.4061721795,Circus aeruginosus,Western Marsh Harrier,Aves,5173,mediterranean_2022,baseline
+185465551,2019-09-28,33.5429104,-0.2748757,Alaudala rufescens,Mediterranean Short-toed Lark,Aves,546379,mediterranean_2022,baseline
+185465548,2019-09-28,33.5429104,-0.2748757,Bucanetes githagineus,Trumpeter Finch,Aves,72572,mediterranean_2022,baseline
+48559683,2019-09-28,33.5428376,-0.2751123,Alaudala rufescens,Mediterranean Short-toed Lark,Aves,546379,mediterranean_2022,baseline
+185465547,2019-09-28,33.5429104,-0.2748757,Alaudala rufescens,Mediterranean Short-toed Lark,Aves,546379,mediterranean_2022,baseline
+240986169,2019-09-28,37.798886,23.777573,Coryphaena hippurus,Common Dolphinfish,Actinopterygii,98531,mediterranean_2022,baseline
+255798790,2019-09-28,40.5264114,21.2904644,Luscinia svecica,Bluethroat,Aves,13071,mediterranean_2022,baseline
+278966756,2019-09-28,41.7651741057,13.9463077113,Cervus elaphus,Red Deer,Mammalia,204113,mediterranean_2022,baseline
+179539950,2019-09-28,38.1568329259,-3.9452933722,Cervus elaphus,Red Deer,Mammalia,204113,mediterranean_2022,baseline
+179539949,2019-09-28,38.1566294165,-3.9453792029,Ovis aries musimon,European Mouflon,Mammalia,340942,mediterranean_2022,baseline
+33939248,2019-09-28,35.0442664801,32.4297293069,Calandrella brachydactyla,Greater Short-toed Lark,Aves,578093,mediterranean_2022,baseline
+33939206,2019-09-28,35.0444442405,32.429969582,Calandrella brachydactyla,Greater Short-toed Lark,Aves,578093,mediterranean_2022,baseline
+33939146,2019-09-28,35.0445621724,32.4301355096,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,baseline
+33939097,2019-09-28,35.0439972074,32.4292914201,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,baseline
+33556108,2019-09-28,42.0912765162,0.6860128418,Cyanistes caeruleus,Eurasian Blue Tit,Aves,144849,mediterranean_2022,baseline
+33523216,2019-09-28,40.7197033333,19.368705,Chloris chloris,European Greenfinch,Aves,145360,mediterranean_2022,baseline
+33593175,2019-09-28,39.2785846049,3.0471476912,Passer italiae,Italian Sparrow,Aves,201233,mediterranean_2022,baseline
+34742716,2019-09-28,44.3565551837,9.1668150345,Sus scrofa,Wild Boar,Mammalia,42134,mediterranean_2022,baseline
+33856954,2019-09-28,41.9640644196,3.228419888,Luria lurida,Lurid Cowry,Mollusca,342274,mediterranean_2022,baseline
+262002352,2019-09-28,32.8363246507,34.9779568416,Herklotsichthys punctatus,Spotback Herring,Actinopterygii,611789,mediterranean_2022,baseline
+262002350,2019-09-28,32.8361729838,34.977821843,Sarpa salpa,Salema Porgy,Actinopterygii,118663,mediterranean_2022,baseline
+262002347,2019-09-28,32.836058628,34.9778744917,Atherinomorus forskalii,Red Sea Hardyhead Silverside,Actinopterygii,608753,mediterranean_2022,baseline
+262002346,2019-09-28,32.8347605101,34.9752834778,Mycteroperca rubra,Mottled Grouper,Actinopterygii,64452,mediterranean_2022,baseline
+254116620,2019-09-28,37.5099865674,23.4450074767,Conus ventricosus,Mediterranean Cone Snail,Mollusca,150382,mediterranean_2022,baseline
+103050797,2019-09-28,42.7585445098,14.1638039552,Tursiops truncatus,Common Bottlenose Dolphin,Mammalia,41482,mediterranean_2022,baseline
+46151053,2019-09-28,44.4001978792,1.671650894,Meles meles,European Badger,Mammalia,855297,mediterranean_2022,baseline
+37096137,2019-09-28,41.7659624818,13.8871098575,Aquila chrysaetos,Golden Eagle,Aves,5074,mediterranean_2022,baseline
+33789361,2019-09-28,35.3234295676,6.6672507674,Monticola solitarius,Blue Rock-Thrush,Aves,13141,mediterranean_2022,baseline
+33673349,2019-09-28,41.3141849739,19.4404582503,Periparus ater,Coal Tit,Aves,144823,mediterranean_2022,baseline
+33639895,2019-09-28,35.3603132201,6.6544334963,Corvus corax,Common Raven,Aves,8010,mediterranean_2022,baseline
+33639855,2019-09-28,35.3352283807,6.645421274,Monticola solitarius,Blue Rock-Thrush,Aves,13141,mediterranean_2022,baseline
+33639851,2019-09-28,35.3599801849,6.6543070972,Corvus corax,Common Raven,Aves,8010,mediterranean_2022,baseline
+33639765,2019-09-28,35.3556525163,6.6491280869,Corvus corax,Common Raven,Aves,8010,mediterranean_2022,baseline
+33553755,2019-09-28,38.0443525,24.0005297,Sarpa salpa,Salema Porgy,Actinopterygii,118663,mediterranean_2022,baseline
+33553659,2019-09-28,38.0443525,24.0005297,Gobius,,Actinopterygii,88563,mediterranean_2022,baseline
+33553626,2019-09-28,38.0443525,24.0005297,Oblada melanurus,Saddled Seabream,Actinopterygii,118662,mediterranean_2022,baseline
+33552387,2019-09-28,38.0443525,24.0005297,Gobius,,Actinopterygii,88563,mediterranean_2022,baseline
+34384702,2019-09-27,43.318334,-1.9812313,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,baseline
+82447789,2019-09-27,37.169265,-3.5929583333,Motacilla cinerea,Grey Wagtail,Aves,13688,mediterranean_2022,baseline
+82447783,2019-09-27,37.1692266667,-3.5927066667,Motacilla cinerea,Grey Wagtail,Aves,13688,mediterranean_2022,baseline
+82447781,2019-09-27,37.168795,-3.5917033333,Cinclus cinclus,White-throated Dipper,Aves,7647,mediterranean_2022,baseline
+82447782,2019-09-27,37.1686483333,-3.5914083333,Motacilla cinerea,Grey Wagtail,Aves,13688,mediterranean_2022,baseline
+33749090,2019-09-27,40.0370402982,-3.6069146457,Actitis hypoleucos,Common Sandpiper,Aves,3978,mediterranean_2022,baseline
+33939002,2019-09-27,35.0403263878,32.4270948437,Rattus rattus,Black Rat,Mammalia,44575,mediterranean_2022,baseline
+37993232,2019-09-27,41.96442399,3.230403515,Conger conger,European Conger,Actinopterygii,118589,mediterranean_2022,baseline
+37993239,2019-09-27,41.96442399,3.230403515,Luria lurida,Lurid Cowry,Mollusca,342274,mediterranean_2022,baseline
+33494931,2019-09-27,44.5144512491,33.5917709768,Helix albescens,,Mollusca,102434,mediterranean_2022,baseline
+33494923,2019-09-27,43.2622241084,5.4199223377,Rumina decollata,Decollate Snail,Mollusca,125669,mediterranean_2022,baseline
+33497569,2019-09-27,32.9920435231,35.6789943483,Sus scrofa,Wild Boar,Mammalia,42134,mediterranean_2022,baseline
+37992749,2019-09-27,41.96442399,3.230403515,Aplysia fasciata,Sooty Seahare,Mollusca,253928,mediterranean_2022,baseline
+33494592,2019-09-27,44.8091685594,-0.5910854414,Columba palumbus,Common Wood-Pigeon,Aves,3048,mediterranean_2022,baseline
+97375613,2019-09-27,43.229043409,5.3473148772,Synapturichthys kleinii,Klein's Sole,Actinopterygii,120638,mediterranean_2022,baseline
+37991845,2019-09-27,41.96442399,3.230403515,Aplysia fasciata,Sooty Seahare,Mollusca,253928,mediterranean_2022,baseline
+37991855,2019-09-27,41.96442399,3.230403515,Serranus cabrilla,Comber,Actinopterygii,118675,mediterranean_2022,baseline
+37991859,2019-09-27,41.96442399,3.230403515,Diplodus vulgaris,Common Two-banded Seabream,Actinopterygii,118667,mediterranean_2022,baseline
+35115683,2019-09-27,41.96442399,3.230403515,Scorpaena notata,Small Red Scorpionfish,Actinopterygii,118630,mediterranean_2022,baseline
+242416898,2019-09-27,38.2564276129,35.2654447115,Circus aeruginosus,Western Marsh Harrier,Aves,5173,mediterranean_2022,baseline
+141721412,2019-09-27,33.1219485165,-0.3897188864,Atlantoxerus getulus,Barbary Ground Squirrel,Mammalia,46241,mediterranean_2022,baseline
+185465545,2019-09-27,33.5429104,-0.2748757,Emberiza sahari,House Bunting,Aves,201231,mediterranean_2022,baseline
+185465544,2019-09-27,33.5429104,-0.2748757,Atlantoxerus getulus,Barbary Ground Squirrel,Mammalia,46241,mediterranean_2022,baseline
+33489323,2019-09-27,38.4761252694,16.012961082,Cantareus apertus,Green Garden Snail,Mollusca,96707,mediterranean_2022,baseline
+33621523,2019-09-27,42.7628286802,11.1622145748,Canis lupus italicus,Italian Wolf,Mammalia,333549,mediterranean_2022,baseline
+33746294,2019-09-27,35.3442606188,6.6584387049,Buteo rufinus,Long-legged Buzzard,Aves,5192,mediterranean_2022,baseline
+33489320,2019-09-27,38.4746589873,16.0102526056,Cisticola juncidis,Zitting Cisticola,Aves,7697,mediterranean_2022,baseline
+179491311,2019-09-27,38.1510147672,-3.9446278237,Cervus elaphus,Red Deer,Mammalia,204113,mediterranean_2022,baseline
+33494563,2019-09-27,44.8088793156,-0.5903072655,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,baseline
+33494712,2019-09-27,44.807983745,-0.5903371051,Turdus merula,Eurasian Blackbird,Aves,12716,mediterranean_2022,baseline
+33494702,2019-09-27,44.8082494443,-0.5908470601,Aegithalos caudatus,Long-tailed Tit,Aves,7278,mediterranean_2022,baseline
+33494641,2019-09-27,44.8076155223,-0.5898224562,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,baseline
+254126309,2019-09-27,37.5099976406,23.4450015134,Mangelia paciniana,,Mollusca,884130,mediterranean_2022,baseline
+33482223,2019-09-27,38.1978030372,13.3068556787,Turdus merula,Eurasian Blackbird,Aves,12716,mediterranean_2022,baseline
+33482186,2019-09-27,38.1976298942,13.3068011887,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,baseline
+137077973,2022-09-30,41.8101777778,12.6802527778,Papillifera papillaris,Cliveden Snail,Mollusca,320096,mediterranean_2022,event
+137077879,2022-09-30,41.8100972222,12.6803527778,Marmorana muralis,Wall Helicella,Mollusca,105226,mediterranean_2022,event
+137077775,2022-09-30,41.8101583333,12.6803333333,Papillifera papillaris,Cliveden Snail,Mollusca,320096,mediterranean_2022,event
+137077758,2022-09-30,41.8100944444,12.6804472222,Marmorana muralis,Wall Helicella,Mollusca,105226,mediterranean_2022,event
+137665124,2022-09-30,36.7176299233,-4.4198345393,Rumina decollata,Decollate Snail,Mollusca,125669,mediterranean_2022,event
+137664897,2022-09-30,36.7176299233,-4.4198345393,Ambigolimax valentianus,Striped Greenhouse Slug,Mollusca,448331,mediterranean_2022,event
+137118742,2022-09-30,43.6747050708,-0.0196508518,Meles meles,European Badger,Mammalia,855297,mediterranean_2022,event
+147449860,2022-09-30,44.3058554,7.4532436,Helix pomatia,Roman Snail,Mollusca,61523,mediterranean_2022,event
+137064275,2022-09-30,41.4390488744,2.1466530728,Leiothrix lutea,Red-billed Leiothrix,Aves,15560,mediterranean_2022,event
+137117277,2022-09-30,32.9601220974,34.8198972148,Motacilla flava,Western Yellow Wagtail,Aves,204545,mediterranean_2022,event
+137408577,2022-09-30,41.3193286887,19.4312913716,Chama gryphoides,,Mollusca,534654,mediterranean_2022,event
+137404779,2022-09-30,41.3193427899,19.4310868531,Ebenomitra ebenus,,Mollusca,1647691,mediterranean_2022,event
+137131784,2022-09-30,44.6632575833,4.7760371944,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+137077662,2022-09-30,36.6891206663,-3.4316202401,Porphyrio porphyrio,Western Swamphen,Aves,475028,mediterranean_2022,event
+148648859,2022-09-30,37.1762922177,9.9054102972,Bursatella leachii,Ragged Seahare,Mollusca,50559,mediterranean_2022,event
+137077353,2022-09-30,36.7776133914,-3.4612435231,Tringa ochropus,Green Sandpiper,Aves,3885,mediterranean_2022,event
+137123992,2022-09-30,39.1590138422,9.5702008327,Oryctolagus cuniculus,European Rabbit,Mammalia,43151,mediterranean_2022,event
+137081838,2022-09-30,37.0143859741,-4.5548445012,Iberus marmoratus,,Mollusca,103258,mediterranean_2022,event
+137076309,2022-09-30,36.6320390368,-3.5176586255,Muscicapa striata,Spotted Flycatcher,Aves,12971,mediterranean_2022,event
+137081834,2022-09-30,37.0109294428,-4.555604316,Sylvia atricapilla,Eurasian Blackcap,Aves,15282,mediterranean_2022,event
+137163943,2022-09-30,36.6082480505,-3.592263847,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137076038,2022-09-30,36.626256871,-3.4622193235,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137047224,2022-09-30,42.0296881861,3.1897975528,Rumina decollata,Decollate Snail,Mollusca,125669,mediterranean_2022,event
+137163798,2022-09-30,36.7183667621,-3.400792391,Porphyrio porphyrio,Western Swamphen,Aves,475028,mediterranean_2022,event
+137163511,2022-09-30,36.6377950687,-3.5636120208,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,event
+137163248,2022-09-30,36.7507872372,-3.4556563311,Aythya nyroca,Ferruginous Duck,Aves,7055,mediterranean_2022,event
+137075435,2022-09-30,36.779096133,-3.5772859987,Aythya nyroca,Ferruginous Duck,Aves,7055,mediterranean_2022,event
+321085924,2022-09-30,43.0399455358,0.0087103836,Gyps fulvus,Eurasian Griffon,Aves,5366,mediterranean_2022,event
+137126529,2022-09-30,43.0216963605,-2.7808234122,Cervus elaphus,Red Deer,Mammalia,204113,mediterranean_2022,event
+137044534,2022-09-30,43.6348359,3.9274464,Zonites algirus,,Mollusca,487693,mediterranean_2022,event
+137162526,2022-09-30,36.7398904327,-3.42927307,Parus major,Great Tit,Aves,203153,mediterranean_2022,event
+137081832,2022-09-30,37.0104309038,-4.5549239163,Saxicola rubicola,European Stonechat,Aves,201192,mediterranean_2022,event
+137081831,2022-09-30,37.0104309038,-4.5549239163,Upupa epops,Common Hoopoe,Aves,20969,mediterranean_2022,event
+137075103,2022-09-30,36.7434965633,-3.4962601889,Ficedula hypoleuca,European Pied Flycatcher,Aves,204512,mediterranean_2022,event
+137073440,2022-09-30,36.6123364204,-3.5763001849,Ciconia ciconia,White Stork,Aves,4733,mediterranean_2022,event
+137055160,2022-09-30,38.5477461191,-0.2656753297,Saxicola rubicola,European Stonechat,Aves,201192,mediterranean_2022,event
+137073102,2022-09-30,36.7225807113,-3.442188474,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137161589,2022-09-30,36.6778909271,-3.4249324809,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137063532,2022-09-30,38.4782661625,-2.4132273246,Capra pyrenaica,Iberian Ibex,Mammalia,42350,mediterranean_2022,event
+137072629,2022-09-30,36.7363799154,-3.4611610856,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,event
+137040774,2022-09-30,41.4872094081,2.0312191173,Myiopsitta monachus,Monk Parakeet,Aves,19349,mediterranean_2022,event
+137040267,2022-09-30,38.7061930131,16.534463668,Tachybaptus ruficollis,Little Grebe,Aves,4237,mediterranean_2022,event
+137161318,2022-09-30,36.7746348441,-3.5222467096,Fulica cristata,Red-knobbed Coot,Aves,487,mediterranean_2022,event
+137072321,2022-09-30,36.6992232222,-3.5501456073,Spatula clypeata,Northern Shoveler,Aves,558438,mediterranean_2022,event
+137160199,2022-09-30,36.7356164884,-3.5582490977,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137160638,2022-09-30,36.7361594949,-3.403028363,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137159793,2022-09-30,36.6763451305,-3.5001669517,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,event
+137059227,2022-09-30,35.6269398622,6.3526330841,Oenanthe hispanica,Western Black-eared Wheatear,Aves,12825,mediterranean_2022,event
+137056992,2022-09-30,38.5252810055,-0.3253496124,Oryctolagus cuniculus,European Rabbit,Mammalia,43151,mediterranean_2022,event
+137039206,2022-09-30,38.7064442253,16.5344540959,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137041629,2022-09-30,39.8705978001,9.0928063444,Corvus corax,Common Raven,Aves,8010,mediterranean_2022,event
+139120679,2022-09-30,36.4535006112,-4.4037179503,Miniopterus schreibersii,Schreibers' Long-fingered Bat,Mammalia,57534,mediterranean_2022,event
+196850219,2022-09-30,44.153480872,11.8535279994,Curruca curruca,Lesser Whitethroat,Aves,1289484,mediterranean_2022,event
+137038213,2022-09-30,32.8120082,34.9566589,Erinaceus concolor,Southern White-breasted Hedgehog,Mammalia,43043,mediterranean_2022,event
+234126913,2022-09-30,39.6938245415,-0.2053260164,Sturnus unicolor,Spotless Starling,Aves,14849,mediterranean_2022,event
+174062592,2022-09-30,44.5214018833,19.2294087445,Buteo buteo,Common Buzzard,Aves,204472,mediterranean_2022,event
+137038000,2022-09-30,32.8124474,34.9567237997,Hystrix indica,Indian Crested Porcupine,Mammalia,44175,mediterranean_2022,event
+137035719,2022-09-30,43.9306576746,5.0259861972,Buteo buteo,Common Buzzard,Aves,204472,mediterranean_2022,event
+137041574,2022-09-30,39.8623240345,9.096069946,Sus scrofa meridionalis,mediterranean boar,Mammalia,1370762,mediterranean_2022,event
+139120676,2022-09-30,36.5793287934,-4.5555987699,Morus bassanus,Northern Gannet,Aves,3802,mediterranean_2022,event
+139120675,2022-09-30,36.5793287934,-4.5555987699,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,event
+139120674,2022-09-30,36.4274058019,-4.5601329421,Puffinus mauretanicus,Balearic Shearwater,Aves,73315,mediterranean_2022,event
+137037307,2022-09-30,42.0470881723,19.1376998497,Patella ulyssiponensis,China Limpet,Mollusca,450561,mediterranean_2022,event
+137036077,2022-09-30,38.7063678962,16.5346575761,Alcedo atthis,Common Kingfisher,Aves,2599,mediterranean_2022,event
+137036141,2022-09-30,42.0318978,3.1913350997,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137035865,2022-09-30,38.7061743331,16.5343758979,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137171898,2022-09-30,40.890868,16.7690532,Delichon urbicum,Western House Martin,Aves,64705,mediterranean_2022,event
+137038909,2022-09-30,44.14802217,8.27763333,Athene noctua,Little Owl,Aves,19998,mediterranean_2022,event
+137043639,2022-09-30,42.20893,3.0991388333,Mareca strepera,Gadwall,Aves,558439,mediterranean_2022,event
+137043600,2022-09-30,42.20893,3.0991388333,Anas platyrhynchos × Mareca strepera,Brewer's Duck,Aves,564408,mediterranean_2022,event
+141684949,2022-09-30,43.3192164618,0.680014807,Rhinolophus ferrumequinum,Greater Horseshoe Bat,Mammalia,40645,mediterranean_2022,event
+137043446,2022-09-30,42.2093633333,3.0986528333,Calidris pugnax,Ruff,Aves,339593,mediterranean_2022,event
+137043334,2022-09-30,42.2093633333,3.0986528333,Mareca strepera,Gadwall,Aves,558439,mediterranean_2022,event
+253435950,2022-09-30,36.0082701593,0.9934747964,Tringa totanus,Common Redshank,Aves,3879,mediterranean_2022,event
+137032738,2022-09-30,44.9018000105,20.2556478605,Sturnus vulgaris,European Starling,Aves,14850,mediterranean_2022,event
+137675156,2022-09-30,41.6502526974,2.7780738473,Charadrius hiaticula,Common Ringed Plover,Aves,4801,mediterranean_2022,event
+137061460,2022-09-30,35.6284377356,6.3531235638,Saxicola rubicola,European Stonechat,Aves,201192,mediterranean_2022,event
+137567416,2022-09-30,41.6501910686,2.7782367915,Tringa nebularia,Common Greenshank,Aves,3878,mediterranean_2022,event
+137383769,2022-09-30,39.1948461462,-1.4312265058,Pyrrhocorax pyrrhocorax,Red-billed Chough,Aves,8349,mediterranean_2022,event
+137063427,2022-09-30,35.6299243204,6.3548737938,Sturnus vulgaris,European Starling,Aves,14850,mediterranean_2022,event
+137383771,2022-09-30,39.1948702091,-1.4312122002,Capra pyrenaica,Iberian Ibex,Mammalia,42350,mediterranean_2022,event
+137311858,2022-09-30,36.3200264356,28.2008485124,Hirundo rustica,Barn Swallow,Aves,11901,mediterranean_2022,event
+141684973,2022-09-30,43.310759907,0.7429216323,Rhinolophus hipposideros,Lesser Horseshoe Bat,Mammalia,40695,mediterranean_2022,event
+137034432,2022-09-30,43.9328269591,5.0227982966,Alcedo atthis,Common Kingfisher,Aves,2599,mediterranean_2022,event
+137051769,2022-09-30,42.8225159979,23.3298580348,Helix lucorum,Turkish Snail,Mollusca,336841,mediterranean_2022,event
+137523110,2022-09-30,41.9134530556,12.4901180556,Psittacula krameri,Rose-ringed Parakeet,Aves,18911,mediterranean_2022,event
+137315863,2022-09-30,44.6796976957,11.0856248438,Lepus europaeus,Brown Hare,Mammalia,43128,mediterranean_2022,event
+137068485,2022-09-30,35.6267407889,6.3588298801,Columba palumbus,Common Wood-Pigeon,Aves,3048,mediterranean_2022,event
+137030567,2022-09-30,44.9070699696,20.267018415,Corvus frugilegus,Rook,Aves,8029,mediterranean_2022,event
+137028673,2022-09-30,38.6754714385,16.5578312908,Apus pallidus,Pallid Swift,Aves,6643,mediterranean_2022,event
+137028558,2022-09-30,38.706449577,16.5348550912,Chlidonias hybrida,Whiskered Tern,Aves,62148,mediterranean_2022,event
+137030439,2022-09-30,44.9033866059,20.2714759111,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,event
+137523109,2022-09-30,41.9116333333,12.4877013889,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,event
+137030342,2022-09-30,44.904140348,20.2721471339,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,event
+137058171,2022-09-30,32.5613433997,36.7488006997,Meleagris gallopavo,Wild Turkey,Aves,906,mediterranean_2022,event
+137030625,2022-09-30,40.100745,23.305732,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,event
+137312354,2022-09-30,36.3477350804,28.2057147101,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,event
+137568114,2022-09-30,41.6514509403,2.7787792683,Calidris alpina,Dunlin,Aves,3857,mediterranean_2022,event
+137988494,2022-09-30,43.48819,4.406595,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,event
+137564518,2022-09-30,41.65113253,2.778942883,Thalasseus sandvicensis,Sandwich Tern,Aves,144541,mediterranean_2022,event
+137392478,2022-09-30,32.9769986541,35.7077230652,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137986934,2022-09-30,43.48817,4.4072433333,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,event
+137986519,2022-09-30,43.48817,4.4072433333,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,event
+137986300,2022-09-30,43.4883616667,4.4066683333,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137985868,2022-09-30,43.4883616667,4.4066683333,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+141992484,2022-09-30,43.6376166595,3.8927451549,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137985198,2022-09-30,43.4881566667,4.40642,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+141993272,2022-09-30,43.6377147326,3.8927707449,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137984921,2022-09-30,43.4880283333,4.4066866667,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137984734,2022-09-30,43.4880283333,4.4066866667,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+138477083,2022-09-30,39.2500110704,16.6958673298,Apus pallidus,Pallid Swift,Aves,6643,mediterranean_2022,event
+137984487,2022-09-30,43.48818,4.406765,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137069050,2022-09-30,39.5130899477,-0.4093413055,Sylvia atricapilla,Eurasian Blackcap,Aves,15282,mediterranean_2022,event
+137210185,2022-09-30,43.648262816,3.874729397,Buteo buteo,Common Buzzard,Aves,204472,mediterranean_2022,event
+250011564,2022-09-30,32.071869919,34.8157309582,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+137984346,2022-09-30,43.488035,4.4066616667,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137984073,2022-09-30,43.488035,4.4066616667,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137314485,2022-09-30,43.6432471925,3.8880983127,Buteo buteo,Common Buzzard,Aves,204472,mediterranean_2022,event
+137983834,2022-09-30,43.488035,4.4066616667,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137983587,2022-09-30,43.4882883333,4.4061933333,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137983167,2022-09-30,43.48837,4.4058816667,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137981089,2022-09-30,43.488465,4.4057733333,Ciconia ciconia,White Stork,Aves,4733,mediterranean_2022,event
+137400277,2022-09-30,36.0776257997,28.0349095997,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,event
+137400010,2022-09-30,36.0776257997,28.0349095997,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,event
+137171897,2022-09-30,40.890868,16.7690532,Accipiter nisus,Eurasian Sparrowhawk,Aves,5106,mediterranean_2022,event
+137980428,2022-09-30,43.4887416667,4.4058233333,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137980036,2022-09-30,43.4887416667,4.4058233333,Ardea ibis,Western Cattle-Egret,Aves,411086,mediterranean_2022,event
+137979751,2022-09-30,43.4887416667,4.4058233333,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137979370,2022-09-30,43.4887416667,4.4058233333,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137979253,2022-09-30,43.4887416667,4.4058233333,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137069190,2022-09-30,39.5130123501,-0.4095283896,Sciurus vulgaris,Eurasian Red Squirrel,Mammalia,46001,mediterranean_2022,event
+144082259,2022-09-30,43.0534778348,6.4199841003,Thalassoma pavo,Ornate Wrasse,Actinopterygii,50972,mediterranean_2022,event
+137403566,2022-09-30,39.176559171,9.0135961072,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+177195214,2022-09-30,32.7504125172,35.1878184686,Tringa ochropus,Green Sandpiper,Aves,3885,mediterranean_2022,event
+137055622,2022-09-30,39.1304369694,23.7224844786,Mactra stultorum,Rayed Trough Shell,Mollusca,366852,mediterranean_2022,event
+144082270,2022-09-30,43.0534778348,6.4199841003,Chromis chromis,Mediterranean Damselfish,Actinopterygii,118682,mediterranean_2022,event
+177195213,2022-09-30,32.7505774697,35.1957760114,Ardea ibis,Western Cattle-Egret,Aves,411086,mediterranean_2022,event
+143877391,2022-09-30,43.0534778348,6.4199841003,Spondylus gaederopus,European Thorny Oyster,Mollusca,326346,mediterranean_2022,event
+137032900,2022-09-30,39.3633693306,2.9430249694,Arenaria interpres,Ruddy Turnstone,Aves,3938,mediterranean_2022,event
+143276917,2022-09-30,43.0534778348,6.4199841003,Monoplex parthenopeus,Giant Hairy Triton Snail,Mollusca,602100,mediterranean_2022,event
+137978930,2022-09-30,43.488755,4.4056166667,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,event
+137059292,2022-09-30,42.576072,27.427588,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,event
+144078883,2022-09-30,43.0534778348,6.4199841003,Muraena helena,Mediterranean Moray,Actinopterygii,118590,mediterranean_2022,event
+137403425,2022-09-30,39.1806590131,9.0166818794,Tringa totanus,Common Redshank,Aves,3879,mediterranean_2022,event
+137403406,2022-09-30,39.1806590131,9.0166818794,Tringa nebularia,Common Greenshank,Aves,3878,mediterranean_2022,event
+137312356,2022-09-30,42.5328316667,11.2736666667,Eobania vermiculata,Chocolate-band Snail,Mollusca,199875,mediterranean_2022,event
+220467175,2022-09-30,44.7311071593,0.4074660111,Buteo buteo buteo,Western Common Buzzard,Aves,512766,mediterranean_2022,event
+139799768,2022-09-30,43.5357626972,16.4897289028,Cairina moschata domestica,Domestic Muscovy Duck,Aves,204094,mediterranean_2022,event
+144082254,2022-09-30,43.0534778348,6.4199841003,Sarpa salpa,Salema Porgy,Actinopterygii,118663,mediterranean_2022,event
+144082263,2022-09-30,43.0534778348,6.4199841003,Symphodus tinca,East Atlantic Peacock Wrasse,Actinopterygii,52554,mediterranean_2022,event
+144082250,2022-09-30,43.0534778348,6.4199841003,Mullus surmuletus,Striped Red Mullet,Actinopterygii,118619,mediterranean_2022,event
+144080716,2022-09-30,43.0534778348,6.4199841003,Parablennius rouxi,Longstriped Blenny,Actinopterygii,108410,mediterranean_2022,event
+143276916,2022-09-30,43.0534778348,6.4199841003,Bittium latreillii,,Mollusca,878168,mediterranean_2022,event
+137024877,2022-09-30,42.2394357181,21.7027717084,Galerida cristata,Crested Lark,Aves,578607,mediterranean_2022,event
+334972350,2022-09-30,42.506285,1.521801,Gyps fulvus,Eurasian Griffon,Aves,5366,mediterranean_2022,event
+144080548,2022-09-30,43.0534778348,6.4199841003,Scorpaena notata,Small Red Scorpionfish,Actinopterygii,118630,mediterranean_2022,event
+137071051,2022-09-30,43.9571944444,5.7817305556,Helix lucorum,Turkish Snail,Mollusca,336841,mediterranean_2022,event
+144080726,2022-09-30,43.0534778348,6.4199841003,Gobius auratus,Golden goby,Actinopterygii,118699,mediterranean_2022,event
+137976634,2022-09-30,43.4902733333,4.409665,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+144078885,2022-09-30,43.0534778348,6.4199841003,Conger conger,European Conger,Actinopterygii,118589,mediterranean_2022,event
+137180687,2022-09-30,39.6353403455,20.8925597668,Anas crecca,Green-winged Teal,Aves,6937,mediterranean_2022,event
+137018540,2022-09-30,44.3372612,7.499332428,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+137018487,2022-09-30,44.3372879028,7.4993605614,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+137180684,2022-09-30,39.6342642851,20.8952107916,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,event
+137180775,2022-09-30,39.6345550312,20.8946535425,Mareca strepera,Gadwall,Aves,558439,mediterranean_2022,event
+137180767,2022-09-30,39.6389308044,20.8841437031,Anas crecca,Green-winged Teal,Aves,6937,mediterranean_2022,event
+137305792,2022-09-30,42.8084764282,-1.63171212,Curruca communis communis,Western Common Whitethroat,Aves,1289957,mediterranean_2022,event
+137975872,2022-09-30,43.49108,4.408015,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137180766,2022-09-30,39.6347756283,20.8937967615,Calidris pugnax,Ruff,Aves,339593,mediterranean_2022,event
+137974386,2022-09-30,43.4818933333,4.40551,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,event
+137420249,2022-09-30,33.195334956,35.4709546604,Clanga clanga,Greater Spotted Eagle,Aves,201035,mediterranean_2022,event
+137420245,2022-09-30,33.0839348739,35.5937424118,Grus grus,Common Crane,Aves,41,mediterranean_2022,event
+137420244,2022-09-30,33.0822890399,35.5912888392,Tringa glareola,Wood Sandpiper,Aves,3888,mediterranean_2022,event
+137420238,2022-09-30,33.0824721543,35.5913573964,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,event
+137420237,2022-09-30,33.0889074719,35.7660285926,Motacilla flava,Western Yellow Wagtail,Aves,204545,mediterranean_2022,event
+137974029,2022-09-30,43.4933416667,4.404545,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137972970,2022-09-30,43.4928533333,4.4096816667,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137394825,2022-09-30,40.3882759041,27.8700737183,Motacilla alba,White Wagtail,Aves,13695,mediterranean_2022,event
+137180758,2022-09-30,39.6364037381,20.8893617143,Calidris alpina,Dunlin,Aves,3857,mediterranean_2022,event
+137971313,2022-09-30,43.4931666667,4.4089633333,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,event
+137971079,2022-09-30,43.4930233333,4.40908,Tringa totanus,Common Redshank,Aves,3879,mediterranean_2022,event
+137970963,2022-09-30,43.49302,4.409095,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137180750,2022-09-30,39.6441206399,20.8773142949,Anas crecca,Green-winged Teal,Aves,6937,mediterranean_2022,event
+137180749,2022-09-30,39.6455495978,20.8752698261,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,event
+137180747,2022-09-30,39.6457374395,20.8753015135,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137970761,2022-09-30,43.4929533333,4.4091566667,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137210159,2022-09-30,43.648243103,3.8704526481,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+137044745,2022-09-30,40.4111122549,-3.691126965,Turdus merula,Eurasian Blackbird,Aves,12716,mediterranean_2022,event
+137145958,2022-09-30,42.2403216667,20.647695,Alcedo atthis,Common Kingfisher,Aves,2599,mediterranean_2022,event
+137970529,2022-09-30,43.4930333333,4.4091366667,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137050089,2022-09-30,38.1663461162,20.4795942083,Alcedo atthis,Common Kingfisher,Aves,2599,mediterranean_2022,event
+137969985,2022-09-30,43.4930516667,4.4091716667,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,event
+137969625,2022-09-30,43.4929383333,4.4090566667,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137625750,2022-09-30,36.673035,-4.4630633333,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137014915,2022-09-30,43.6154627099,3.8723105192,Strix aluco,Tawny Owl,Aves,19898,mediterranean_2022,event
+137169227,2022-09-30,43.769705,11.2559,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,event
+137969533,2022-09-30,43.4929383333,4.4090566667,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,event
+137968647,2022-09-30,43.4818933333,4.40551,Tringa totanus,Common Redshank,Aves,3879,mediterranean_2022,event
+137120095,2022-09-30,43.7735305556,11.2546083333,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,event
+137967408,2022-09-30,43.4929816667,4.40914,Calidris pugnax,Ruff,Aves,339593,mediterranean_2022,event
+137052599,2022-09-30,36.703054293,28.2274022243,Muraena helena,Mediterranean Moray,Actinopterygii,118590,mediterranean_2022,event
+137966716,2022-09-30,43.4929816667,4.40914,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,event
+137964784,2022-09-30,43.4929816667,4.40914,Tringa totanus,Common Redshank,Aves,3879,mediterranean_2022,event
+137052028,2022-09-30,36.7451635997,28.3910370895,Epinephelus marginatus,Dusky Grouper,Actinopterygii,100119,mediterranean_2022,event
+137625749,2022-09-30,36.6719533333,-4.4585316667,Accipiter nisus,Eurasian Sparrowhawk,Aves,5106,mediterranean_2022,event
+141448461,2022-09-30,40.6994585936,-3.8025355488,Turdus viscivorus,Mistle Thrush,Aves,12735,mediterranean_2022,event
+137059123,2022-09-30,42.4748024932,27.5350188559,Ciconia nigra,Black Stork,Aves,4736,mediterranean_2022,event
+137385901,2022-09-30,39.982806227,23.3765080152,Arenaria interpres,Ruddy Turnstone,Aves,3938,mediterranean_2022,event
+141448459,2022-09-30,40.6994585936,-3.8025355488,Ficedula hypoleuca,European Pied Flycatcher,Aves,204512,mediterranean_2022,event
+137963776,2022-09-30,43.4945333333,4.4084116667,Tringa glareola,Wood Sandpiper,Aves,3888,mediterranean_2022,event
+137963621,2022-09-30,43.494515,4.40845,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,event
+137962920,2022-09-30,43.4946833333,4.4086866667,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,event
+137960471,2022-09-30,43.4946833333,4.4086866667,Tringa glareola,Wood Sandpiper,Aves,3888,mediterranean_2022,event
+137960026,2022-09-30,43.4946833333,4.4086866667,Tringa totanus,Common Redshank,Aves,3879,mediterranean_2022,event
+137013211,2022-09-30,40.932145,19.487905,Sparus aurata,Gilthead Seabream,Actinopterygii,1494783,mediterranean_2022,event
+141448458,2022-09-30,40.6994585936,-3.8025355488,Phylloscopus trochilus,Willow Warbler,Aves,117055,mediterranean_2022,event
+141448455,2022-09-30,40.6994585936,-3.8025355488,Phylloscopus trochilus,Willow Warbler,Aves,117055,mediterranean_2022,event
+137053623,2022-09-30,36.7033983633,28.2274129531,Tripterygion tripteronotum,Red-black Triplefin,Actinopterygii,188591,mediterranean_2022,event
+137052936,2022-09-30,36.7026069993,28.2272305629,Gobius incognitus,Incognito Goby,Actinopterygii,505877,mediterranean_2022,event
+137050115,2022-09-30,36.8021731039,28.2734529207,Scorpaena maderensis,Madeira Scorpionfish,Actinopterygii,342288,mediterranean_2022,event
+137959711,2022-09-30,43.4961966667,4.407925,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,event
+141448453,2022-09-30,40.6994585936,-3.8025355488,Ficedula hypoleuca,European Pied Flycatcher,Aves,204512,mediterranean_2022,event
+137959577,2022-09-30,43.4961966667,4.407925,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,event
+137053232,2022-09-30,36.7029510716,28.2274451396,Gobius geniporus,Slender Goby,Actinopterygii,101621,mediterranean_2022,event
+137756743,2022-09-30,43.4962583333,4.4079616667,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,event
+137756385,2022-09-30,43.4962583333,4.4079616667,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137756010,2022-09-30,43.4962833333,4.4079166667,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,event
+137059585,2022-09-30,42.582624,27.4396759722,Gyps fulvus,Eurasian Griffon,Aves,5366,mediterranean_2022,event
+141448451,2022-09-30,40.6994585936,-3.8025355488,Parus major,Great Tit,Aves,203153,mediterranean_2022,event
+137338126,2022-09-30,43.8872101141,15.5287621463,Serranus scriba,Painted Comber,Actinopterygii,118674,mediterranean_2022,event
+147964856,2022-09-30,40.8357883333,-3.9499633333,Turdus viscivorus,Mistle Thrush,Aves,12735,mediterranean_2022,event
+141448450,2022-09-30,40.6994585936,-3.8025355488,Parus major,Great Tit,Aves,203153,mediterranean_2022,event
+137753707,2022-09-30,43.4962783333,4.40798,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,event
+137753586,2022-09-30,43.4962783333,4.40798,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,event
+137753517,2022-09-30,43.4962783333,4.40798,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,event
+137752989,2022-09-30,43.4962783333,4.40798,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+148306926,2022-09-30,44.7326309777,38.141988363,Caucasotachea atrolabiata,,Mollusca,713909,mediterranean_2022,event
+141448448,2022-09-30,40.6994585936,-3.8025355488,Ficedula hypoleuca,European Pied Flycatcher,Aves,204512,mediterranean_2022,event
+137135634,2022-09-30,40.729475,-3.8016633333,Mareca strepera,Gadwall,Aves,558439,mediterranean_2022,event
+137135633,2022-09-30,40.72947,-3.8016683333,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,event
+139830060,2022-09-30,42.7988694619,10.3555611198,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,event
+139830058,2022-09-30,42.7988694619,10.3555611198,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,event
+137531473,2022-09-30,44.8907530153,5.7952608393,Corvus corone,Carrion Crow,Aves,204496,mediterranean_2022,event
+137135631,2022-09-30,40.729465,-3.8016833333,Tadorna ferruginea,Ruddy Shelduck,Aves,7068,mediterranean_2022,event
+137135630,2022-09-30,40.7294833333,-3.8016766667,Tadorna ferruginea,Ruddy Shelduck,Aves,7068,mediterranean_2022,event
+137135627,2022-09-30,40.7294733333,-3.8016883333,Mareca strepera,Gadwall,Aves,558439,mediterranean_2022,event
+137135626,2022-09-30,40.72947,-3.8017,Mareca strepera,Gadwall,Aves,558439,mediterranean_2022,event
+137135625,2022-09-30,40.7294416667,-3.801765,Motacilla alba,White Wagtail,Aves,13695,mediterranean_2022,event
+137135623,2022-09-30,40.7297616667,-3.8022,Motacilla alba,White Wagtail,Aves,13695,mediterranean_2022,event
+137751543,2022-09-30,43.4963533333,4.4078233333,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,event
+137751476,2022-09-30,43.4962333333,4.4081033333,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137062323,2022-09-30,42.582613,27.4396969722,Clanga pomarina,Lesser Spotted Eagle,Aves,201033,mediterranean_2022,event
+137750345,2022-09-30,43.4963083333,4.40832,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,event
+137625745,2022-09-30,36.6730916667,-4.4584533333,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,event
+137750055,2022-09-30,43.4754916667,4.4157966667,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,event
+327717071,2022-09-30,32.6738972222,34.9550027778,Circaetus gallicus,Short-toed Snake-Eagle,Aves,5242,mediterranean_2022,event
+137013433,2022-09-30,41.4949408,2.1063,Sus scrofa,Wild Boar,Mammalia,42134,mediterranean_2022,event
+137135622,2022-09-30,40.7243766667,-3.8073533333,Anser anser domesticus,Domestic Greylag Goose,Aves,120479,mediterranean_2022,event
+137135621,2022-09-30,40.724385,-3.80735,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137747911,2022-09-30,43.469875,4.4212633333,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+143257219,2022-09-30,43.081946,17.4319674997,Lepomis gibbosus,Pumpkinseed,Actinopterygii,49614,mediterranean_2022,event
+137625744,2022-09-30,36.6705333333,-4.4570433333,Calidris alpina,Dunlin,Aves,3857,mediterranean_2022,event
+137625743,2022-09-30,36.6704966667,-4.4570566667,Calidris alba,Sanderling,Aves,3849,mediterranean_2022,event
+137625742,2022-09-30,36.670495,-4.4570133333,Calidris alpina,Dunlin,Aves,3857,mediterranean_2022,event
+137746337,2022-09-30,43.4754916667,4.4157966667,Recurvirostra avosetta,Pied Avocet,Aves,4883,mediterranean_2022,event
+137047206,2022-09-30,41.4509217578,2.0243334957,Sylvia atricapilla,Eurasian Blackcap,Aves,15282,mediterranean_2022,event
+137193652,2022-09-30,43.2312,2.6394666667,Pomatias elegans,Round-mouthed Snail,Mollusca,336731,mediterranean_2022,event
+137135620,2022-09-30,40.7214916667,-3.8096783333,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,event
+137196021,2022-09-30,41.3888033333,2.1865166667,Anser anser,Greylag Goose,Aves,7018,mediterranean_2022,event
+137135437,2022-09-30,40.721125,-3.810735,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,event
+137135436,2022-09-30,40.7211233333,-3.8107183333,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,event
+137625741,2022-09-30,36.6704866667,-4.45706,Sturnus unicolor,Spotless Starling,Aves,14849,mediterranean_2022,event
+137160159,2022-09-30,40.7210983333,-3.810745,Hieraaetus pennatus,Booted Eagle,Aves,5154,mediterranean_2022,event
+137135435,2022-09-30,40.7211016667,-3.8107416667,Coloeus monedula,Eurasian Jackdaw,Aves,336399,mediterranean_2022,event
+137011755,2022-09-30,42.8463583333,17.70513,Eobania vermiculata,Chocolate-band Snail,Mollusca,199875,mediterranean_2022,event
+137135425,2022-09-30,40.7210783333,-3.8107283333,Podiceps cristatus,Great Crested Grebe,Aves,4208,mediterranean_2022,event
+137135424,2022-09-30,40.7210883333,-3.8107383333,Podiceps cristatus,Great Crested Grebe,Aves,4208,mediterranean_2022,event
+137135423,2022-09-30,40.7211,-3.8107366667,Podiceps cristatus,Great Crested Grebe,Aves,4208,mediterranean_2022,event
+137053851,2022-09-30,36.7170825118,28.2383992812,Torquigener flavimaculosus,Flavimaculosus Puffer,Actinopterygii,446572,mediterranean_2022,event
+137135226,2022-09-30,40.7210766667,-3.8107533333,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137135225,2022-09-30,40.721055,-3.810775,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137625738,2022-09-30,36.670495,-4.45705,Charadrius hiaticula,Common Ringed Plover,Aves,4801,mediterranean_2022,event
+137743433,2022-09-30,43.481893,4.40551,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,event
+137135224,2022-09-30,40.7208283333,-3.8153816667,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137135223,2022-09-30,40.7208283333,-3.8153816667,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,event
+141448447,2022-09-30,40.6994585936,-3.8025355488,Larus fuscus,Lesser Black-backed Gull,Aves,4381,mediterranean_2022,event
+137743042,2022-09-30,43.481893,4.40551,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,event
+137402798,2022-09-30,40.6926018468,-3.9707004656,Pandion haliaetus,Osprey,Aves,116999,mediterranean_2022,event
+144660931,2022-09-30,37.4101327883,-1.5474478528,Symphodus tinca,East Atlantic Peacock Wrasse,Actinopterygii,52554,mediterranean_2022,event
+137625089,2022-09-30,36.6704833333,-4.4570916667,Pluvialis squatarola,Black-bellied Plover,Aves,4892,mediterranean_2022,event
+137008768,2022-09-30,43.7305588066,-1.0357363522,Acrocephalus scirpaceus,Common Reed Warbler,Aves,204455,mediterranean_2022,event
+137742584,2022-09-30,43.481893,4.40551,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,event
+137625087,2022-09-30,36.67047,-4.457085,Vanellus vanellus,Northern Lapwing,Aves,4857,mediterranean_2022,event
+137755956,2022-09-30,40.6666279428,-3.8028785214,Pyrrhocorax pyrrhocorax,Red-billed Chough,Aves,8349,mediterranean_2022,event
+137742306,2022-09-30,43.481893,4.40551,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137741982,2022-09-30,43.481893,4.40551,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137742071,2022-09-30,43.481893,4.40551,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137077191,2022-09-30,36.0539453461,14.1910982875,Flabellina affinis,Mediterranean Violet Aeolid,Mollusca,326338,mediterranean_2022,event
+137611787,2022-09-30,35.2468819997,23.7974358997,Capra hircus hircus,Common Domestic Goat,Mammalia,1047387,mediterranean_2022,event
+144660968,2022-09-30,37.4112904386,-1.5472376347,Parablennius pilicornis,Ringneck Blenny,Actinopterygii,338049,mediterranean_2022,event
+137007645,2022-09-30,44.2782366667,1.0028416667,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,event
+137135218,2022-09-30,40.7212366667,-3.823165,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,event
+139325543,2022-09-30,44.8429727997,0.2134637997,Cyprinus carpio,European Carp,Actinopterygii,53911,mediterranean_2022,event
+148262885,2022-09-30,37.9616193932,-0.7088469765,Thalasseus sandvicensis,Sandwich Tern,Aves,144541,mediterranean_2022,event
+139680427,2022-09-30,44.5313113897,38.1673119212,Pernis apivorus,European Honey-buzzard,Aves,5325,mediterranean_2022,event
+137737624,2022-09-30,43.4819,4.4055,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137625086,2022-09-30,36.6705416667,-4.457115,Actitis hypoleucos,Common Sandpiper,Aves,3978,mediterranean_2022,event
+137135216,2022-09-30,40.7216533333,-3.8233966667,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,event
+137625085,2022-09-30,36.670555,-4.4570583333,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,event
+137625084,2022-09-30,36.6705,-4.4570683333,Hieraaetus pennatus,Booted Eagle,Aves,5154,mediterranean_2022,event
+142691394,2022-09-30,41.7882849443,12.258195973,Corvus cornix,Hooded Crow,Aves,144757,mediterranean_2022,event
+137625083,2022-09-30,36.67048,-4.4570766667,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137007322,2022-09-30,41.6508464354,2.7120395377,Fringilla coelebs,Common Chaffinch,Aves,10070,mediterranean_2022,event
+137737335,2022-09-30,43.4818933333,4.40551,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,event
+137031557,2022-09-30,36.9381633333,25.4705416667,Helix figulina,Ceramic Snail,Mollusca,102441,mediterranean_2022,event
+139223680,2022-09-30,39.2244616667,9.1278055,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+137737064,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137736898,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137048491,2022-09-30,38.0499310544,-1.0344629735,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,event
+141761501,2022-09-30,44.9794893,7.8080453,Buteo buteo,Common Buzzard,Aves,204472,mediterranean_2022,event
+137992331,2022-09-30,43.4261511175,3.6042155942,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,event
+137735987,2022-09-30,43.4818933333,4.40551,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,event
+137383853,2022-09-30,43.6167709335,4.3222784094,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137034970,2022-09-30,43.7748486997,11.2545821997,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,event
+337325718,2022-09-30,36.2691651,4.8465638,Anthus trivialis,Tree Pipit,Aves,13711,mediterranean_2022,event
+137735241,2022-09-30,43.4818933333,4.40551,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,event
+137725786,2022-09-30,44.7794383333,13.9107266667,Emberiza cirlus,Cirl Bunting,Aves,9192,mediterranean_2022,event
+137135215,2022-09-30,40.7240433333,-3.8267066667,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,event
+137135209,2022-09-30,40.7240633333,-3.8267133333,Larus fuscus,Lesser Black-backed Gull,Aves,4381,mediterranean_2022,event
+137072169,2022-09-30,38.7243295349,0.1053652167,Ferussacia folliculum,,Mollusca,1122766,mediterranean_2022,event
+337325720,2022-09-30,36.2691651,4.8465638,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,event
+137735008,2022-09-30,43.4818933333,4.40551,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137025429,2022-09-30,36.5222297478,22.9923032557,Anarhynchus alexandrinus,Kentish Plover,Aves,1505620,mediterranean_2022,event
+137248607,2022-09-30,42.0727752152,-0.2643454447,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,event
+137734846,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137383634,2022-09-30,43.6050488522,4.3633146443,Sturnus vulgaris,European Starling,Aves,14850,mediterranean_2022,event
+137005392,2022-09-30,43.7764319722,11.25835,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,event
+137383533,2022-09-30,43.6056579976,4.3569746729,Ardea ibis,Western Cattle-Egret,Aves,411086,mediterranean_2022,event
+137383490,2022-09-30,43.605219783,4.3558839012,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137008840,2022-09-30,43.8205882204,11.1999099472,Ardea alba,Great Egret,Aves,144455,mediterranean_2022,event
+137025125,2022-09-30,36.512603661,22.9888431823,Falco peregrinus,Peregrine Falcon,Aves,4647,mediterranean_2022,event
+139788990,2022-09-30,44.5319754774,38.1661756332,Buteo buteo,Common Buzzard,Aves,204472,mediterranean_2022,event
+137045129,2022-09-30,39.4631866624,29.9231303846,Buteo rufinus,Long-legged Buzzard,Aves,5192,mediterranean_2022,event
+137734626,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137734544,2022-09-30,43.4818933333,4.40551,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,event
+137135208,2022-09-30,40.7267283333,-3.823435,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137734299,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137734050,2022-09-30,43.4818933333,4.40551,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,event
+137135206,2022-09-30,40.726735,-3.8234166667,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+322657095,2022-09-30,37.884763697,-4.8021655365,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137045130,2022-09-30,39.4631866624,29.9231303846,Lanius excubitor,Great Grey Shrike,Aves,559070,mediterranean_2022,event
+137625082,2022-09-30,36.674575,-4.4510266667,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,event
+137625081,2022-09-30,36.674575,-4.4510266667,Galerida cristata,Crested Lark,Aves,578607,mediterranean_2022,event
+137733871,2022-09-30,43.4818933333,4.40551,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137029830,2022-09-30,39.3333324823,-0.3666666895,Tringa nebularia,Common Greenshank,Aves,3878,mediterranean_2022,event
+137633704,2022-09-30,43.4818933333,4.40551,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137383279,2022-09-30,43.6096124492,4.3358865048,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+223983305,2022-09-30,35.924738023,14.48256739,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+137383230,2022-09-30,43.6109839754,4.3364433603,Cygnus olor,Mute Swan,Aves,6921,mediterranean_2022,event
+137029459,2022-09-30,39.3333324823,-0.3666666895,Sterna hirundo,Common Tern,Aves,4450,mediterranean_2022,event
+137383174,2022-09-30,43.6109295987,4.3378702955,Actitis hypoleucos,Common Sandpiper,Aves,3978,mediterranean_2022,event
+137004825,2022-09-30,40.3344533333,-3.8800033333,Parus major,Great Tit,Aves,203153,mediterranean_2022,event
+137624704,2022-09-30,36.6748166667,-4.451485,Myiopsitta monachus,Monk Parakeet,Aves,19349,mediterranean_2022,event
+137956708,2022-09-30,30.522208582,34.6162303245,Lanius excubitor,Great Grey Shrike,Aves,559070,mediterranean_2022,event
+137633335,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137633158,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137383085,2022-09-30,43.611965462,4.3359042779,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137134846,2022-09-30,40.7299883333,-3.8165483333,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+337325716,2022-09-30,36.3604447313,4.9560942786,Neophron percnopterus,Egyptian Vulture,Aves,5361,mediterranean_2022,event
+137633002,2022-09-30,43.4818933333,4.40551,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137382974,2022-09-30,43.6104087071,4.3352578066,Circus aeruginosus,Western Marsh Harrier,Aves,5173,mediterranean_2022,event
+137134845,2022-09-30,40.7306233333,-3.815115,Larus fuscus,Lesser Black-backed Gull,Aves,4381,mediterranean_2022,event
+137134844,2022-09-30,40.7306216667,-3.815115,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,event
+137004218,2022-09-30,42.4535980225,1.2161875963,Equus caballus,Domestic Horse,Mammalia,209233,mediterranean_2022,event
+137632376,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137382908,2022-09-30,43.6116828166,4.3368354199,Hirundo rustica,Barn Swallow,Aves,11901,mediterranean_2022,event
+137045131,2022-09-30,39.4631866624,29.9231303846,Buteo rufinus,Long-legged Buzzard,Aves,5192,mediterranean_2022,event
+137045105,2022-09-30,39.4631866624,29.9231303846,Buteo rufinus,Long-legged Buzzard,Aves,5192,mediterranean_2022,event
+137631843,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137134843,2022-09-30,40.7306616667,-3.8151433333,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137631689,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137382762,2022-09-30,43.6117087003,4.3346483498,Circus aeruginosus,Western Marsh Harrier,Aves,5173,mediterranean_2022,event
+137622012,2022-09-30,37.6520827744,15.1940693334,Elysia timida,,Mollusca,481506,mediterranean_2022,event
+141015860,2022-09-30,43.6475056427,3.8791112602,Columba palumbus,Common Wood-Pigeon,Aves,3048,mediterranean_2022,event
+137030241,2022-09-30,41.4148063658,2.2149887083,Erithacus rubecula,European Robin,Aves,13094,mediterranean_2022,event
+337325713,2022-09-30,36.3155721573,4.8109314096,Neophron percnopterus,Egyptian Vulture,Aves,5361,mediterranean_2022,event
+137631301,2022-09-30,43.4818933333,4.40551,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137134841,2022-09-30,40.7306316667,-3.8151416667,Podiceps cristatus,Great Crested Grebe,Aves,4208,mediterranean_2022,event
+137032355,2022-09-30,37.0064178332,25.536607282,Rhinolophus ferrumequinum,Greater Horseshoe Bat,Mammalia,40645,mediterranean_2022,event
+141016007,2022-09-30,43.6480512606,3.8797580078,Coloeus monedula,Eurasian Jackdaw,Aves,336399,mediterranean_2022,event
+137630924,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137382707,2022-09-30,43.6118841193,4.3379200463,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+337325711,2022-09-30,36.2695800918,4.9690992775,Neophron percnopterus,Egyptian Vulture,Aves,5361,mediterranean_2022,event
+137630587,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137382653,2022-09-30,43.6119617005,4.3376448842,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137045107,2022-09-30,39.4631866624,29.9231303846,Buteo rufinus,Long-legged Buzzard,Aves,5192,mediterranean_2022,event
+137630457,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+141015824,2022-09-30,43.647386038,3.8800094649,Garrulus glandarius,Eurasian Jay,Aves,8088,mediterranean_2022,event
+137630056,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137382589,2022-09-30,43.6170499049,4.3383016157,Actitis hypoleucos,Common Sandpiper,Aves,3978,mediterranean_2022,event
+141015674,2022-09-30,43.6473042796,3.8810394332,Sylvia atricapilla,Eurasian Blackcap,Aves,15282,mediterranean_2022,event
+137629059,2022-09-30,43.4818933333,4.40551,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137382451,2022-09-30,43.6171776697,4.3387425004,Hirundo rustica,Barn Swallow,Aves,11901,mediterranean_2022,event
+137134840,2022-09-30,40.73089,-3.8136616667,Larus fuscus,Lesser Black-backed Gull,Aves,4381,mediterranean_2022,event
+137134839,2022-09-30,40.7308866667,-3.8136566667,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,event
+137134838,2022-09-30,40.7308866667,-3.8136566667,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137134837,2022-09-30,40.7308866667,-3.8136583333,Larus fuscus,Lesser Black-backed Gull,Aves,4381,mediterranean_2022,event
+137134836,2022-09-30,40.7308883333,-3.8136566667,Larus fuscus,Lesser Black-backed Gull,Aves,4381,mediterranean_2022,event
+137134834,2022-09-30,40.7308883333,-3.813645,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,event
+137133773,2022-09-30,40.73089,-3.8136616667,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,event
+137043651,2022-09-30,43.4924452107,3.6732507777,Sciurus vulgaris,Eurasian Red Squirrel,Mammalia,46001,mediterranean_2022,event
+137628704,2022-09-30,43.4818933333,4.40551,Ciconia ciconia,White Stork,Aves,4733,mediterranean_2022,event
+137134833,2022-09-30,40.7308866667,-3.81364,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,event
+137134831,2022-09-30,40.7308866667,-3.8136316667,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,event
+137029489,2022-09-30,39.3333324823,-0.3666666895,Charadrius hiaticula,Common Ringed Plover,Aves,4801,mediterranean_2022,event
+137725783,2022-09-30,44.80494,13.9100583333,Delichon urbicum,Western House Martin,Aves,64705,mediterranean_2022,event
+137010607,2022-09-30,42.8150142259,-1.6309654713,Dendrocopos major,Great Spotted Woodpecker,Aves,17871,mediterranean_2022,event
+137627762,2022-09-30,43.4818933333,4.40551,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+141448444,2022-09-30,40.6994585936,-3.8025355488,Capreolus capreolus,Western Roe Deer,Mammalia,42184,mediterranean_2022,event
+137624703,2022-09-30,36.7101629272,-4.4589910628,Anarhynchus alexandrinus,Kentish Plover,Aves,1505620,mediterranean_2022,event
+137382333,2022-09-30,43.61120925,4.3406383352,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,event
+137134708,2022-09-30,40.7308316667,-3.812125,Mareca strepera,Gadwall,Aves,558439,mediterranean_2022,event
+137134707,2022-09-30,40.73083,-3.8121233333,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137045112,2022-09-30,39.4631866624,29.9231303846,Lanius collurio,Red-backed Shrike,Aves,12038,mediterranean_2022,event
+137009887,2022-09-30,42.8149922044,-1.6311289316,Alcedo atthis ispida,European Common Kingfisher,Aves,629973,mediterranean_2022,event
+137134704,2022-09-30,40.7308416667,-3.812165,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,event
+137134703,2022-09-30,40.7308416667,-3.812155,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,event
+137045115,2022-09-30,39.4631866624,29.9231303846,Buteo rufinus,Long-legged Buzzard,Aves,5192,mediterranean_2022,event
+137045113,2022-09-30,39.4631866624,29.9231303846,Lanius collurio,Red-backed Shrike,Aves,12038,mediterranean_2022,event
+137627264,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137011828,2022-09-30,44.5644661861,15.0196483583,Rumina decollata,Decollate Snail,Mollusca,125669,mediterranean_2022,event
+137382239,2022-09-30,43.6086690363,4.337902482,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137045122,2022-09-30,39.4631866624,29.9231303846,Muscicapa striata,Spotted Flycatcher,Aves,12971,mediterranean_2022,event
+137045121,2022-09-30,39.4631866624,29.9231303846,Muscicapa striata,Spotted Flycatcher,Aves,12971,mediterranean_2022,event
+137627001,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137134701,2022-09-30,40.7309016667,-3.81151,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137045123,2022-09-30,39.4631866624,29.9231303846,Muscicapa striata,Spotted Flycatcher,Aves,12971,mediterranean_2022,event
+137625864,2022-09-30,43.4818933333,4.40551,Ciconia ciconia,White Stork,Aves,4733,mediterranean_2022,event
+137382150,2022-09-30,43.6078020757,4.336344974,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137382085,2022-09-30,43.6077820006,4.3367743875,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137625542,2022-09-30,43.4818933333,4.40551,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137426752,2022-09-30,43.4818933333,4.40551,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+151834850,2022-09-30,36.1132661068,5.2970077056,Neophron percnopterus,Egyptian Vulture,Aves,5361,mediterranean_2022,event
+137426447,2022-09-30,43.4818933333,4.40551,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137426304,2022-09-30,43.4818933333,4.40551,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137134700,2022-09-30,40.7309233333,-3.811505,Calidris alpina,Dunlin,Aves,3857,mediterranean_2022,event
+137134699,2022-09-30,40.7309216667,-3.8115066667,Thinornis dubius,Little Ringed Plover,Aves,1580336,mediterranean_2022,event
+137134697,2022-09-30,40.7309216667,-3.8115066667,Calidris alpina,Dunlin,Aves,3857,mediterranean_2022,event
+137015895,2022-09-30,40.6087333333,14.3749616667,Papillifera papillaris,Cliveden Snail,Mollusca,320096,mediterranean_2022,event
+137134698,2022-09-30,40.7309216667,-3.8115333333,Thinornis dubius,Little Ringed Plover,Aves,1580336,mediterranean_2022,event
+137134696,2022-09-30,40.7309233333,-3.81153,Thinornis dubius,Little Ringed Plover,Aves,1580336,mediterranean_2022,event
+137422111,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137421928,2022-09-30,43.4818933333,4.40551,Ciconia ciconia,White Stork,Aves,4733,mediterranean_2022,event
+137029621,2022-09-30,39.2336058433,-0.3455222704,Ichthyaetus audouinii,Audouin's Gull,Aves,144522,mediterranean_2022,event
+137421591,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137421408,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137134467,2022-09-30,40.7309,-3.8114966667,Larus fuscus,Lesser Black-backed Gull,Aves,4381,mediterranean_2022,event
+137134465,2022-09-30,40.7309183333,-3.81148,Coloeus monedula,Eurasian Jackdaw,Aves,336399,mediterranean_2022,event
+137134460,2022-09-30,40.7309466667,-3.8114483333,Mareca strepera,Gadwall,Aves,558439,mediterranean_2022,event
+137133772,2022-09-30,40.7309,-3.8114966667,Larus fuscus,Lesser Black-backed Gull,Aves,4381,mediterranean_2022,event
+137029701,2022-09-30,39.3333324823,-0.3666666895,Chroicocephalus genei,Slender-billed Gull,Aves,144501,mediterranean_2022,event
+140130573,2022-09-30,42.1290413889,2.3148580556,Iberus splendidus,Splendid Helix,Mollusca,1555576,mediterranean_2022,event
+137523108,2022-09-30,41.9040080556,12.4542147222,Myiopsitta monachus,Monk Parakeet,Aves,19349,mediterranean_2022,event
+137134459,2022-09-30,40.7309516667,-3.81145,Calidris alpina,Dunlin,Aves,3857,mediterranean_2022,event
+137421039,2022-09-30,43.4818933333,4.40551,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+137002951,2022-09-30,41.9177476291,3.208904358,Melarhaphe neritoides,Small Periwinkle,Mollusca,359918,mediterranean_2022,event
+137398804,2022-09-30,43.4818933333,4.40551,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137398729,2022-09-30,43.4818933333,4.40551,Ardea ibis,Western Cattle-Egret,Aves,411086,mediterranean_2022,event
+137956702,2022-09-30,30.403408243,34.6447028761,Equus hemionus,Onager,Mammalia,43333,mediterranean_2022,event
+137398322,2022-09-30,43.4818933333,4.40551,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137029935,2022-09-30,39.3333324823,-0.3666666895,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137002645,2022-09-30,43.6532309186,3.9584491588,Zonites algirus,,Mollusca,487693,mediterranean_2022,event
+137134458,2022-09-30,40.7318033333,-3.8097083333,Gyps fulvus,Eurasian Griffon,Aves,5366,mediterranean_2022,event
+137397534,2022-09-30,43.4818933333,4.40551,Ardea ibis,Western Cattle-Egret,Aves,411086,mediterranean_2022,event
+137134452,2022-09-30,40.73182,-3.80972,Larus fuscus,Lesser Black-backed Gull,Aves,4381,mediterranean_2022,event
+137031477,2022-09-30,37.0234837747,25.5020680338,Gyps fulvus,Eurasian Griffon,Aves,5366,mediterranean_2022,event
+137134450,2022-09-30,40.73182,-3.8097216667,Coloeus monedula,Eurasian Jackdaw,Aves,336399,mediterranean_2022,event
+137134449,2022-09-30,40.7318216667,-3.8097216667,Larus fuscus,Lesser Black-backed Gull,Aves,4381,mediterranean_2022,event
+137134448,2022-09-30,40.73183,-3.809755,Coloeus monedula,Eurasian Jackdaw,Aves,336399,mediterranean_2022,event
+137134447,2022-09-30,40.7318266667,-3.8097416667,Milvus milvus,Red Kite,Aves,5267,mediterranean_2022,event
+137624702,2022-09-30,36.67595,-4.4548416667,Carduelis carduelis,European Goldfinch,Aves,9398,mediterranean_2022,event
+137397220,2022-09-30,43.4818933333,4.40551,Ardea ibis,Western Cattle-Egret,Aves,411086,mediterranean_2022,event
+137396946,2022-09-30,43.4818933333,4.40551,Ardea ibis,Western Cattle-Egret,Aves,411086,mediterranean_2022,event
+137134446,2022-09-30,40.7318133333,-3.8097,Ardea alba,Great Egret,Aves,144455,mediterranean_2022,event
+137624701,2022-09-30,36.675955,-4.45488,Tadorna tadorna,Common Shelduck,Aves,7067,mediterranean_2022,event
+137624700,2022-09-30,36.67601,-4.454885,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,event
+137134444,2022-09-30,40.7318133333,-3.8097,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137134443,2022-09-30,40.7318116667,-3.809705,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137134442,2022-09-30,40.73181,-3.809705,Ardea alba,Great Egret,Aves,144455,mediterranean_2022,event
+137042161,2022-09-30,43.1179325629,6.0192831116,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,event
+141448443,2022-09-30,40.6994585936,-3.8025355488,Turdus viscivorus,Mistle Thrush,Aves,12735,mediterranean_2022,event
+137624699,2022-09-30,36.6759483333,-4.4548566667,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,event
+137396693,2022-09-30,43.4818933333,4.40551,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137286892,2022-09-30,33.0715052792,35.6058368018,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,event
+137286891,2022-09-30,33.0705983852,35.6043814859,Ardea alba,Great Egret,Aves,144455,mediterranean_2022,event
+137137968,2022-09-30,35.4148778,23.7307428,Gyps fulvus,Eurasian Griffon,Aves,5366,mediterranean_2022,event
+137134132,2022-09-30,40.7318233333,-3.8097216667,Tadorna ferruginea,Ruddy Shelduck,Aves,7068,mediterranean_2022,event
+137134131,2022-09-30,40.7318233333,-3.8097133333,Alopochen aegyptiaca,Egyptian Goose,Aves,72486,mediterranean_2022,event
+137134129,2022-09-30,40.73183,-3.8097183333,Alopochen aegyptiaca,Egyptian Goose,Aves,72486,mediterranean_2022,event
+137134128,2022-09-30,40.7318383333,-3.8097116667,Tadorna ferruginea,Ruddy Shelduck,Aves,7068,mediterranean_2022,event
+137624698,2022-09-30,36.6759316667,-4.4548016667,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,event
+137396321,2022-09-30,43.4818933333,4.40551,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,event
+137286895,2022-09-30,33.0725830376,35.6068300964,Gallinula chloropus,Common Moorhen,Aves,201282,mediterranean_2022,event
+137956711,2022-09-30,30.5132953118,34.6158752536,Oenanthe lugens,Mourning Wheatear,Aves,12821,mediterranean_2022,event
+137624697,2022-09-30,36.6759416667,-4.4547216667,Cecropis rufula,European Red-rumped Swallow,Aves,1584768,mediterranean_2022,event
+137286896,2022-09-30,33.0737810855,35.605095419,Pelecanus onocrotalus,Great White Pelican,Aves,4327,mediterranean_2022,event
+137382005,2022-09-30,43.6270164607,4.2577531822,Sturnus vulgaris,European Starling,Aves,14850,mediterranean_2022,event
+137395748,2022-09-30,43.4818933333,4.40551,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137134124,2022-09-30,40.7318116667,-3.8097533333,Coloeus monedula,Eurasian Jackdaw,Aves,336399,mediterranean_2022,event
+137172399,2022-09-30,44.0085734804,1.73419192,Cervus elaphus,Red Deer,Mammalia,204113,mediterranean_2022,event
+137002097,2022-09-30,42.9694353587,17.0121334214,Dama dama,European Fallow Deer,Mammalia,42161,mediterranean_2022,event
+137286897,2022-09-30,33.0730644265,35.6077681088,Microcarbo pygmaeus,Pygmy Cormorant,Aves,979813,mediterranean_2022,event
+137624291,2022-09-30,36.67596,-4.4547733333,Thinornis dubius,Little Ringed Plover,Aves,1580336,mediterranean_2022,event
+137286908,2022-09-30,33.0736096405,35.6081962785,Tachybaptus ruficollis,Little Grebe,Aves,4237,mediterranean_2022,event
+142483812,2022-09-30,41.8105982851,-0.8525731304,Galerida theklae,Thekla's Lark,Aves,7359,mediterranean_2022,event
+137381925,2022-09-30,43.6212570186,4.2580230246,Plegadis falcinellus,Glossy Ibis,Aves,3756,mediterranean_2022,event
+137381865,2022-09-30,43.6206822744,4.2574222098,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+143877390,2022-09-30,43.0534778348,6.4199841003,Pinna rudis,Spiny Fan Mussel,Mollusca,292173,mediterranean_2022,event
+137624290,2022-09-30,36.67605,-4.4551433333,Himantopus himantopus,Black-winged Stilt,Aves,4835,mediterranean_2022,event
+137395721,2022-09-30,43.4754916667,4.4157966667,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137381836,2022-09-30,43.6203793665,4.2577011595,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+142483572,2022-09-30,41.810470031,-0.8528085648,Galerida theklae,Thekla's Lark,Aves,7359,mediterranean_2022,event
+137395392,2022-09-30,43.488735,4.4057983333,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137624289,2022-09-30,36.6761416667,-4.4558116667,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137381799,2022-09-30,43.6188337358,4.2611451159,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+142483306,2022-09-30,41.8100572999,-0.8538811195,Galerida theklae,Thekla's Lark,Aves,7359,mediterranean_2022,event
+141448441,2022-09-30,40.6994585936,-3.8025355488,Sturnus unicolor,Spotless Starling,Aves,14849,mediterranean_2022,event
+137381757,2022-09-30,43.6183832429,4.2611773024,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137134114,2022-09-30,40.7301583333,-3.8026566667,Podiceps cristatus,Great Crested Grebe,Aves,4208,mediterranean_2022,event
+137393964,2022-09-30,43.4888233333,4.4057116667,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,event
+137134113,2022-09-30,40.7301583333,-3.8026583333,Anser anser domesticus,Domestic Greylag Goose,Aves,120479,mediterranean_2022,event
+137134110,2022-09-30,40.730155,-3.802655,Tadorna ferruginea,Ruddy Shelduck,Aves,7068,mediterranean_2022,event
+137133780,2022-09-30,40.73013,-3.802645,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,mediterranean_2022,event
+137133779,2022-09-30,40.7301316667,-3.8026416667,Tadorna ferruginea,Ruddy Shelduck,Aves,7068,mediterranean_2022,event
+152122583,2022-09-30,36.1292489,5.0775509,Numida meleagris,Helmeted Guineafowl,Aves,1428,mediterranean_2022,event
+137624288,2022-09-30,36.67634,-4.4571783333,Gallinago gallinago,Common Snipe,Aves,318836,mediterranean_2022,event
+137133778,2022-09-30,40.7301716667,-3.8026366667,Ardea alba,Great Egret,Aves,144455,mediterranean_2022,event
+144078884,2022-09-30,43.0734111558,6.5957745994,Dentex dentex,Dentex,Actinopterygii,118654,mediterranean_2022,event
+144080811,2022-09-30,43.0534778348,6.4199841003,Tripterygion melanurus,Small Triplefin Blenny,Actinopterygii,114453,mediterranean_2022,event
+141448438,2022-09-30,40.6994585936,-3.8025355488,Sturnus unicolor,Spotless Starling,Aves,14849,mediterranean_2022,event
+141448439,2022-09-30,40.6994585936,-3.8025355488,Cyanopica cooki,Iberian Magpie,Aves,339684,mediterranean_2022,event
+137054870,2022-09-30,36.802035653,28.2729379365,Gobius incognitus,Incognito Goby,Actinopterygii,505877,mediterranean_2022,event
+143657031,2022-09-30,43.0534778348,6.4199841003,Peltodoris atromaculata,Leopard Sea Slug,Mollusca,326343,mediterranean_2022,event
+137381562,2022-09-30,43.6203327652,4.2577011595,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137133777,2022-09-30,40.7301366667,-3.80264,Podiceps cristatus,Great Crested Grebe,Aves,4208,mediterranean_2022,event
+137624287,2022-09-30,36.676385,-4.4571833333,Anas platyrhynchos,Mallard,Aves,6930,mediterranean_2022,event
+141448435,2022-09-30,40.6994585936,-3.8025355488,Cyanopica cooki,Iberian Magpie,Aves,339684,mediterranean_2022,event
+137523107,2022-09-30,41.9032330556,12.4542747222,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,event
+137049353,2022-09-30,36.8007985841,28.2717363069,Scorpaena maderensis,Madeira Scorpionfish,Actinopterygii,342288,mediterranean_2022,event
+137004209,2022-09-30,43.6752966667,-0.0210611667,Apodemus sylvaticus,European Wood Mouse,Mammalia,45562,mediterranean_2022,event
+137956696,2022-09-30,30.5135642571,34.6092792415,Corvus ruficollis,Brown-necked Raven,Aves,8034,mediterranean_2022,event
+137381479,2022-09-30,43.623934899,4.2435660625,Cygnus olor,Mute Swan,Aves,6921,mediterranean_2022,event
+137133776,2022-09-30,40.7293566667,-3.8016116667,Tadorna ferruginea,Ruddy Shelduck,Aves,7068,mediterranean_2022,event
+137133775,2022-09-30,40.7293516667,-3.8016116667,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137133774,2022-09-30,40.7293916667,-3.8015266667,Tadorna ferruginea,Ruddy Shelduck,Aves,7068,mediterranean_2022,event
+143657030,2022-09-30,43.0534778348,6.4199841003,Flabellina affinis,Mediterranean Violet Aeolid,Mollusca,326338,mediterranean_2022,event
+141448434,2022-09-30,40.6994585936,-3.8025355488,Turdus viscivorus,Mistle Thrush,Aves,12735,mediterranean_2022,event
+137000967,2022-09-30,43.6259583333,6.9958116667,Meles meles,European Badger,Mammalia,855297,mediterranean_2022,event
+143657028,2022-09-30,43.0534778348,6.4199841003,Candiella striata,,Mollusca,1496148,mediterranean_2022,event
+137047559,2022-09-30,36.8005236772,28.2717363069,Lobotes surinamensis,Atlantic Tripletail,Actinopterygii,120694,mediterranean_2022,event
+137042160,2022-09-30,43.1195502877,6.0169061076,Tachybaptus ruficollis,Little Grebe,Aves,4237,mediterranean_2022,event
+143877387,2022-09-30,43.0534778348,6.4199841003,Arca noae,Noah's Ark shell,Mollusca,324550,mediterranean_2022,event
+137381391,2022-09-30,43.6209480712,4.2444885001,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,event
+137624285,2022-09-30,36.6762883333,-4.4571816667,Alcedo atthis,Common Kingfisher,Aves,2599,mediterranean_2022,event
+144082265,2022-09-30,43.0534778348,6.4199841003,Serranus cabrilla,Comber,Actinopterygii,118675,mediterranean_2022,event
+139830057,2022-09-30,42.8047224439,10.269673901,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,event
+137042158,2022-09-30,43.1187274401,6.0157875225,Saxicola rubetra,Whinchat,Aves,12908,mediterranean_2022,event
+137063855,2022-09-30,43.1182967119,6.0159699127,Hirundo rustica,Barn Swallow,Aves,11901,mediterranean_2022,event
+137000654,2022-09-30,43.538898468,4.1323180199,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,event
+152122587,2022-09-30,36.1292489,5.0775509,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+152122586,2022-09-30,36.1292489,5.0775509,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+152122585,2022-09-30,36.1292489,5.0775509,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+152122584,2022-09-30,36.131330867,5.1621586482,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+144082257,2022-09-30,43.0534778348,6.4199841003,Coris julis,Mediterranean Rainbow Wrasse,Actinopterygii,50968,mediterranean_2022,event
+137381298,2022-09-30,43.6177334014,4.2424514524,Tringa ochropus,Green Sandpiper,Aves,3885,mediterranean_2022,event
+137624284,2022-09-30,36.6763766667,-4.4571033333,Larus fuscus,Lesser Black-backed Gull,Aves,4381,mediterranean_2022,event
+137624282,2022-09-30,36.6763966667,-4.4571233333,Tachybaptus ruficollis,Little Grebe,Aves,4237,mediterranean_2022,event
+137381174,2022-09-30,43.6159567405,4.2417111627,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+137381073,2022-09-30,43.6169174379,4.2417722069,Ardea alba,Great Egret,Aves,144455,mediterranean_2022,event
+137380874,2022-09-30,43.6175042676,4.2418077222,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+144082274,2022-09-30,43.0534778348,6.4199841003,Anthias anthias,Mediterranean Fairy Basslet,Actinopterygii,118672,mediterranean_2022,event
+137380830,2022-09-30,43.6201217774,4.2438354722,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137380781,2022-09-30,43.6219236764,4.2429557077,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137027048,2022-09-30,41.5451695,1.8913371,Parus major,Great Tit,Aves,203153,mediterranean_2022,event
+137523106,2022-09-30,41.9057580556,12.4548080556,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,event
+141448440,2022-09-30,40.6994585936,-3.8025355488,Corvus corone,Carrion Crow,Aves,204496,mediterranean_2022,event
+137380718,2022-09-30,43.623013973,4.2425929786,Cygnus olor,Mute Swan,Aves,6921,mediterranean_2022,event
+141448433,2022-09-30,40.6601380915,-3.8899416336,Lanius meridionalis,Iberian Grey Shrike,Aves,906982,mediterranean_2022,event
+151834771,2022-09-30,36.1292489,5.0775509,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+137059350,2022-09-30,42.57589,27.423904,Curruca curruca,Lesser Whitethroat,Aves,1289484,mediterranean_2022,event
+155322743,2022-09-30,35.0508061541,36.9070921093,Milvus migrans,Black Kite,Aves,5268,mediterranean_2022,event
+137029666,2022-09-30,39.3333324823,-0.3666666895,Himantopus himantopus,Black-winged Stilt,Aves,4835,mediterranean_2022,event
+137453498,2022-09-30,43.8338526,11.1994346,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,mediterranean_2022,event
+137169107,2022-09-30,43.7765383333,11.2583883333,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,event
+137029881,2022-09-30,39.3333324823,-0.3666666895,Glareola pratincola,Collared Pratincole,Aves,4604,mediterranean_2022,event
+137120119,2022-09-30,43.7764280472,11.2584810611,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,event
+137058691,2022-09-30,42.5772839722,27.422291,Accipiter nisus,Eurasian Sparrowhawk,Aves,5106,mediterranean_2022,event
+137420240,2022-09-30,33.0496529623,35.5173064707,Himantopus himantopus,Black-winged Stilt,Aves,4835,mediterranean_2022,event
+141448432,2022-09-30,40.7694397711,-3.8733415161,Aegypius monachus,Cinereous Vulture,Aves,5382,mediterranean_2022,event
+137029787,2022-09-30,39.3333324823,-0.3666666895,Actitis hypoleucos,Common Sandpiper,Aves,3978,mediterranean_2022,event
+136999029,2022-09-30,36.4144682633,30.4840228386,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,event
+152122588,2022-09-30,36.1292489,5.0775509,Buteo rufinus,Long-legged Buzzard,Aves,5192,mediterranean_2022,event
+137149684,2022-09-30,37.1994038152,-1.8117718942,Galerida cristata,Crested Lark,Aves,578607,mediterranean_2022,event
+137058858,2022-09-30,42.577303,27.4222989722,Ficedula parva,Red-breasted Flycatcher,Aves,13113,mediterranean_2022,event
+138381546,2022-09-30,33.0072456661,35.5688416969,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+318694222,2022-09-30,31.4873230344,35.2470832276,Falco biarmicus,Lanner Falcon,Aves,4684,mediterranean_2022,event
+151834712,2022-09-30,36.1292489,5.0775509,Buteo rufinus,Long-legged Buzzard,Aves,5192,mediterranean_2022,event
+137059094,2022-09-30,42.5773969722,27.42236,Phoenicurus phoenicurus,Common Redstart,Aves,12992,mediterranean_2022,event
+152122589,2022-09-30,36.1292489,5.0775509,Thinornis dubius,Little Ringed Plover,Aves,1580336,mediterranean_2022,event
+152122590,2022-09-30,36.1292489,5.0775509,Spatula clypeata,Northern Shoveler,Aves,558438,mediterranean_2022,event
+137013446,2022-09-30,32.3925605743,34.8824118823,Circaetus gallicus,Short-toed Snake-Eagle,Aves,5242,mediterranean_2022,event
+138235064,2022-09-30,36.7817462527,-2.2422486171,Saxicola rubicola,European Stonechat,Aves,201192,mediterranean_2022,event
+136997544,2022-09-30,39.562915314,2.626340948,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,event
+137058604,2022-09-30,42.577286,27.4223199722,Chloris chloris,European Greenfinch,Aves,145360,mediterranean_2022,event
+151834677,2022-09-30,36.1292489,5.0775509,Tringa ochropus,Green Sandpiper,Aves,3885,mediterranean_2022,event
+137149683,2022-09-30,37.1285519877,-1.811648663,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,event
+137149668,2022-09-30,37.1996278755,-1.8139506978,Ardea cinerea cinerea,Western Grey Heron,Aves,333285,mediterranean_2022,event
+138623639,2022-09-30,36.7549087833,28.1321810166,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137149697,2022-09-30,37.2002726178,-1.8143330286,Nycticorax nycticorax nycticorax,Eurasian Black-crowned Night-Heron,Aves,514018,mediterranean_2022,event
+137149666,2022-09-30,37.2005176646,-1.8132266146,Alcedo atthis ispida,European Common Kingfisher,Aves,629973,mediterranean_2022,event
+137117914,2022-09-30,43.633955,3.8627866667,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+273024745,2022-09-30,32.3724895943,34.9764513588,Calidris melanotos,Pectoral Sandpiper,Aves,3865,mediterranean_2022,event
+138393246,2022-09-30,30.3216354,35.4801251,Oenanthe melanura,Blackstart,Aves,980212,mediterranean_2022,event
+137149696,2022-09-30,37.2000012879,-1.8139467905,Botaurus minutus minutus,Eurasian Little Bittern,Aves,1582992,mediterranean_2022,event
+137274851,2022-09-30,32.1098370171,34.7956137743,Acridotheres tristis,Common Myna,Aves,204454,mediterranean_2022,event
+137149695,2022-09-30,37.3861021528,-1.8380659149,Ichthyaetus audouinii,Audouin's Gull,Aves,144522,mediterranean_2022,event
+137004810,2022-09-30,44.4213032997,26.1550033,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,event
+137149705,2022-09-30,37.1992129302,-1.8122239569,Sterna hirundo hirundo,Western Common Tern,Aves,566960,mediterranean_2022,event
+272649435,2022-09-30,32.3724895943,34.9764513588,Vanellus vanellus,Northern Lapwing,Aves,4857,mediterranean_2022,event
+137274855,2022-09-30,32.1100028666,34.7950681962,Curruca curruca,Lesser Whitethroat,Aves,1289484,mediterranean_2022,event
+137149706,2022-09-30,37.199035602,-1.8128784159,Sternula albifrons albifrons,,Aves,703924,mediterranean_2022,event
+137274856,2022-09-30,32.1100309393,34.7950628318,Garrulus glandarius atricapillus,Levant Jay,Aves,509323,mediterranean_2022,event
+137149704,2022-09-30,37.1983823218,-1.812455705,Riparia riparia riparia,Bank Swallow (Holarctic),Aves,698722,mediterranean_2022,event
+137149685,2022-09-30,37.1983761687,-1.8124546205,Hirundo rustica rustica,White-bellied Barn Swallow,Aves,353304,mediterranean_2022,event
+137149671,2022-09-30,37.1983794016,-1.8124595811,Delichon urbicum,Western House Martin,Aves,64705,mediterranean_2022,event
+137149669,2022-09-30,37.1983745475,-1.8124578567,Cecropis rufula,European Red-rumped Swallow,Aves,1584768,mediterranean_2022,event
+137149672,2022-09-30,37.1988312373,-1.813424135,Fulica atra atra,Eurasian coot,Aves,337558,mediterranean_2022,event
+138012447,2022-09-30,40.2853597054,17.8711559068,Falco tinnunculus,Eurasian Kestrel,Aves,472766,mediterranean_2022,event
+138381556,2022-09-30,33.0209599863,35.5066603631,Ardeola ralloides,Squacco Heron,Aves,4994,mediterranean_2022,event
+137274845,2022-09-30,32.1097507064,34.7949859697,Felis catus,Domestic Cat,Mammalia,118552,mediterranean_2022,event
+137274846,2022-09-30,32.1099253065,34.7950047452,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,event
+136998291,2022-09-30,43.5794210955,39.72038806,Turdus merula,Eurasian Blackbird,Aves,12716,mediterranean_2022,event
+137274847,2022-09-30,32.1099126424,34.7950570483,Pycnonotus xanthopygos,White-spectacled Bulbul,Aves,14600,mediterranean_2022,event
+137274848,2022-09-30,32.1099876155,34.7943670501,Psittacula krameri,Rose-ringed Parakeet,Aves,18911,mediterranean_2022,event
+137274850,2022-09-30,32.1099278935,34.7951170627,Spilopelia senegalensis,Laughing Dove,Aves,1455922,mediterranean_2022,event
+137868319,2022-09-30,33.1137404896,35.5950689302,Elanus caeruleus,Black-winged Kite,Aves,5275,mediterranean_2022,event
+136998289,2022-09-30,43.5794832729,39.7203594503,Falco subbuteo,Eurasian Hobby,Aves,4643,mediterranean_2022,event
+138381558,2022-09-30,33.1364889586,35.6078633008,Ardea ibis,Western Cattle-Egret,Aves,411086,mediterranean_2022,event
+137000827,2022-09-30,32.0958827381,34.8095459864,Canis aureus,Golden Jackal,Mammalia,851014,mediterranean_2022,event
+138371864,2022-09-30,40.4171522459,-3.6851111054,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,event
+137042041,2022-09-30,40.4112421941,-3.6914421245,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,event
+140697294,2022-09-30,43.1198945,6.196595,Calidris pugnax,Ruff,Aves,339593,mediterranean_2022,event
+140697989,2022-09-30,43.1214638333,6.1981366667,Actitis hypoleucos,Common Sandpiper,Aves,3978,mediterranean_2022,event
+137043311,2022-09-30,40.4105715624,-3.6908899248,Parus major,Great Tit,Aves,203153,mediterranean_2022,event
+137009335,2022-09-30,43.8347108291,3.8815671578,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969,mediterranean_2022,event
+137009412,2022-09-30,44.3173143368,3.6152142018,Vulpes vulpes,Red Fox,Mammalia,42069,mediterranean_2022,event
+137041215,2022-09-30,40.4118566574,-3.6908993125,Myiopsitta monachus,Monk Parakeet,Aves,19349,mediterranean_2022,event
+141448769,2022-09-30,44.959434,8.095295,Capreolus capreolus,Western Roe Deer,Mammalia,42184,mediterranean_2022,event
+137257171,2022-09-30,37.803208,23.856481,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,event
+137149588,2022-09-30,37.803258,23.856538,Thericium vulgatum,Horn Shell,Mollusca,1636936,mediterranean_2022,event
+137027325,2022-09-30,42.3811853936,2.1502091746,Rhinolophus ferrumequinum,Greater Horseshoe Bat,Mammalia,40645,mediterranean_2022,event
+137006932,2022-09-30,40.3890258463,17.6018115878,Hypsugo savii,Savi's Pipistrelle,Mammalia,765528,mediterranean_2022,event
+137004713,2022-09-30,40.3344350844,-3.8798210397,Serinus serinus,European Serin,Aves,9236,mediterranean_2022,event
+136995821,2022-09-29,36.8196305556,11.9879388889,Muscicapa striata,Spotted Flycatcher,Aves,12971,mediterranean_2022,event
+136959432,2022-09-29,40.34255559,18.05474507,Cantareus apertus,Green Garden Snail,Mollusca,96707,mediterranean_2022,event
+136958628,2022-09-29,40.34255315,18.05476858,Rumina decollata,Decollate Snail,Mollusca,125669,mediterranean_2022,event
+136953499,2022-09-29,40.34253356,18.05481082,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+141992480,2022-09-29,43.6482391568,3.8742421525,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+137406092,2022-09-29,41.3189670939,19.4319146499,Eobania vermiculata,Chocolate-band Snail,Mollusca,199875,mediterranean_2022,event
+183335441,2022-09-29,41.3191045808,19.4319649413,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+136949569,2022-09-29,43.7040405273,11.0965156555,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+136949463,2022-09-29,43.7040710449,11.0965385437,Rumina decollata,Decollate Snail,Mollusca,125669,mediterranean_2022,event
+145768946,2022-09-29,39.7938687629,3.1070944173,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+145768945,2022-09-29,39.7938687629,3.1070944173,Phalacrocorax carbo,Great Cormorant,Aves,4270,mediterranean_2022,event
+215876868,2022-09-29,38.0861477895,-1.3748935349,Caprimulgus ruficollis,Red-necked Nightjar,Aves,19482,mediterranean_2022,event
+138973364,2022-09-29,43.6290336059,3.8469999029,Zonites algirus,,Mollusca,487693,mediterranean_2022,event
+137987838,2022-09-29,43.6489071136,3.8784545352,Pipistrellus pygmaeus,Soprano Pipistrelle,Mammalia,74908,mediterranean_2022,event
+137987833,2022-09-29,43.6489071136,3.8784545352,Pipistrellus pygmaeus,Soprano Pipistrelle,Mammalia,74908,mediterranean_2022,event
+145605982,2022-09-29,43.2274023603,27.9804451106,Helix lucorum,Turkish Snail,Mollusca,336841,mediterranean_2022,event
+215876870,2022-09-29,38.1104503247,-1.2190200842,Coloeus monedula,Eurasian Jackdaw,Aves,336399,mediterranean_2022,event
+137398686,2022-09-29,40.657637584,-3.7666086375,Bubo bubo hispanus,Iberian eagle-owl,Aves,569720,mediterranean_2022,event
+136935947,2022-09-29,37.877370332,-4.7791512441,Nycticorax nycticorax,Black-crowned Night Heron,Aves,4981,mediterranean_2022,event
+145768944,2022-09-29,39.7938687629,3.1070944173,Himantopus himantopus,Black-winged Stilt,Aves,4835,mediterranean_2022,event
+145768943,2022-09-29,39.7938687629,3.1070944173,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+138875317,2022-09-29,40.662716515,-3.7710457295,Bubo bubo,Eurasian Eagle-Owl,Aves,20059,mediterranean_2022,event
+138088579,2022-09-29,37.1998968757,-1.8133607134,Phoenicopterus roseus,Greater Flamingo,Aves,73222,mediterranean_2022,event
+138088457,2022-09-29,37.1995446256,-1.8134814128,Fulica atra atra,Eurasian coot,Aves,337558,mediterranean_2022,event
+138088369,2022-09-29,37.1998058089,-1.8136426806,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,mediterranean_2022,event
+137861768,2022-09-29,39.7018130662,3.0837068892,Ichthyaetus audouinii,Audouin's Gull,Aves,144522,mediterranean_2022,event
+136932306,2022-09-29,39.5393676758,2.5925865173,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,event
+139733258,2022-09-29,41.4132366667,2.1524888333,Myiopsitta monachus,Monk Parakeet,Aves,19349,mediterranean_2022,event
+137131559,2022-09-29,43.6471797603,3.869100268,Psittacula krameri,Rose-ringed Parakeet,Aves,18911,mediterranean_2022,event
+145768942,2022-09-29,39.7938687629,3.1070944173,Porphyrio porphyrio,Western Swamphen,Aves,475028,mediterranean_2022,event
+137314315,2022-09-29,43.647255322,3.8695473355,Psittacula krameri,Rose-ringed Parakeet,Aves,18911,mediterranean_2022,event
+136933501,2022-09-29,39.6287193056,2.72736,Xerotricha apicina,,Mollusca,361280,mediterranean_2022,event
+144129481,2022-09-29,44.7781909722,8.2126979722,Circus aeruginosus,Western Marsh Harrier,Aves,5173,mediterranean_2022,event
+145768948,2022-09-29,39.7938687629,3.1070944173,Nycticorax nycticorax,Black-crowned Night Heron,Aves,4981,mediterranean_2022,event
+136931001,2022-09-29,41.3782287422,2.0488549769,Columba palumbus,Common Wood-Pigeon,Aves,3048,mediterranean_2022,event
+137560482,2022-09-29,43.0635611667,6.1309805,Calidris alba,Sanderling,Aves,3849,mediterranean_2022,event
+152122592,2022-09-29,36.1292489,5.0775509,Motacilla flava,Western Yellow Wagtail,Aves,204545,mediterranean_2022,event
+152122591,2022-09-29,36.1292489,5.0775509,Motacilla flava,Western Yellow Wagtail,Aves,204545,mediterranean_2022,event
+137000504,2022-09-29,40.65749,-3.7661033333,Bubo bubo,Eurasian Eagle-Owl,Aves,20059,mediterranean_2022,event
+137749974,2022-09-29,42.6687144326,2.8352209926,Rumina decollata,Decollate Snail,Mollusca,125669,mediterranean_2022,event
+137689492,2022-09-29,41.86873,12.4956666667,Clarias gariepinus,Sharptooth Catfish,Actinopterygii,82779,mediterranean_2022,event
+137000500,2022-09-29,40.6575533333,-3.7660866667,Bubo bubo,Eurasian Eagle-Owl,Aves,20059,mediterranean_2022,event
+136926512,2022-09-29,32.8113079997,34.9569192,Erinaceus concolor,Southern White-breasted Hedgehog,Mammalia,43043,mediterranean_2022,event
+138596116,2022-09-29,44.1530743357,3.4125332305,Cervus elaphus,Red Deer,Mammalia,204113,mediterranean_2022,event
+214152851,2022-09-29,36.4797349481,-4.9728807716,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+191378373,2022-09-29,41.3205071314,19.4305001199,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+191378280,2022-09-29,41.3205260165,19.430526942,Eobania vermiculata,Chocolate-band Snail,Mollusca,199875,mediterranean_2022,event
+262675017,2022-09-29,43.4281351743,3.7607411814,Trochoidea trochoides,,Mollusca,702589,mediterranean_2022,event
+137043867,2022-09-29,39.4395266228,29.9804884826,Buteo buteo,Common Buzzard,Aves,204472,mediterranean_2022,event
+169143253,2022-09-29,32.5949071909,35.4060893293,Felis chaus,Jungle Cat,Mammalia,41961,mediterranean_2022,event
+137043856,2022-09-29,39.4395266228,29.9804884826,Corvus frugilegus,Rook,Aves,8029,mediterranean_2022,event
+137043858,2022-09-29,39.4395266228,29.9804884826,Passer montanus,Eurasian Tree Sparrow,Aves,13851,mediterranean_2022,event
+136923767,2022-09-29,41.9087666667,12.43568,Theba pisana,White Italian Snail,Mollusca,119608,mediterranean_2022,event
+262675013,2022-09-29,43.4281351743,3.7607411814,Theba pisana,White Italian Snail,Mollusca,119608,mediterranean_2022,event
+136944404,2022-09-29,40.5373273048,-3.6372246221,Cornu aspersum,Garden Snail,Mollusca,480298,mediterranean_2022,event
+136952989,2022-09-29,37.0177823551,-4.5549754515,Sylvia borin,Garden Warbler,Aves,15302,mediterranean_2022,event
+144605399,2022-09-29,32.0717666121,34.7848086432,Halcyon smyrnensis,White-throated Kingfisher,Aves,204519,mediterranean_2022,event
+137029556,2022-09-29,38.6119296611,-0.4455900192,Loxia curvirostra,Red Crossbill,Aves,10411,mediterranean_2022,event
+136952987,2022-09-29,37.0177823551,-4.5549754515,Carduelis carduelis,European Goldfinch,Aves,9398,mediterranean_2022,event
+191867080,2022-09-29,43.3397858757,5.4436906802,Alcedo atthis,Common Kingfisher,Aves,2599,mediterranean_2022,event
+136952988,2022-09-29,37.0177823551,-4.5549754515,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,event
+136921126,2022-09-29,41.9020690918,12.4652671814,Egretta garzetta,Little Egret,Aves,4943,mediterranean_2022,event
+137172607,2022-09-29,43.2666471138,1.6612930568,Anser anser,Greylag Goose,Aves,7018,mediterranean_2022,event
+137181741,2022-09-29,39.2099946675,23.3335118473,Trachinotus ovatus,Pompano,Actinopterygii,51401,mediterranean_2022,event
+137181739,2022-09-29,39.2099946675,23.3335118473,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,event
+137181745,2022-09-29,39.2099946675,23.3335118473,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,event
+137181744,2022-09-29,39.2099946675,23.3335118473,Sarpa salpa,Salema Porgy,Actinopterygii,118663,mediterranean_2022,event
+137580479,2022-09-29,36.8097303005,25.8461677283,Ichthyaetus audouinii,Audouin's Gull,Aves,144522,mediterranean_2022,event
+138792891,2022-09-29,36.8101267735,25.8465137333,Chamelea gallina,Striped Venus,Mollusca,448229,mediterranean_2022,event
+137181751,2022-09-29,39.210035,23.333555,Symphodus roissali,Five-spotted Wrasse,Actinopterygii,113535,mediterranean_2022,event
+137172933,2022-09-29,43.2662872632,1.6603485305,Ciconia ciconia,White Stork,Aves,4733,mediterranean_2022,event
+162203151,2022-09-29,41.4054,2.2200799722,Echinolittorina punctata,,Mollusca,429999,mediterranean_2022,event
+162203155,2022-09-29,41.4054,2.2200799722,Echinolittorina punctata,,Mollusca,429999,mediterranean_2022,event
+162203152,2022-09-29,41.4054,2.2200799722,Echinolittorina punctata,,Mollusca,429999,mediterranean_2022,event
+141308869,2022-09-29,39.788593,3.077756,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,event
+137181756,2022-09-29,39.210035,23.333555,Thalassoma pavo,Ornate Wrasse,Actinopterygii,50972,mediterranean_2022,event
+137569698,2022-09-29,36.8101748226,25.8465754241,Stramonita haemastoma,Red-mouthed Dog Winkle,Mollusca,292602,mediterranean_2022,event
+138910068,2022-09-29,36.8098017034,25.8454153687,Anthus trivialis,Tree Pipit,Aves,13711,mediterranean_2022,event
+138785435,2022-09-29,36.8098204936,25.8454006165,Saxicola rubetra,Whinchat,Aves,12908,mediterranean_2022,event
+138777898,2022-09-29,36.8098323046,25.8455612138,Ardea cinerea,Grey Heron,Aves,4954,mediterranean_2022,event
+136925702,2022-09-29,36.2310142781,28.1463906169,Corvus corax,Common Raven,Aves,8010,mediterranean_2022,event
+137552609,2022-09-29,36.8097931135,25.8452520892,Muraena helena,Mediterranean Moray,Actinopterygii,118590,mediterranean_2022,event
+136918320,2022-09-29,44.8028116667,-0.6083716667,Columba palumbus,Common Wood-Pigeon,Aves,3048,mediterranean_2022,event
+307923439,2022-09-29,37.9275316667,12.3177533333,Alectoris rufa,Red-legged Partridge,Aves,867,mediterranean_2022,event
+137249815,2022-09-29,39.4648445077,-0.3996920586,Sturnus unicolor,Spotless Starling,Aves,14849,mediterranean_2022,event
+137548697,2022-09-29,36.8099584673,25.8462227136,Larus michahellis,Yellow-legged Gull,Aves,59202,mediterranean_2022,event
+136942879,2022-09-29,44.9024176979,20.2592373267,Sturnus vulgaris,European Starling,Aves,14850,mediterranean_2022,event
+138788596,2022-09-29,36.809881696,25.8450391889,Columba livia domestica,Feral Pigeon,Aves,122767,mediterranean_2022,event
+137173080,2022-09-29,43.2653786372,1.6608591312,Myocastor coypus,Coypu,Mammalia,43997,mediterranean_2022,event
+136923877,2022-09-29,37.9678640222,12.073793225,Oryctolagus cuniculus,European Rabbit,Mammalia,43151,mediterranean_2022,event
+137181760,2022-09-29,39.2100742427,23.3337260327,Sparus aurata,Gilthead Seabream,Actinopterygii,1494783,mediterranean_2022,event
+137173200,2022-09-29,43.2664133254,1.6611939009,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,event
+137181762,2022-09-29,39.2100236007,23.3339099637,Mullus surmuletus,Striped Red Mullet,Actinopterygii,118619,mediterranean_2022,event
+137181764,2022-09-29,39.2100236007,23.3339099637,Thalassoma pavo,Ornate Wrasse,Actinopterygii,50972,mediterranean_2022,event
+136923077,2022-09-29,36.6640785896,29.115605168,Lanius collurio,Red-backed Shrike,Aves,12038,mediterranean_2022,event
+137181767,2022-09-29,39.2099541826,23.3338574935,Seriola dumerili,Greater Amberjack,Actinopterygii,51549,mediterranean_2022,event
+137181765,2022-09-29,39.209941277,23.33391067,Serranus scriba,Painted Comber,Actinopterygii,118674,mediterranean_2022,event
+137181769,2022-09-29,39.2099541826,23.3338574935,Coris julis,Mediterranean Rainbow Wrasse,Actinopterygii,50968,mediterranean_2022,event
+136916328,2022-09-29,39.803286352,-3.9032578468,Galerida theklae,Thekla's Lark,Aves,7359,mediterranean_2022,event
+137181774,2022-09-29,39.2098928324,23.333833395,Seriola dumerili,Greater Amberjack,Actinopterygii,51549,mediterranean_2022,event
+137181772,2022-09-29,39.2098928324,23.333833395,Trachinotus ovatus,Pompano,Actinopterygii,51401,mediterranean_2022,event
+137546888,2022-09-29,36.9209273924,25.8558552665,Puffinus yelkouan,Yelkouan Shearwater,Aves,4109,mediterranean_2022,event
+137542389,2022-09-29,36.8097992875,25.8454616368,Oriolus oriolus,Eurasian Golden Oriole,Aves,204556,mediterranean_2022,event
+137173673,2022-09-29,43.2658543953,1.6603851215,Muscicapa striata,Spotted Flycatcher,Aves,12971,mediterranean_2022,event
+138324724,2022-09-29,43.0551015,11.4890032,Buteo buteo,Common Buzzard,Aves,204472,mediterranean_2022,event
+137173807,2022-09-29,43.2656875988,1.6606894273,Carduelis carduelis,European Goldfinch,Aves,9398,mediterranean_2022,event
+137029200,2022-09-29,38.6188283528,-0.4745800048,Oenanthe oenanthe,Northern Wheatear,Aves,12822,mediterranean_2022,event
+137551427,2022-09-29,40.8999955403,24.3503473699,Diplodus sargus,White Sea Bream,Actinopterygii,118669,mediterranean_2022,event
+136951292,2022-09-29,41.6352413014,-0.8970260535,Psittacula krameri,Rose-ringed Parakeet,Aves,18911,mediterranean_2022,event
+136916124,2022-09-29,44.8986703875,20.27024813,Rallus aquaticus,Water Rail,Aves,513926,mediterranean_2022,event
+136925220,2022-09-29,41.5917466667,24.430625,Ursus arctos,Brown Bear,Mammalia,41641,mediterranean_2022,event
+136951290,2022-09-29,41.6337017079,-0.8961462889,Coloeus monedula,Eurasian Jackdaw,Aves,336399,mediterranean_2022,event
+136943442,2022-09-29,43.9810879969,39.2381447153,Garrulus glandarius,Eurasian Jay,Aves,8088,mediterranean_2022,event
+136945710,2022-09-29,42.7145262441,-1.7557793856,Erithacus rubecula,European Robin,Aves,13094,mediterranean_2022,event
+136915842,2022-09-29,44.8906512871,20.2656897157,Sturnus vulgaris,European Starling,Aves,14850,mediterranean_2022,event
+136963295,2022-09-29,40.8013108921,24.2202528939,Dicentrarchus labrax,European Seabass,Actinopterygii,99269,mediterranean_2022,event
+143877389,2022-09-29,43.0534778348,6.4199841003,Pinna rudis,Spiny Fan Mussel,Mollusca,292173,mediterranean_2022,event
+137832614,2022-09-29,33.1928345743,35.4841504163,Falco naumanni,Lesser Kestrel,Aves,59845,mediterranean_2022,event
+144080209,2022-09-29,43.0534778348,6.4199841003,Diplodus annularis,Annular Seabream,Actinopterygii,118665,mediterranean_2022,event
+136915769,2022-09-29,44.8845521936,20.2797116339,Mustela nivalis,Least Weasel,Mammalia,569428,mediterranean_2022,event
+136951287,2022-09-29,41.6330575,-0.8955514,Pica pica,Eurasian Magpie,Aves,891696,mediterranean_2022,event
+137610807,2022-09-29,43.4884120905,4.4458904217,Himantopus himantopus,Black-winged Stilt,Aves,4835,mediterranean_2022,event
+141447802,2022-09-29,40.6670300224,-3.7635878604,Passer domesticus,House Sparrow,Aves,13858,mediterranean_2022,event
+141306277,2022-09-29,39.777021,3.098587,Cairina moschata domestica,Domestic Muscovy Duck,Aves,204094,mediterranean_2022,event
+141306910,2022-09-29,39.777021,3.098587,Fulica atra,Eurasian Coot,Aves,482,mediterranean_2022,event
+136920929,2022-09-29,44.7837219167,8.6528024444,Cernuella neglecta,,Mollusca,97087,mediterranean_2022,event
+136951326,2022-09-29,43.71926,7.2839383333,Theba pisana,White Italian Snail,Mollusca,119608,mediterranean_2022,event
+143657027,2022-09-29,43.0534778348,6.4199841003,Cratena peregrina,Cratena Slug,Mollusca,64486,mediterranean_2022,event
+149404148,2022-09-29,36.8528668666,28.2705682215,Pomadasys stridens,striped piggy,Actinopterygii,615169,mediterranean_2022,event
+144080809,2022-09-29,43.0534778348,6.4199841003,Tripterygion delaisi,Black-faced Blenny,Actinopterygii,118642,mediterranean_2022,event
+137610788,2022-09-29,43.4884120905,4.4458904217,Numenius arquata,Eurasian Curlew,Aves,3896,mediterranean_2022,event
+136944526,2022-09-29,43.8190222222,5.3781416667,Zonites algirus,,Mollusca,487693,mediterranean_2022,event
+144082268,2022-09-29,43.0534778348,6.4199841003,Labrus merula,Brown Wrasse,Actinopterygii,103912,mediterranean_2022,event
+136915578,2022-09-29,44.8979412735,20.2620023489,Corvus frugilegus,Rook,Aves,8029,mediterranean_2022,event
+137610733,2022-09-29,43.4884120905,4.4458904217,Motacilla flava,Western Yellow Wagtail,Aves,204545,mediterranean_2022,event
+144082267,2022-09-29,43.0534778348,6.4199841003,Serranus cabrilla,Comber,Actinopterygii,118675,mediterranean_2022,event
+136909031,2022-09-29,43.46125857,3.6613572,Zonites algirus,,Mollusca,487693,mediterranean_2022,event

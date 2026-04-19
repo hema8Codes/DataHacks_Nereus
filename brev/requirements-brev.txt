@@ -1,0 +1,8 @@
+# Deps for the Brev GPU instance.
+# Most are already in the Brev ML container (torch, numpy, pandas).
+sentence-transformers>=2.7.0
+faiss-gpu>=1.7.4; platform_system != "Darwin"
+faiss-cpu>=1.7.4; platform_system == "Darwin"
+argopy>=1.2.0
+xarray>=2024.6.0
+netCDF4>=1.6.5

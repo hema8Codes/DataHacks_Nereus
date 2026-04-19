@@ -1,0 +1,1601 @@
+obs_id,observed_on,lat,lon,scientific_name,common_name,iconic,taxon_id,event,window
+68069390,2020-12-31,46.0051654336,-59.9484794381,Canis latrans,Coyote,Mammalia,42051,north_atlantic_2023,baseline
+67314909,2020-12-30,46.205,-59.966485,Larus delawarensis,Ring-billed Gull,Aves,4364,north_atlantic_2023,baseline
+67314908,2020-12-30,46.20495,-59.9664333333,Anas rubripes × platyrhynchos,American Black Duck × Mallard,Aves,518415,north_atlantic_2023,baseline
+67314907,2020-12-30,46.20501,-59.9665016667,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,baseline
+67314906,2020-12-30,46.2049683333,-59.9664633333,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,baseline
+67314905,2020-12-30,46.20501,-59.9665016667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+67314904,2020-12-30,46.20501,-59.9665016667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+67314903,2020-12-30,46.20501,-59.9665016667,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+142448522,2020-12-30,46.1777376742,-59.9502539635,Spizelloides arborea,American Tree Sparrow,Aves,474210,north_atlantic_2023,baseline
+67532333,2020-12-30,46.0475341234,-59.9897446157,Turdus migratorius,American Robin,Aves,12727,north_atlantic_2023,baseline
+79174081,2020-12-30,48.153255458,-53.7428026096,Mergus serrator,Red-breasted Merganser,Aves,6996,north_atlantic_2023,baseline
+67303471,2020-12-30,46.039075,-59.975575,Canis latrans,Coyote,Mammalia,42051,north_atlantic_2023,baseline
+68542487,2020-12-30,47.5614505292,-52.7125770226,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,baseline
+67472383,2020-12-28,47.5655817183,-52.706617572,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,baseline
+67122693,2020-12-26,47.7303721354,-52.6337771143,Falco peregrinus,Peregrine Falcon,Aves,4647,north_atlantic_2023,baseline
+67122694,2020-12-26,47.6513242582,-52.683481214,Alle alle,Dovekie,Aves,4524,north_atlantic_2023,baseline
+67122695,2020-12-26,47.6651140699,-52.6694984544,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,baseline
+105249211,2020-12-25,48.9534397757,-57.9272340888,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,baseline
+67082801,2020-12-25,51.84477,-10.2106666667,Haematopus ostralegus,Eurasian Oystercatcher,Aves,4843,north_atlantic_2023,baseline
+69687028,2020-12-25,47.5229479839,-52.7563231811,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,baseline
+67054506,2020-12-25,47.5268056462,-52.7487895265,Falco columbarius,Merlin,Aves,4672,north_atlantic_2023,baseline
+67137371,2020-12-24,46.1794742972,-59.8447263613,Bucephala clangula,Common Goldeneye,Aves,6990,north_atlantic_2023,baseline
+67018460,2020-12-24,46.1783040528,-59.9271553818,Acanthis flammea,Redpoll,Aves,145300,north_atlantic_2023,baseline
+67018458,2020-12-24,46.1783040528,-59.9271553818,Acanthis flammea,Redpoll,Aves,145300,north_atlantic_2023,baseline
+67018459,2020-12-24,46.1783040528,-59.9271553818,Acanthis flammea,Redpoll,Aves,145300,north_atlantic_2023,baseline
+67019077,2020-12-24,47.5745083582,-52.7281272254,Falco peregrinus,Peregrine Falcon,Aves,4647,north_atlantic_2023,baseline
+67019175,2020-12-24,47.5736832934,-52.7280937506,Aythya fuligula,Tufted Duck,Aves,7046,north_atlantic_2023,baseline
+67019058,2020-12-24,47.5735532365,-52.7279996356,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,baseline
+67019030,2020-12-24,47.5516470581,-52.7415449565,Gallinula galeata,Common Gallinule,Aves,144479,north_atlantic_2023,baseline
+67019010,2020-12-24,47.5497366048,-52.742588389,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,baseline
+67001867,2020-12-24,47.5316026853,-53.6117538996,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,baseline
+67318309,2020-12-21,47.4631174847,-52.704810647,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,baseline
+66886212,2020-12-21,47.5731171997,-52.7122333,Anas crecca crecca,Eurasian Teal,Aves,132873,north_atlantic_2023,baseline
+66887761,2020-12-20,45.9202689233,-59.9716726165,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+66917311,2020-12-20,45.9179617024,-59.9204517036,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,baseline
+66887760,2020-12-20,45.9202689233,-59.9716726165,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,baseline
+66887759,2020-12-20,45.9695836069,-59.9927138329,Poecile hudsonicus,Boreal Chickadee,Aves,144821,north_atlantic_2023,baseline
+66917315,2020-12-20,45.9148505672,-59.9397669585,Alle alle,Dovekie,Aves,4524,north_atlantic_2023,baseline
+66917316,2020-12-20,45.9150543079,-59.9384452152,Alle alle,Dovekie,Aves,4524,north_atlantic_2023,baseline
+66922634,2020-12-20,45.8935983333,-59.9886183333,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+66917312,2020-12-20,45.9169711843,-59.9226046243,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,baseline
+66887758,2020-12-20,45.9695836069,-59.9927138329,Perisoreus canadensis,Canada Jay,Aves,8335,north_atlantic_2023,baseline
+66922632,2020-12-20,45.8936366667,-59.9829766667,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,baseline
+66922630,2020-12-20,45.8936366667,-59.9829766667,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+66922636,2020-12-20,45.8936833333,-59.9829883333,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,baseline
+66922633,2020-12-20,45.8936833333,-59.9829883333,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,baseline
+66922635,2020-12-20,45.8886183333,-59.9786983333,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,baseline
+66843520,2020-12-20,45.9875966667,-59.8390233333,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,baseline
+66843519,2020-12-20,45.9876883333,-59.8391016667,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,baseline
+66887424,2020-12-20,46.0224913823,-59.9430609895,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,baseline
+66887422,2020-12-20,46.0224913823,-59.9430609895,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,baseline
+66917313,2020-12-20,45.9209672313,-59.9174036039,Podiceps grisegena,Red-necked Grebe,Aves,4224,north_atlantic_2023,baseline
+66843518,2020-12-20,45.9561533333,-59.829965,Gavia immer,Common Loon,Aves,4626,north_atlantic_2023,baseline
+66922640,2020-12-20,45.8886666667,-59.9986733333,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,baseline
+66843521,2020-12-20,45.9573333333,-59.8320366667,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,baseline
+66887421,2020-12-20,46.0224913823,-59.9430609895,Melanitta perspicillata,Surf Scoter,Aves,7036,north_atlantic_2023,baseline
+66917314,2020-12-20,45.9226486669,-59.9175549649,Podiceps grisegena,Red-necked Grebe,Aves,4224,north_atlantic_2023,baseline
+66887420,2020-12-20,46.0224913823,-59.9430609895,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,baseline
+66887419,2020-12-20,46.0224913823,-59.9430609895,Aythya collaris,Ring-necked Duck,Aves,7044,north_atlantic_2023,baseline
+66887418,2020-12-20,46.0224913823,-59.9430609895,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,baseline
+66887416,2020-12-20,46.0224913823,-59.9430609895,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,baseline
+66887414,2020-12-20,46.0224913823,-59.9430609895,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,baseline
+66887413,2020-12-20,46.0224913823,-59.9430609895,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,baseline
+66834241,2020-12-20,45.9223333333,-59.9677383333,Mimus polyglottos,Northern Mockingbird,Aves,14886,north_atlantic_2023,baseline
+66887411,2020-12-20,46.0224913823,-59.9430609895,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,baseline
+66887426,2020-12-20,46.0183166667,-59.9684027778,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,baseline
+344763821,2020-12-20,64.1696019855,-21.7463224449,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,baseline
+66887425,2020-12-20,46.031225,-59.9683611111,Chroicocephalus philadelphia,Bonaparte's Gull,Aves,144502,north_atlantic_2023,baseline
+66834253,2020-12-20,46.0070333333,-59.8375366667,Podilymbus podiceps,Pied-billed Grebe,Aves,4246,north_atlantic_2023,baseline
+66823339,2020-12-20,45.9608333333,-59.8536916667,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,baseline
+104341167,2020-12-19,48.9458071119,-57.9274591324,Cardinalis cardinalis cardinalis,Eastern Cardinal,Aves,627293,north_atlantic_2023,baseline
+104339852,2020-12-17,48.9508569862,-57.9352790785,Spinus pinus,Pine Siskin,Aves,145304,north_atlantic_2023,baseline
+66707612,2020-12-17,47.5798754435,-52.7316456914,Poecile atricapillus,Black-capped Chickadee,Aves,144815,north_atlantic_2023,baseline
+66707611,2020-12-17,47.5766990748,-52.7132599282,Mimus polyglottos,Northern Mockingbird,Aves,14886,north_atlantic_2023,baseline
+66707610,2020-12-17,47.5730341258,-52.7119078153,Mniotilta varia,Black-and-white Warbler,Aves,10286,north_atlantic_2023,baseline
+66707609,2020-12-17,47.5730354405,-52.7118622177,Leiothlypis peregrina,Tennessee Warbler,Aves,979756,north_atlantic_2023,baseline
+66521468,2020-12-12,46.0133513768,-59.9604632101,Lophodytes cucullatus,Hooded Merganser,Aves,7109,north_atlantic_2023,baseline
+66521469,2020-12-12,46.0305257111,-59.9678003991,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,baseline
+66521471,2020-12-12,46.0185761817,-59.953478847,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,baseline
+66521473,2020-12-12,46.0163507065,-59.9451853685,Podiceps grisegena,Red-necked Grebe,Aves,4224,north_atlantic_2023,baseline
+66487800,2020-12-12,46.0087766667,-59.9367816667,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,baseline
+66521472,2020-12-12,45.9073266818,-59.9552688273,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,baseline
+66521474,2020-12-12,45.9228158883,-59.9594424051,Loxia leucoptera,White-winged Crossbill,Aves,10423,north_atlantic_2023,baseline
+66488372,2020-12-12,45.9391833333,-59.8779016667,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,baseline
+142448589,2020-12-12,46.18353191,-59.9477648735,Bombycilla garrulus,Bohemian Waxwing,Aves,7429,north_atlantic_2023,baseline
+66781684,2020-12-12,47.5855317003,-52.6885447552,Icteria virens,Yellow-breasted Chat,Aves,10243,north_atlantic_2023,baseline
+66521475,2020-12-12,45.9076850174,-59.954759945,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,baseline
+66488380,2020-12-12,45.922805,-59.9597016667,Loxia leucoptera,White-winged Crossbill,Aves,10423,north_atlantic_2023,baseline
+66488381,2020-12-12,45.92278,-59.9596283333,Loxia leucoptera,White-winged Crossbill,Aves,10423,north_atlantic_2023,baseline
+66781719,2020-12-12,47.5855182898,-52.6886003214,Setophaga dominica,Yellow-throated Warbler,Aves,145246,north_atlantic_2023,baseline
+66781590,2020-12-12,47.6037452832,-52.7054674893,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,baseline
+66781662,2020-12-12,47.6037110931,-52.7054892768,Anas crecca,Green-winged Teal,Aves,6937,north_atlantic_2023,baseline
+66521476,2020-12-12,45.8941800546,-59.9967706206,Podilymbus podiceps,Pied-billed Grebe,Aves,4246,north_atlantic_2023,baseline
+66488378,2020-12-12,45.9080861117,-59.9654,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,baseline
+66781636,2020-12-12,47.6037425235,-52.7053776623,Mareca strepera,Gadwall,Aves,558439,north_atlantic_2023,baseline
+66488374,2020-12-12,45.9062383333,-59.9567483333,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,baseline
+66488370,2020-12-12,45.9062383333,-59.9567483333,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,baseline
+66521477,2020-12-12,45.889610329,-59.9987715335,Acanthis flammea,Redpoll,Aves,145300,north_atlantic_2023,baseline
+66488373,2020-12-12,45.9063983333,-59.95666,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,baseline
+66521467,2020-12-12,45.8895721103,-59.9988126755,Acanthis flammea,Redpoll,Aves,145300,north_atlantic_2023,baseline
+66488377,2020-12-12,45.8931766667,-59.9987983333,Podilymbus podiceps,Pied-billed Grebe,Aves,4246,north_atlantic_2023,baseline
+66488379,2020-12-12,45.8931633333,-59.998805,Mergus serrator,Red-breasted Merganser,Aves,6996,north_atlantic_2023,baseline
+66488371,2020-12-12,45.889815,-59.9989183333,Acanthis flammea,Redpoll,Aves,145300,north_atlantic_2023,baseline
+173102138,2020-12-12,49.5004433013,-56.0638001697,Bucephala clangula,Common Goldeneye,Aves,6990,north_atlantic_2023,baseline
+173102137,2020-12-12,49.5139958654,-56.017782858,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,baseline
+67671657,2020-12-10,49.9331495699,-57.7740569785,Vulpes vulpes deletrix,Insular Newfoundland Red Fox,Mammalia,1158931,north_atlantic_2023,baseline
+66675427,2020-12-10,47.5965883014,-53.2682580518,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,baseline
+66314909,2020-12-08,47.5253953827,-52.6227071245,Larus hyperboreus,Glaucous Gull,Aves,4349,north_atlantic_2023,baseline
+66314793,2020-12-08,47.5245416344,-52.6216787145,Falco columbarius,Merlin,Aves,4672,north_atlantic_2023,baseline
+327523652,2020-12-08,53.1294,-51.5281,Melamphaes microps,,Actinopterygii,459412,north_atlantic_2023,baseline
+66314792,2020-12-07,47.5515566834,-52.7372911923,Gallinula galeata,Common Gallinule,Aves,144479,north_atlantic_2023,baseline
+66252826,2020-12-07,64.0048007342,-22.5542688836,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,north_atlantic_2023,baseline
+326530653,2020-12-07,52.0525,-50.4728,Poromitra megalops,,Actinopterygii,459439,north_atlantic_2023,baseline
+94451471,2020-12-07,47.48667167,-53.00265555,Alces alces,Moose,Mammalia,522193,north_atlantic_2023,baseline
+66462784,2020-12-07,47.5977261084,-53.2784060924,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,baseline
+66209841,2020-12-05,48.600196,-58.402954,Perisoreus canadensis,Canada Jay,Aves,8335,north_atlantic_2023,baseline
+66493600,2020-12-05,46.1794961252,-59.9337839687,Mareca penelope,Eurasian Wigeon,Aves,558441,north_atlantic_2023,baseline
+66165307,2020-12-05,64.65499126,-21.4997321471,Turdus merula merula,Western European Blackbird,Aves,341569,north_atlantic_2023,baseline
+66096161,2020-12-04,47.5275399531,-52.745799619,Certhia americana americana,Northeastern Brown Creeper,Aves,555677,north_atlantic_2023,baseline
+66098181,2020-12-04,51.4684227396,-56.8399659865,Somateria spectabilis,King Eider,Aves,7030,north_atlantic_2023,baseline
+311449312,2020-12-03,51.4992217385,-55.9029522088,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,baseline
+311466546,2020-12-03,51.6182050548,-55.9039969399,Lagopus lagopus,Willow Ptarmigan,Aves,931,north_atlantic_2023,baseline
+86330466,2020-12-02,45.8592987811,-59.9069992641,Canis latrans,Coyote,Mammalia,42051,north_atlantic_2023,baseline
+86330464,2020-12-01,45.851369649,-59.9604289753,Canis latrans,Coyote,Mammalia,42051,north_atlantic_2023,baseline
+65998471,2020-12-01,46.0102552679,-59.9366931252,Podiceps grisegena,Red-necked Grebe,Aves,4224,north_atlantic_2023,baseline
+65998429,2020-12-01,46.010906732,-59.9375273437,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,baseline
+65998490,2020-12-01,46.0102439861,-59.9373143166,Chroicocephalus philadelphia,Bonaparte's Gull,Aves,144502,north_atlantic_2023,baseline
+66000254,2020-12-01,46.1567054836,-59.9582144246,Anas acuta,Northern Pintail,Aves,6933,north_atlantic_2023,baseline
+66208827,2020-11-30,48.537082,-58.504,Acanthis flammea,Redpoll,Aves,145300,north_atlantic_2023,baseline
+86330463,2020-11-30,45.8385241127,-59.8340333509,Canis latrans,Coyote,Mammalia,42051,north_atlantic_2023,baseline
+86330462,2020-11-30,45.8177052667,-59.8140705269,Canis latrans,Coyote,Mammalia,42051,north_atlantic_2023,baseline
+65885780,2020-11-30,47.561379941,-52.7665494382,Pinicola enucleator,Pine Grosbeak,Aves,9771,north_atlantic_2023,baseline
+65829350,2020-11-29,46.1947538156,-59.958197829,Icteria virens,Yellow-breasted Chat,Aves,10243,north_atlantic_2023,baseline
+66781342,2020-11-28,47.5624072682,-52.7421125837,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,baseline
+183590112,2020-11-28,47.5294444444,-52.7544444444,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,baseline
+65768863,2020-11-28,47.5721665,-52.7312645,Loxia curvirostra,Red Crossbill,Aves,10411,north_atlantic_2023,baseline
+65746924,2020-11-28,48.1854323069,-53.9858323708,Loxia curvirostra,Red Crossbill,Aves,10411,north_atlantic_2023,baseline
+65699555,2020-11-26,47.5730592828,-52.7118135263,Leiothlypis peregrina,Tennessee Warbler,Aves,979756,north_atlantic_2023,baseline
+65612942,2020-11-25,47.5333835943,-52.7482713037,Setophaga pinus,Pine Warbler,Aves,145244,north_atlantic_2023,baseline
+65584439,2020-11-24,47.533372927,-52.7490030682,Setophaga pinus,Pine Warbler,Aves,145244,north_atlantic_2023,baseline
+65612941,2020-11-24,47.5854606824,-52.6890013544,Icteria virens,Yellow-breasted Chat,Aves,10243,north_atlantic_2023,baseline
+65612943,2020-11-24,47.5835602858,-52.6899850088,Setophaga dominica,Yellow-throated Warbler,Aves,145246,north_atlantic_2023,baseline
+65584484,2020-11-24,47.584880747,-52.6893225004,Icteria virens,Yellow-breasted Chat,Aves,10243,north_atlantic_2023,baseline
+65531384,2020-11-24,48.1855534444,-53.9860301667,Loxia curvirostra,Red Crossbill,Aves,10411,north_atlantic_2023,baseline
+65481666,2020-11-23,51.8199783333,-10.2719583333,Branta bernicla,Brant,Aves,7087,north_atlantic_2023,baseline
+65408953,2020-11-22,64.1538026417,-21.8862632197,Arenaria interpres,Ruddy Turnstone,Aves,3938,north_atlantic_2023,baseline
+66781430,2020-11-22,47.5744206364,-52.7289086025,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,baseline
+66781564,2020-11-22,47.5741092958,-52.729061618,Aix sponsa,Wood Duck,Aves,7107,north_atlantic_2023,baseline
+66781517,2020-11-22,47.5743917302,-52.7288610141,Anser brachyrhynchus,Pink-footed Goose,Aves,7007,north_atlantic_2023,baseline
+66781465,2020-11-22,47.5742710255,-52.7286199062,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,baseline
+68518990,2020-11-22,47.0995129172,-54.1859325394,Phoca vitulina,Harbor Seal,Mammalia,41708,north_atlantic_2023,baseline
+65395350,2020-11-21,46.1987433333,-59.947145,Gavia immer,Common Loon,Aves,4626,north_atlantic_2023,baseline
+65395360,2020-11-21,46.1975433333,-59.9477583333,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,baseline
+65395352,2020-11-21,46.1982083333,-59.95059,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,baseline
+65395354,2020-11-21,46.1983366667,-59.950875,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65395353,2020-11-21,46.19829,-59.9509316667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65395351,2020-11-21,46.19832,-59.9508966667,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,baseline
+65395355,2020-11-21,46.217615,-59.9618366667,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,baseline
+65395358,2020-11-21,46.2176116667,-59.9618533333,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,baseline
+65395359,2020-11-21,46.2174366667,-59.9612366667,Vulpes vulpes,Red Fox,Mammalia,42069,north_atlantic_2023,baseline
+65370846,2020-11-21,46.1801674254,-59.9538770441,Pinicola enucleator,Pine Grosbeak,Aves,9771,north_atlantic_2023,baseline
+65367829,2020-11-21,51.86347,-10.279655,Regulus regulus,Goldcrest,Aves,793469,north_atlantic_2023,baseline
+65382330,2020-11-20,46.9258722873,-52.9324038827,Zenaida macroura,Mourning Dove,Aves,3454,north_atlantic_2023,baseline
+65382338,2020-11-20,46.7107788298,-53.2618030221,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,baseline
+65382337,2020-11-20,46.6604530233,-53.0724013123,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,baseline
+65382336,2020-11-20,46.6620387921,-53.0743017178,Phoca vitulina vitulina,Atlantic Harbor Seal,Mammalia,566601,north_atlantic_2023,baseline
+65382335,2020-11-20,46.6612078715,-53.0723007342,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,baseline
+65382334,2020-11-20,46.6640822821,-53.0765418635,Calidris fuscicollis,White-rumped Sandpiper,Aves,3866,north_atlantic_2023,baseline
+65382333,2020-11-20,46.8678654046,-52.9409030076,Setophaga coronata coronata,Myrtle Warbler,Aves,132704,north_atlantic_2023,baseline
+65382332,2020-11-20,46.9232085476,-52.9461553068,Podiceps auritus,Horned Grebe,Aves,4209,north_atlantic_2023,baseline
+65382331,2020-11-20,46.9262770257,-52.9493226321,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,baseline
+65225996,2020-11-18,47.5848663988,-52.689956919,Setophaga dominica,Yellow-throated Warbler,Aves,145246,north_atlantic_2023,baseline
+65939432,2020-11-18,46.0128817939,-59.9595257672,Aythya collaris,Ring-necked Duck,Aves,7044,north_atlantic_2023,baseline
+65939431,2020-11-18,46.0138131786,-59.960781041,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+65164092,2020-11-18,46.0083851875,-59.9412861951,Accipiter striatus,Sharp-shinned Hawk,Aves,5097,north_atlantic_2023,baseline
+65092225,2020-11-17,46.1379,-59.965205,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,baseline
+65110355,2020-11-17,46.0830417179,-59.8920284864,Egretta caerulea,Little Blue Heron,Aves,4937,north_atlantic_2023,baseline
+65169990,2020-11-17,64.1202377737,-21.8705653399,Turdus iliacus,Redwing,Aves,12749,north_atlantic_2023,baseline
+65947697,2020-11-17,46.0291254002,-59.9656969429,Melanitta deglandi,White-winged Scoter,Aves,144222,north_atlantic_2023,baseline
+65947521,2020-11-17,46.0198168238,-59.9647399789,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,baseline
+65947520,2020-11-17,46.0174434449,-59.9664565959,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,baseline
+65947519,2020-11-17,46.0164814487,-59.9684736168,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,baseline
+65947359,2020-11-17,46.0109335018,-59.9501213923,Melanitta perspicillata,Surf Scoter,Aves,7036,north_atlantic_2023,baseline
+65947185,2020-11-17,46.0087344251,-59.9388346564,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+65947186,2020-11-17,46.008279,-59.941195,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,baseline
+65947184,2020-11-17,46.0081904484,-59.9376115691,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+65027463,2020-11-16,46.2049929738,-59.966605898,Columba livia domestica,Feral Pigeon,Aves,122767,north_atlantic_2023,baseline
+65027462,2020-11-16,46.2049558477,-59.9663805924,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,baseline
+65027835,2020-11-16,46.2064776849,-59.9627757032,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+65027461,2020-11-16,46.2045771602,-59.9654793702,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,baseline
+65027834,2020-11-16,46.2052154179,-59.9622178037,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+65033358,2020-11-16,46.198572,-59.950077,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65033357,2020-11-16,46.198572,-59.950077,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65033355,2020-11-16,46.198572,-59.950077,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65033353,2020-11-16,46.198572,-59.950077,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65033352,2020-11-16,46.198572,-59.950077,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65033351,2020-11-16,46.198572,-59.950077,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65033350,2020-11-16,46.198572,-59.950077,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65033348,2020-11-16,46.1987761884,-59.9498490122,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65033346,2020-11-16,46.1988533087,-59.9498731521,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,baseline
+65033347,2020-11-16,46.1987957568,-59.949897292,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65032671,2020-11-16,46.1833948884,-59.934542139,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+65032154,2020-11-16,46.178475758,-59.8441785997,Halichoerus grypus,Grey Seal,Mammalia,41733,north_atlantic_2023,baseline
+65032153,2020-11-16,46.178475758,-59.8441785997,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,baseline
+65031673,2020-11-16,46.131630818,-59.8739736786,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+65031670,2020-11-16,46.1316087261,-59.8739790428,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,baseline
+65031669,2020-11-16,46.1309324972,-59.8747086033,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65031668,2020-11-16,46.1309324972,-59.8747086033,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+65031405,2020-11-16,46.1134520005,-59.8875221806,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+65031403,2020-11-16,46.113779253,-59.8869213657,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,baseline
+65031401,2020-11-16,46.1176168875,-59.887822588,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,baseline
+65030124,2020-11-16,46.106863,-59.903112,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,baseline
+65030122,2020-11-16,46.106863,-59.903112,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,baseline
+65030762,2020-11-16,46.0135747456,-59.9606737527,Mergus serrator,Red-breasted Merganser,Aves,6996,north_atlantic_2023,baseline
+65030761,2020-11-16,46.0135747456,-59.9606737527,Lophodytes cucullatus,Hooded Merganser,Aves,7109,north_atlantic_2023,baseline
+65030760,2020-11-16,46.0135747456,-59.9606737527,Aythya collaris,Ring-necked Duck,Aves,7044,north_atlantic_2023,baseline
+65030759,2020-11-16,46.0128445382,-59.9590000542,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+65040410,2020-11-16,48.5086107747,-53.9615600556,Dryobates pubescens,Downy Woodpecker,Aves,792988,north_atlantic_2023,baseline
+64968273,2020-11-15,45.906347,-59.961743,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,baseline
+64968270,2020-11-15,45.9060933965,-59.9615708981,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,baseline
+64967799,2020-11-15,45.906713,-59.963524,Calidris fuscicollis,White-rumped Sandpiper,Aves,3866,north_atlantic_2023,baseline
+64968774,2020-11-15,45.907326,-59.963243,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+64968473,2020-11-15,45.918403,-59.960303,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,baseline
+64969939,2020-11-15,45.93508,-59.905681,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,baseline
+64936645,2020-11-15,46.008279,-59.941195,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,baseline
+64936644,2020-11-15,46.008076,-59.943008,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,baseline
+64936643,2020-11-15,46.00806,-59.944381,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,baseline
+64935061,2020-11-15,46.008452,-59.944657,Loxia leucoptera,White-winged Crossbill,Aves,10423,north_atlantic_2023,baseline
+64929806,2020-11-15,46.008279,-59.941195,Poecile hudsonicus,Boreal Chickadee,Aves,144821,north_atlantic_2023,baseline
+64929805,2020-11-15,46.008279,-59.941195,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,baseline
+64929918,2020-11-15,46.0086333922,-59.9382338414,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+64939606,2020-11-15,64.1097070095,-21.8426428735,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,baseline
+64927067,2020-11-15,46.0084955353,-59.9384430537,Chroicocephalus philadelphia,Bonaparte's Gull,Aves,144502,north_atlantic_2023,baseline
+64926864,2020-11-15,46.0072706651,-59.9380269765,Mergus serrator,Red-breasted Merganser,Aves,6996,north_atlantic_2023,baseline
+64926595,2020-11-15,46.008321,-59.94131,Hesperiphona vespertina,Evening Grosbeak,Aves,1650411,north_atlantic_2023,baseline
+65052212,2020-11-15,47.5276558757,-52.7465429325,Tamias striatus,Eastern Chipmunk,Mammalia,46217,north_atlantic_2023,baseline
+64900683,2020-11-14,46.008803,-59.94123,Bonasa umbellus,Ruffed Grouse,Aves,890,north_atlantic_2023,baseline
+64900596,2020-11-14,45.923385,-59.963561,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,baseline
+64900595,2020-11-14,45.923385,-59.963561,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,baseline
+66546537,2020-11-14,45.9166217665,-59.943453956,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,baseline
+64900127,2020-11-14,45.9171963065,-59.9709104749,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,baseline
+64900126,2020-11-14,45.916856,-59.970771,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,baseline
+64900125,2020-11-14,45.916856,-59.970771,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+64900123,2020-11-14,45.9172460895,-59.9721979353,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+64888535,2020-11-14,45.9171783201,-59.9407843025,Astur atricapillus,American Goshawk,Aves,1579016,north_atlantic_2023,baseline
+64896746,2020-11-14,45.941222,-59.884832,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,baseline
+64896745,2020-11-14,45.941222,-59.884832,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,baseline
+64896048,2020-11-14,45.960813,-59.853435,Poecile hudsonicus,Boreal Chickadee,Aves,144821,north_atlantic_2023,baseline
+64899672,2020-11-14,45.954232,-59.82937,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,baseline
+64899670,2020-11-14,45.954057,-59.832975,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,baseline
+64899327,2020-11-14,45.992399,-59.846379,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+64899122,2020-11-14,46.006879,-59.842854,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,baseline
+64899121,2020-11-14,46.0043616292,-59.8391057771,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,baseline
+64927189,2020-11-14,46.0044100691,-59.8389341157,Phalacrocorax carbo,Great Cormorant,Aves,4270,north_atlantic_2023,baseline
+64899119,2020-11-14,46.0044100691,-59.8389341157,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,baseline
+64899118,2020-11-14,46.0065154876,-59.837550096,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+64898447,2020-11-14,46.009348752,-59.9388614783,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+64898063,2020-11-14,46.0367987604,-59.9706010933,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,baseline
+64897773,2020-11-14,46.0176818605,-59.9662849346,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,baseline
+64897250,2020-11-14,46.0135374904,-59.9608561429,Aythya collaris,Ring-necked Duck,Aves,7044,north_atlantic_2023,baseline
+64869901,2020-11-14,46.9427777778,-55.5422222222,Spisula solidissima,West Atlantic Surfclam,Mollusca,231421,north_atlantic_2023,baseline
+64869794,2020-11-14,46.9422222222,-55.5452777778,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,baseline
+64867234,2020-11-14,46.9469444444,-55.5363888889,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,baseline
+64867205,2020-11-14,46.9469444444,-55.5363888889,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,north_atlantic_2023,baseline
+65511795,2020-11-13,63.4675294036,-19.0895926024,Phoca vitulina vitulina,Atlantic Harbor Seal,Mammalia,566601,north_atlantic_2023,baseline
+64802775,2020-11-13,46.0109898,-59.9556719,Hesperiphona vespertina,Evening Grosbeak,Aves,1650411,north_atlantic_2023,baseline
+64813575,2020-11-13,47.5788888889,-52.6997222222,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,north_atlantic_2023,baseline
+64813330,2020-11-13,47.5783333333,-52.7,Larus glaucoides kumlieni,Kumlien's Gull,Aves,342844,north_atlantic_2023,baseline
+64813212,2020-11-13,47.5780555556,-52.6997222222,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,north_atlantic_2023,baseline
+64813071,2020-11-13,47.5777777778,-52.6994444444,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,baseline
+64812832,2020-11-13,47.5777777778,-52.6994444444,Fulica americana,American Coot,Aves,473,north_atlantic_2023,baseline
+86658916,2020-11-11,47.583675,-52.6697283333,Vulpes vulpes deletrix,Insular Newfoundland Red Fox,Mammalia,1158931,north_atlantic_2023,baseline
+64692454,2020-11-11,48.1853902821,-53.9859208837,Hesperiphona vespertina,Evening Grosbeak,Aves,1650411,north_atlantic_2023,baseline
+64692376,2020-11-11,48.1853048912,-53.9859765396,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,baseline
+64692356,2020-11-11,47.5673610471,-52.6876723766,Calidris fuscicollis,White-rumped Sandpiper,Aves,3866,north_atlantic_2023,baseline
+64629974,2020-11-10,47.6037411436,-52.7055891313,Salmo trutta,Brown Trout,Actinopterygii,47518,north_atlantic_2023,baseline
+64607721,2020-11-10,64.1202377737,-21.8705653399,Turdus merula,Eurasian Blackbird,Aves,12716,north_atlantic_2023,baseline
+64629612,2020-11-10,47.4069503234,-52.6568438009,Colaptes auratus,Northern Flicker,Aves,18236,north_atlantic_2023,baseline
+64516094,2020-11-09,46.2074425161,-59.9992485642,Hesperiphona vespertina,Evening Grosbeak,Aves,1650411,north_atlantic_2023,baseline
+67472379,2020-11-09,47.5199262852,-52.7558804894,Columba livia domestica,Feral Pigeon,Aves,122767,north_atlantic_2023,baseline
+64561397,2020-11-09,47.5805271422,-52.841126697,Zenaida macroura,Mourning Dove,Aves,3454,north_atlantic_2023,baseline
+64486553,2020-11-08,47.4973767718,-53.0316203604,Chroicocephalus philadelphia,Bonaparte's Gull,Aves,144502,north_atlantic_2023,baseline
+64462444,2020-11-08,45.88819165,-59.9996616667,Poecile hudsonicus,Boreal Chickadee,Aves,144821,north_atlantic_2023,baseline
+64757487,2020-11-08,64.014591651,-21.6961096381,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,baseline
+64470922,2020-11-08,48.1854756729,-53.9858387411,Junco hyemalis,Dark-eyed Junco,Aves,10094,north_atlantic_2023,baseline
+64470889,2020-11-08,48.185278961,-53.9857911319,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,baseline
+333736259,2020-11-06,51.4136070332,-56.4451402827,Mergus merganser,Common Merganser,Aves,7004,north_atlantic_2023,baseline
+333737171,2020-11-06,51.3570024483,-56.6522000745,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,baseline
+64332507,2020-11-06,51.477405,-56.9540833333,Buccinum undatum,Common Whelk,Mollusca,130213,north_atlantic_2023,baseline
+64261251,2020-11-04,64.1202377737,-21.8705653399,Turdus merula,Eurasian Blackbird,Aves,12716,north_atlantic_2023,baseline
+64329903,2020-11-04,51.477025,-56.9542716667,Cyrtodaria siliqua,Propellerclam,Mollusca,871348,north_atlantic_2023,baseline
+64146078,2020-11-03,47.5390954374,-52.8858836654,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,baseline
+313809568,2020-11-03,51.0778735787,-56.889633622,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,baseline
+64261220,2020-11-03,47.6258926575,-52.6637339965,Littorina saxatilis,Rough Periwinkle,Mollusca,68554,north_atlantic_2023,baseline
+64261017,2020-11-03,47.6257878094,-52.6636987925,Mytilus edulis,Blue Mussel Complex,Mollusca,1108240,north_atlantic_2023,baseline
+64071469,2020-11-02,45.9178066667,-59.9714766667,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,baseline
+64071470,2020-11-02,45.907965,-59.966975,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,baseline
+64070045,2020-11-02,47.2469579769,-52.8390318359,Lontra canadensis,North American River Otter,Mammalia,41777,north_atlantic_2023,baseline
+64070046,2020-11-02,47.2487024251,-52.8369297797,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,baseline
+64029424,2020-11-02,47.4021836367,-52.9961352041,Sorex cinereus,Masked Shrew,Mammalia,59815,north_atlantic_2023,baseline
+63963560,2020-11-01,64.1500045738,-21.9777459677,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,baseline
+63963281,2020-11-01,64.1506976076,-21.9772838149,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,baseline
+63962779,2020-11-01,64.1508982704,-21.9781435468,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+63962529,2020-11-01,64.1507185205,-21.9775884133,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,baseline
+63962133,2020-11-01,64.150676569,-21.9753359445,Lacuna vincta,Northern Lacuna,Mollusca,193902,north_atlantic_2023,baseline
+63990528,2020-11-01,46.1781297168,-59.9252999188,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,baseline
+63993101,2020-11-01,46.1774845637,-59.9264083708,Calcarius lapponicus,Lapland Longspur,Aves,116840,north_atlantic_2023,baseline
+63961212,2020-11-01,64.150388483,-21.9740827661,Hiatella arctica,Arctic Hiatella,Mollusca,117617,north_atlantic_2023,baseline
+63993100,2020-11-01,46.1774845637,-59.9264083708,Eremophila alpestris,Horned Lark,Aves,7294,north_atlantic_2023,baseline
+63993102,2020-11-01,46.1774845637,-59.9264083708,Eremophila alpestris,Horned Lark,Aves,7294,north_atlantic_2023,baseline
+63990525,2020-11-01,46.1781297168,-59.9252999188,Calidris fuscicollis,White-rumped Sandpiper,Aves,3866,north_atlantic_2023,baseline
+63990534,2020-11-01,46.1781297168,-59.9252999188,Limosa haemastica,Hudsonian Godwit,Aves,3950,north_atlantic_2023,baseline
+63990533,2020-11-01,46.1781297168,-59.9252999188,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,baseline
+63990532,2020-11-01,46.1781297168,-59.9252999188,Limosa haemastica,Hudsonian Godwit,Aves,3950,north_atlantic_2023,baseline
+63991562,2020-11-01,46.1794843598,-59.9247602257,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,baseline
+63993099,2020-11-01,46.1563389413,-59.9584369388,Aythya fuligula,Tufted Duck,Aves,7046,north_atlantic_2023,baseline
+64288036,2020-11-01,48.6234219573,-53.9670941234,Pinicola enucleator,Pine Grosbeak,Aves,9771,north_atlantic_2023,baseline
+64011166,2020-11-01,48.5661139546,-58.5769521073,Nannopterum auritum auritum,Northern Double-crested Cormorant,Aves,1454385,north_atlantic_2023,baseline
+63960970,2020-11-01,47.3728418478,-53.3513053718,Bonasa umbellus,Ruffed Grouse,Aves,890,north_atlantic_2023,baseline
+63927973,2020-10-31,46.2127383333,-59.9539416667,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+63928325,2020-10-31,46.2127083333,-59.9539866667,Branta bernicla,Brant,Aves,7087,north_atlantic_2023,baseline
+63927969,2020-10-31,46.2125816667,-59.9542133333,Branta hutchinsii,Cackling Goose,Aves,59220,north_atlantic_2023,baseline
+63990820,2020-10-31,46.2048794782,-59.9642092281,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,baseline
+63990821,2020-10-31,46.2048794782,-59.9642092281,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,baseline
+63990822,2020-10-31,46.2048794782,-59.9642092281,Mareca penelope,Eurasian Wigeon,Aves,558441,north_atlantic_2023,baseline
+63990824,2020-10-31,46.2048794782,-59.9642092281,Branta hutchinsii,Cackling Goose,Aves,59220,north_atlantic_2023,baseline
+63927982,2020-10-31,46.2047766667,-59.9661466667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+63927981,2020-10-31,46.2047766667,-59.9661466667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+63927986,2020-10-31,46.2045283333,-59.9657183333,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,baseline
+63927966,2020-10-31,46.204365,-59.9647683333,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,baseline
+63990827,2020-10-31,46.2140679742,-59.9594474132,Branta bernicla,Brant,Aves,7087,north_atlantic_2023,baseline
+63927983,2020-10-31,46.2076483333,-59.9648666667,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,baseline
+63927968,2020-10-31,46.20717,-59.966575,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+63927965,2020-10-31,46.2047783333,-59.9660716667,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,baseline
+63927976,2020-10-31,46.2049316667,-59.9664083333,Mareca penelope,Eurasian Wigeon,Aves,558441,north_atlantic_2023,baseline
+63927992,2020-10-31,46.2049083333,-59.9664516667,Aythya collaris,Ring-necked Duck,Aves,7044,north_atlantic_2023,baseline
+63927990,2020-10-31,46.2050266667,-59.966535,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,baseline
+63927989,2020-10-31,46.2048983333,-59.96647,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,baseline
+63927991,2020-10-31,46.205045,-59.96664,Larus delawarensis,Ring-billed Gull,Aves,4364,north_atlantic_2023,baseline
+63927975,2020-10-31,46.2132833333,-59.9602616667,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+63927972,2020-10-31,46.213345,-59.9603683333,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+63927971,2020-10-31,46.2146416667,-59.9587083333,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+63927967,2020-10-31,46.2146416667,-59.9587083333,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+63927980,2020-10-31,46.2148966667,-59.9589366667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+63894426,2020-10-31,64.1543152789,-21.8840952404,Aporrhais pespelecani,Pelican's-foot,Mollusca,59399,north_atlantic_2023,baseline
+63927985,2020-10-31,46.215275,-59.9596333333,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,baseline
+63927970,2020-10-31,46.2153033333,-59.9596183333,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+63928042,2020-10-31,46.215375,-59.9596516667,Branta bernicla,Brant,Aves,7087,north_atlantic_2023,baseline
+63927988,2020-10-31,46.2174216667,-59.96123,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,baseline
+63927979,2020-10-31,46.212855,-59.9922833333,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+63926424,2020-10-31,46.212855,-59.9922833333,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+63927977,2020-10-31,46.2128716667,-59.9924816667,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,baseline
+63926382,2020-10-31,46.2128716667,-59.9924816667,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,baseline
+63927978,2020-10-31,46.2128966667,-59.99246,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+63926423,2020-10-31,46.2128966667,-59.99246,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+63962975,2020-10-30,50.5892861556,-10.4358751668,Balistes capriscus,Grey Triggerfish,Actinopterygii,49606,north_atlantic_2023,baseline
+63826438,2020-10-30,64.153343413,-21.8865052236,Arenaria interpres,Ruddy Turnstone,Aves,3938,north_atlantic_2023,baseline
+63822540,2020-10-30,64.1613480384,-22.0158799854,Phalacrocorax carbo,Great Cormorant,Aves,4270,north_atlantic_2023,baseline
+63779628,2020-10-29,47.5725,-52.7008333333,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,baseline
+63593567,2020-10-26,46.1800659132,-59.9306501097,Plectrophenax nivalis,Snow Bunting,Aves,117059,north_atlantic_2023,baseline
+63593442,2020-10-26,46.1804848684,-59.9279704632,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,baseline
+63593703,2020-10-26,46.17898574,-59.9170153588,Melanitta deglandi,White-winged Scoter,Aves,144222,north_atlantic_2023,baseline
+96216000,2020-10-26,46.91014738,-56.3251832696,Zenaida macroura,Mourning Dove,Aves,3454,north_atlantic_2023,baseline
+64757381,2020-10-26,63.9334633333,-19.3788383333,Corvus corax,Common Raven,Aves,8010,north_atlantic_2023,baseline
+63582834,2020-10-26,47.5217584606,-52.9492341745,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,baseline
+63582737,2020-10-26,47.5796942988,-52.8865737909,Colaptes auratus,Northern Flicker,Aves,18236,north_atlantic_2023,baseline
+63482935,2020-10-25,64.106789,-21.830954,Corvus corax,Common Raven,Aves,8010,north_atlantic_2023,baseline
+63326119,2020-10-23,64.1543313722,-21.8836043962,Hiatella arctica,Arctic Hiatella,Mollusca,117617,north_atlantic_2023,baseline
+63325992,2020-10-23,64.1542792367,-21.8837417755,Hiatella arctica,Arctic Hiatella,Mollusca,117617,north_atlantic_2023,baseline
+96216556,2020-10-23,46.8900991095,-56.2919354973,Spinus pinus,Pine Siskin,Aves,145304,north_atlantic_2023,baseline
+63307985,2020-10-23,64.1545019439,-21.8834759854,Buccinum undatum,Common Whelk,Mollusca,130213,north_atlantic_2023,baseline
+63337430,2020-10-23,48.5649890572,-58.565951027,Nannopterum auritum auritum,Northern Double-crested Cormorant,Aves,1454385,north_atlantic_2023,baseline
+150705138,2020-10-22,46.0382695,-59.966275,Vulpes vulpes,Red Fox,Mammalia,42069,north_atlantic_2023,baseline
+63593628,2020-10-22,46.1568439787,-59.9582197774,Aythya fuligula,Tufted Duck,Aves,7046,north_atlantic_2023,baseline
+133390997,2020-10-22,48.0834048997,-52.8977446,Hydrobates leucorhous,Leach's Storm-Petrel,Aves,1289622,north_atlantic_2023,baseline
+63341325,2020-10-22,46.1570856912,-59.9583004229,Spatula clypeata,Northern Shoveler,Aves,558438,north_atlantic_2023,baseline
+63255732,2020-10-22,64.1545613716,-21.8834009674,Littorina saxatilis,Rough Periwinkle,Mollusca,68554,north_atlantic_2023,baseline
+98966976,2020-10-22,46.8901905751,-56.2914549134,Vireo olivaceus,Red-eyed Vireo,Aves,891704,north_atlantic_2023,baseline
+63767626,2020-10-22,47.573655,-52.740895,Junco hyemalis,Dark-eyed Junco,Aves,10094,north_atlantic_2023,baseline
+63767597,2020-10-22,47.57366167,-52.74086667,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,baseline
+63416596,2020-10-22,47.57692833,-52.73383,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+65878438,2020-10-21,64.2573548741,-21.1216530804,Turdus iliacus,Redwing,Aves,12749,north_atlantic_2023,baseline
+63094870,2020-10-20,64.1541971667,-21.8857366667,Taurulus bubalis,Longspined Bullhead,Actinopterygii,130386,north_atlantic_2023,baseline
+62902926,2020-10-18,64.1545150616,-21.8840181269,Testudinalia testudinalis,Tortoiseshell Limpet,Mollusca,415169,north_atlantic_2023,baseline
+62901954,2020-10-18,64.1544994293,-21.8840872776,Hiatella arctica,Arctic Hiatella,Mollusca,117617,north_atlantic_2023,baseline
+62895623,2020-10-18,64.1510064388,-21.8880992755,Littorina saxatilis,Rough Periwinkle,Mollusca,68554,north_atlantic_2023,baseline
+62888637,2020-10-18,64.1508763517,-21.8884627149,Testudinalia testudinalis,Tortoiseshell Limpet,Mollusca,415169,north_atlantic_2023,baseline
+62888286,2020-10-18,64.1508976417,-21.8887155131,Tritia incrassata,Thick-lipped Dogwhelk,Mollusca,635178,north_atlantic_2023,baseline
+62887930,2020-10-18,64.1509680497,-21.8886623718,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+62887797,2020-10-18,64.1509610927,-21.8887979072,Tritia incrassata,Thick-lipped Dogwhelk,Mollusca,635178,north_atlantic_2023,baseline
+62888412,2020-10-18,64.1513571374,-21.8887059395,Hiatella arctica,Arctic Hiatella,Mollusca,117617,north_atlantic_2023,baseline
+62888175,2020-10-18,64.150902587,-21.8889802974,Hiatella arctica,Arctic Hiatella,Mollusca,117617,north_atlantic_2023,baseline
+62887501,2020-10-18,64.1509028804,-21.8885896169,Buccinum undatum,Common Whelk,Mollusca,130213,north_atlantic_2023,baseline
+63705733,2020-10-18,64.0186975657,-16.9787140388,Lagopus muta islandorum,Icelandic Rock Ptarmigan,Aves,632996,north_atlantic_2023,baseline
+62887428,2020-10-18,64.1509281519,-21.888616439,Hiatella arctica,Arctic Hiatella,Mollusca,117617,north_atlantic_2023,baseline
+62887151,2020-10-18,64.1509260145,-21.8884788081,Modiolus modiolus,Northern Horse Mussel,Mollusca,123772,north_atlantic_2023,baseline
+63085456,2020-10-18,48.320132,-54.0537319722,Perisoreus canadensis,Canada Jay,Aves,8335,north_atlantic_2023,baseline
+63045899,2020-10-18,47.74,-53.2352777778,Perisoreus canadensis,Canada Jay,Aves,8335,north_atlantic_2023,baseline
+65878633,2020-10-17,64.068534615,-16.1907201715,Phoca vitulina vitulina,Atlantic Harbor Seal,Mammalia,566601,north_atlantic_2023,baseline
+62881357,2020-10-17,51.86181667,-10.281875,Cyanistes caeruleus,Eurasian Blue Tit,Aves,144849,north_atlantic_2023,baseline
+63123073,2020-10-17,46.1770684626,-59.9207855414,Spinus pinus,Pine Siskin,Aves,145304,north_atlantic_2023,baseline
+62782889,2020-10-17,64.1513193353,-21.8887606077,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+62782826,2020-10-17,64.1513291002,-21.8888496235,Onchidoris bilamellata,barnacle-eating dorid,Mollusca,47480,north_atlantic_2023,baseline
+62782788,2020-10-17,64.1513187905,-21.8888105639,Testudinalia testudinalis,Tortoiseshell Limpet,Mollusca,415169,north_atlantic_2023,baseline
+62782270,2020-10-17,64.1513133422,-21.8888285849,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+62782216,2020-10-17,64.1509245148,-21.8882234925,Testudinalia testudinalis,Tortoiseshell Limpet,Mollusca,415169,north_atlantic_2023,baseline
+62784835,2020-10-17,64.1541491496,-21.8852852192,Hiatella arctica,Arctic Hiatella,Mollusca,117617,north_atlantic_2023,baseline
+62781074,2020-10-17,64.1512607877,-21.8886455242,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+63123074,2020-10-17,46.1991252872,-59.9459838106,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,baseline
+62783009,2020-10-17,64.1513026972,-21.8887510523,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+62782374,2020-10-17,64.1513019847,-21.8888152577,Testudinalia testudinalis,Tortoiseshell Limpet,Mollusca,415169,north_atlantic_2023,baseline
+62782074,2020-10-17,64.1512769648,-21.8890261464,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+62781336,2020-10-17,64.151218962,-21.8889442552,Patella pellucida,Blue-rayed Limpet,Mollusca,130087,north_atlantic_2023,baseline
+62781113,2020-10-17,64.1512860591,-21.8888738472,Hiatella arctica,Arctic Hiatella,Mollusca,117617,north_atlantic_2023,baseline
+62828606,2020-10-17,48.5095371389,-53.9535635278,Aegolius funereus,Boreal Owl,Aves,20359,north_atlantic_2023,baseline
+62730686,2020-10-16,51.4829312921,-56.9453120982,Dolichonyx oryzivorus,Bobolink,Aves,10487,north_atlantic_2023,baseline
+62662872,2020-10-15,46.00584722,-59.82983333,Crepidula plana,Eastern White Slippersnail,Mollusca,81645,north_atlantic_2023,baseline
+63063709,2020-10-15,46.00539445,-59.82904167,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,baseline
+62678153,2020-10-15,45.92276,-59.9608516667,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,baseline
+62649709,2020-10-15,64.1541289492,-21.8843523972,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+62756314,2020-10-15,47.5697222222,-52.7072222222,Mus musculus,House Mouse,Mammalia,44705,north_atlantic_2023,baseline
+64604973,2020-10-14,42.4306186083,-17.24074031,Turdus iliacus,Redwing,Aves,12749,north_atlantic_2023,baseline
+62578558,2020-10-14,47.5629887,-52.7133003,Lehmannia marginata,Tree slug,Mollusca,172036,north_atlantic_2023,baseline
+62548612,2020-10-14,47.4669106744,-52.8754161953,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,baseline
+62504059,2020-10-13,46.1188471667,-59.886455,Littorina littorea,Common Periwinkle,Mollusca,81606,north_atlantic_2023,baseline
+62504053,2020-10-13,46.1187971667,-59.8865783333,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,baseline
+62499199,2020-10-13,46.1187833333,-59.88658,Ameritella agilis,Northern Dwarf-tellin,Mollusca,548290,north_atlantic_2023,baseline
+62521193,2020-10-13,46.1188305556,-59.8865277778,Ardea herodias,Great Blue Heron,Aves,4956,north_atlantic_2023,baseline
+62521157,2020-10-13,46.1186666667,-59.8867361111,Littorina littorea,Common Periwinkle,Mollusca,81606,north_atlantic_2023,baseline
+62499490,2020-10-13,46.1194916667,-59.8856416667,Euspira heros,Northern Moonsnail,Mollusca,424402,north_atlantic_2023,baseline
+62521051,2020-10-13,46.1194416667,-59.8853833333,Littorina littorea,Common Periwinkle,Mollusca,81606,north_atlantic_2023,baseline
+62520876,2020-10-13,46.1193888889,-59.8855944444,Mytilus edulis,Blue Mussel,Mollusca,117650,north_atlantic_2023,baseline
+62520862,2020-10-13,46.1194166667,-59.8856361111,Mytilus edulis,Blue Mussel,Mollusca,117650,north_atlantic_2023,baseline
+62500349,2020-10-13,46.1193611667,-59.8855216667,Mytilus edulis,Blue Mussel,Mollusca,117650,north_atlantic_2023,baseline
+62500509,2020-10-13,46.1193611667,-59.8855216667,Mytilus edulis,Blue Mussel,Mollusca,117650,north_atlantic_2023,baseline
+62520811,2020-10-13,46.119225,-59.8855472222,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,baseline
+62500726,2020-10-13,46.1193,-59.8855466667,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,baseline
+62500914,2020-10-13,46.1193778333,-59.8854783333,Mytilus edulis,Blue Mussel,Mollusca,117650,north_atlantic_2023,baseline
+62520767,2020-10-13,46.1192802778,-59.8854469444,Mytilus edulis,Blue Mussel,Mollusca,117650,north_atlantic_2023,baseline
+62520697,2020-10-13,46.1192719444,-59.8858294444,Ensis leei,Atlantic Jackknife,Mollusca,765132,north_atlantic_2023,baseline
+62501092,2020-10-13,46.1192638333,-59.88572,Ensis leei,Atlantic Jackknife,Mollusca,765132,north_atlantic_2023,baseline
+62520574,2020-10-13,46.1190719444,-59.8861955556,Crepidula plana,Eastern White Slippersnail,Mollusca,81645,north_atlantic_2023,baseline
+62501190,2020-10-13,46.1192083333,-59.8859783333,Crepidula plana,Eastern White Slippersnail,Mollusca,81645,north_atlantic_2023,baseline
+62501331,2020-10-13,46.1190916667,-59.8861833333,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,baseline
+62520466,2020-10-13,46.11907,-59.8862047222,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,baseline
+62520150,2020-10-13,46.1189888889,-59.8862525,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,baseline
+62503509,2020-10-13,46.119025,-59.8862533333,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,baseline
+62528115,2020-10-13,47.5256032411,-52.6212154397,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,baseline
+62503611,2020-10-13,46.1188445,-59.8865666667,Littorina littorea,Common Periwinkle,Mollusca,81606,north_atlantic_2023,baseline
+62503640,2020-10-13,46.1187221667,-59.8865583333,Euspira heros,Northern Moonsnail,Mollusca,424402,north_atlantic_2023,baseline
+62519835,2020-10-13,46.1187638889,-59.8865305556,Euspira heros,Northern Moonsnail,Mollusca,424402,north_atlantic_2023,baseline
+62519812,2020-10-13,46.1187416667,-59.8865722222,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,baseline
+62503667,2020-10-13,46.1186361667,-59.88662,Spisula solidissima,West Atlantic Surfclam,Mollusca,231421,north_atlantic_2023,baseline
+62503758,2020-10-13,46.118625,-59.88662,Euspira heros,Northern Moonsnail,Mollusca,424402,north_atlantic_2023,baseline
+62503800,2020-10-13,46.1185278333,-59.8866083333,Littorina littorea,Common Periwinkle,Mollusca,81606,north_atlantic_2023,baseline
+62519676,2020-10-13,46.118525,-59.8866122222,Littorina littorea,Common Periwinkle,Mollusca,81606,north_atlantic_2023,baseline
+62503821,2020-10-13,46.1185333333,-59.8866883333,Spisula solidissima,West Atlantic Surfclam,Mollusca,231421,north_atlantic_2023,baseline
+62503845,2020-10-13,46.1185416667,-59.8867133333,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,baseline
+62503868,2020-10-13,46.1185721667,-59.886745,Agriopoma morrhuanum,False Quahog,Mollusca,1404716,north_atlantic_2023,baseline
+62519605,2020-10-13,46.1185755556,-59.8867544444,Spisula solidissima,West Atlantic Surfclam,Mollusca,231421,north_atlantic_2023,baseline
+62519531,2020-10-13,46.1185755556,-59.8867544444,Littorina littorea,Common Periwinkle,Mollusca,81606,north_atlantic_2023,baseline
+62504036,2020-10-13,46.1185611667,-59.886805,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,baseline
+62454351,2020-10-12,47.5231666829,-52.6216804212,Calcarius lapponicus,Lapland Longspur,Aves,116840,north_atlantic_2023,baseline
+62454353,2020-10-12,47.5786270397,-52.6997763671,Larus fuscus,Lesser Black-backed Gull,Aves,4381,north_atlantic_2023,baseline
+62454354,2020-10-12,47.5785901638,-52.6997571728,Larus fuscus,Lesser Black-backed Gull,Aves,4381,north_atlantic_2023,baseline
+62454356,2020-10-12,47.5793737805,-52.6991635152,Fulica americana,American Coot,Aves,473,north_atlantic_2023,baseline
+62454357,2020-10-12,47.5767492346,-52.7363326445,Ardea alba,Great Egret,Aves,144455,north_atlantic_2023,baseline
+64398360,2020-10-12,64.1764845128,-51.7472432926,Corvus corax,Common Raven,Aves,8010,north_atlantic_2023,baseline
+63089607,2020-10-12,44.125721537,-59.9080910996,Hyperoglyphe perciformis,Barrelfish,Actinopterygii,103081,north_atlantic_2023,baseline
+64399420,2020-10-12,64.1761805884,-51.7488928512,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,baseline
+62352942,2020-10-11,46.1778931707,-59.8430341887,Calidris melanotos,Pectoral Sandpiper,Aves,3865,north_atlantic_2023,baseline
+62320231,2020-10-11,64.0390545693,-21.6251155504,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,baseline
+62322344,2020-10-11,47.5245801244,-52.6217470416,Passerina caerulea,Blue Grosbeak,Aves,73155,north_atlantic_2023,baseline
+62324264,2020-10-11,64.1570054507,-21.7671885621,Mya truncata,Truncate Softshell Clam,Mollusca,447416,north_atlantic_2023,baseline
+62322346,2020-10-11,47.5246681916,-52.6201272726,Melanitta deglandi,White-winged Scoter,Aves,144222,north_atlantic_2023,baseline
+62317227,2020-10-11,64.1588372319,-21.7637077254,Phalacrocorax carbo,Great Cormorant,Aves,4270,north_atlantic_2023,baseline
+62322345,2020-10-11,47.5246131721,-52.6201329224,Melanitta americana,Black Scoter,Aves,144220,north_atlantic_2023,baseline
+62323334,2020-10-11,64.1562726629,-21.7702116631,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,baseline
+62322212,2020-10-11,64.1564604594,-21.7687952891,Macoma calcarea,Chalky Macoma,Mollusca,861604,north_atlantic_2023,baseline
+62320661,2020-10-11,64.1577534518,-21.765406318,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,baseline
+62440366,2020-10-11,47.5307138889,-52.9206055556,Bonasa umbellus,Ruffed Grouse,Aves,890,north_atlantic_2023,baseline
+62396806,2020-10-11,52.0224814009,-14.5940819755,Maurolicus muelleri,Daisy Pearlside,Actinopterygii,459325,north_atlantic_2023,baseline
+62323411,2020-10-11,47.5341409909,-52.7102155037,Bonasa umbellus,Ruffed Grouse,Aves,890,north_atlantic_2023,baseline
+62200113,2020-10-10,64.168359032,-21.7847016268,Littorina saxatilis,Rough Periwinkle,Mollusca,68554,north_atlantic_2023,baseline
+62200016,2020-10-10,64.168359032,-21.7847016268,Littorina saxatilis,Rough Periwinkle,Mollusca,68554,north_atlantic_2023,baseline
+62230918,2020-10-10,64.1649836815,-21.781008644,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,baseline
+62198700,2020-10-10,64.1689641635,-21.7875322793,Mya truncata,Truncate Softshell Clam,Mollusca,447416,north_atlantic_2023,baseline
+62198241,2020-10-10,64.1688855831,-21.7878698185,Hiatella arctica,Arctic Hiatella,Mollusca,117617,north_atlantic_2023,baseline
+62230584,2020-10-10,47.5675800261,-52.7122249827,Junco hyemalis,Dark-eyed Junco,Aves,10094,north_atlantic_2023,baseline
+62129223,2020-10-09,64.1583525232,-21.7632472691,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+62125701,2020-10-09,64.1558938427,-21.7700193823,Littorina saxatilis,Rough Periwinkle,Mollusca,68554,north_atlantic_2023,baseline
+62186849,2020-10-09,64.1592946742,-21.7610737123,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+62188665,2020-10-09,46.14741117,-59.97652833,Poecile hudsonicus,Boreal Chickadee,Aves,144821,north_atlantic_2023,baseline
+62122594,2020-10-09,64.1587967473,-21.7638565041,Littorina saxatilis,Rough Periwinkle,Mollusca,68554,north_atlantic_2023,baseline
+62125952,2020-10-09,64.1558485805,-21.7694767378,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,baseline
+62122436,2020-10-09,64.1587855993,-21.7637642194,Buccinum undatum,Common Whelk,Mollusca,130213,north_atlantic_2023,baseline
+62121811,2020-10-09,64.1588423029,-21.7591101676,Anser anser anser,European Greylag Goose,Aves,704638,north_atlantic_2023,baseline
+62106321,2020-10-09,64.0774737927,-21.602087659,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,baseline
+62105352,2020-10-09,64.1616779427,-21.7537007388,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,baseline
+62104981,2020-10-09,64.1613717937,-21.7549125105,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+62106332,2020-10-09,64.1632925906,-21.7504022923,Buccinum undatum,Common Whelk,Mollusca,130213,north_atlantic_2023,baseline
+62105987,2020-10-09,64.1625717888,-21.7517744098,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,baseline
+62105817,2020-10-09,64.162374856,-21.7520358414,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,baseline
+62105624,2020-10-09,64.1619829182,-21.7528612074,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,baseline
+62104619,2020-10-09,64.1609222722,-21.7558448296,Buccinum undatum,Common Whelk,Mollusca,130213,north_atlantic_2023,baseline
+62104482,2020-10-09,64.1606792808,-21.7562479153,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,baseline
+62149703,2020-10-09,53.0315836241,-13.3146102726,Chelidonichthys cuculus,Red Gurnard,Actinopterygii,51543,north_atlantic_2023,baseline
+62149526,2020-10-09,53.223122696,-13.3368524909,Schedophilus medusophagus,Brown Ruff,Actinopterygii,120621,north_atlantic_2023,baseline
+62080034,2020-10-08,64.1588085238,-21.7634478025,Buccinum undatum,Common Whelk,Mollusca,130213,north_atlantic_2023,baseline
+62022334,2020-10-08,64.1576834629,-21.7670661863,Macoma calcarea,Chalky Macoma,Mollusca,861604,north_atlantic_2023,baseline
+62021152,2020-10-08,64.1581779114,-21.7639979907,Phoca vitulina,Harbor Seal,Mammalia,41708,north_atlantic_2023,baseline
+62020691,2020-10-08,64.1585293646,-21.763086794,Haematopus ostralegus,Eurasian Oystercatcher,Aves,4843,north_atlantic_2023,baseline
+62022210,2020-10-08,64.1575922259,-21.7660654709,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,baseline
+62022201,2020-10-08,64.1578355944,-21.7647583969,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,baseline
+61911615,2020-10-06,46.1988616667,-59.9504016667,Larus delawarensis,Ring-billed Gull,Aves,4364,north_atlantic_2023,baseline
+61911617,2020-10-06,46.19877,-59.9503283333,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,baseline
+61911616,2020-10-06,46.19877,-59.9503283333,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+61911631,2020-10-06,46.198865,-59.9503983333,Larus delawarensis,Ring-billed Gull,Aves,4364,north_atlantic_2023,baseline
+61911613,2020-10-06,46.1988683333,-59.95035,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,baseline
+61911612,2020-10-06,46.1988566667,-59.9504166667,Pluvialis squatarola,Black-bellied Plover,Aves,4892,north_atlantic_2023,baseline
+61911625,2020-10-06,46.1986616667,-59.9508633333,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+61911624,2020-10-06,46.1986616667,-59.9508633333,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+61911623,2020-10-06,46.198665,-59.9508516667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+61911622,2020-10-06,46.1986,-59.9508583333,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+61911621,2020-10-06,46.19876,-59.9504983333,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+61911614,2020-10-06,46.1973133333,-59.94792,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,baseline
+61911607,2020-10-06,46.1767266667,-59.920445,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+61911610,2020-10-06,46.176775,-59.9204733333,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,baseline
+61911609,2020-10-06,46.1781883333,-59.9257,Anthus rubescens,American Pipit,Aves,13732,north_atlantic_2023,baseline
+61971187,2020-10-06,47.5248889609,-52.620295026,Melanitta perspicillata,Surf Scoter,Aves,7036,north_atlantic_2023,baseline
+110036054,2020-10-06,46.17869,-59.9277516667,Passerculus sandwichensis,Savannah Sparrow,Aves,9981,north_atlantic_2023,baseline
+61970903,2020-10-06,47.5242423456,-52.6212182529,Zonotrichia leucophrys,White-crowned Sparrow,Aves,9176,north_atlantic_2023,baseline
+61911628,2020-10-06,46.1910616667,-59.9758683333,Larus delawarensis,Ring-billed Gull,Aves,4364,north_atlantic_2023,baseline
+61911627,2020-10-06,46.1909633333,-59.975765,Larus delawarensis,Ring-billed Gull,Aves,4364,north_atlantic_2023,baseline
+61911620,2020-10-06,46.1909633333,-59.975765,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,baseline
+206641906,2020-10-05,48.7003286365,-54.9922347597,Perisoreus canadensis,Canada Jay,Aves,8335,north_atlantic_2023,baseline
+61970906,2020-10-05,46.8842836727,-52.9345038521,Dolichonyx oryzivorus,Bobolink,Aves,10487,north_atlantic_2023,baseline
+61819391,2020-10-05,46.8689800252,-52.9402136803,Myiarchus crinitus,Great Crested Flycatcher,Aves,16028,north_atlantic_2023,baseline
+61970905,2020-10-05,46.8688720367,-52.9400285964,Myiarchus crinitus,Great Crested Flycatcher,Aves,16028,north_atlantic_2023,baseline
+61819319,2020-10-05,46.8683136367,-52.9402651017,Vireo philadelphicus,Philadelphia Vireo,Aves,17364,north_atlantic_2023,baseline
+66163413,2020-10-05,46.1773564154,-59.8438811024,Melospiza georgiana,Swamp Sparrow,Aves,9096,north_atlantic_2023,baseline
+66163384,2020-10-05,46.1116964992,-59.8854554442,Melospiza melodia,Song Sparrow,Aves,9100,north_atlantic_2023,baseline
+61727078,2020-10-04,46.1774026502,-59.8432796258,Chondestes grammacus,Lark Sparrow,Aves,10479,north_atlantic_2023,baseline
+61731798,2020-10-04,47.5790666826,-52.7324963342,Piranga olivacea,Scarlet Tanager,Aves,9921,north_atlantic_2023,baseline
+61731797,2020-10-04,47.5789800815,-52.7325721066,Icterus galbula,Baltimore Oriole,Aves,9346,north_atlantic_2023,baseline
+61821721,2020-10-04,46.1151624126,-59.8871033639,Zonotrichia leucophrys,White-crowned Sparrow,Aves,9176,north_atlantic_2023,baseline
+66113806,2020-10-04,46.1125452262,-59.8867121276,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,baseline
+96215228,2020-10-04,46.8899818448,-56.2916697858,Sphyrapicus varius,Yellow-bellied Sapsucker,Aves,18463,north_atlantic_2023,baseline
+61675126,2020-10-04,64.1544383672,-21.8841398321,Modiolus modiolus,Northern Horse Mussel,Mollusca,123772,north_atlantic_2023,baseline
+61722702,2020-10-04,52.622376798,-13.1241328642,Nezumia aequalis,Common Atlantic Grenadier,Actinopterygii,120607,north_atlantic_2023,baseline
+61694538,2020-10-04,49.5575063772,-54.8099376449,Dendronotus frondosus,Bushy-backed Nudibranch,Mollusca,423919,north_atlantic_2023,baseline
+327512841,2020-10-03,47.1921,-47.4707,Maurolicus weitzmani,Atlantic Pearlside,Actinopterygii,317210,north_atlantic_2023,baseline
+61600746,2020-10-03,46.1837686005,-59.9343838884,Calidris fuscicollis,White-rumped Sandpiper,Aves,3866,north_atlantic_2023,baseline
+61565067,2020-10-03,46.0109898,-59.9556719,Catharus guttatus,Hermit Thrush,Aves,12890,north_atlantic_2023,baseline
+307492759,2020-10-03,51.0788462514,-56.8895856143,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,baseline
+61715878,2020-10-03,47.6727074419,-53.8089889345,Arion ater,Black Slug,Mollusca,82003,north_atlantic_2023,baseline
+61513431,2020-10-02,45.9168112179,-59.9724399428,Alca torda,Razorbill,Aves,4501,north_atlantic_2023,baseline
+61513543,2020-10-02,45.9580407397,-59.865302369,Lophodytes cucullatus,Hooded Merganser,Aves,7109,north_atlantic_2023,baseline
+61493995,2020-10-02,64.1539952579,-21.8843772076,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+61571233,2020-10-02,64.1541359062,-21.8838798255,Modiolus modiolus,Northern Horse Mussel,Mollusca,123772,north_atlantic_2023,baseline
+61567517,2020-10-02,47.5904078343,-52.7448711661,Cepaea,,Mollusca,48587,north_atlantic_2023,baseline
+61521345,2020-10-02,48.1852827611,-53.9860040322,Setophaga palmarum,Palm Warbler,Aves,145242,north_atlantic_2023,baseline
+61505092,2020-10-02,52.300245,-12.563805,Argyropelecus olfersii,Silver hatchetfish,Actinopterygii,459329,north_atlantic_2023,baseline
+61502015,2020-10-02,52.09221,-13.160594,Aporrhais serresiana,Cormorant's-foot Shell,Mollusca,1312505,north_atlantic_2023,baseline
+61501135,2020-10-02,51.865685,-13.348103,Gadiculus argenteus,Silvery Pout,Actinopterygii,120608,north_atlantic_2023,baseline
+61474830,2020-10-02,51.6277226358,-13.4585986286,Capros aper,Boarfish,Actinopterygii,64589,north_atlantic_2023,baseline
+61474301,2020-10-02,47.6045711626,-52.7439194428,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,baseline
+61474265,2020-10-02,47.6045469239,-52.7440475078,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,baseline
+61441183,2020-10-01,46.1777412713,-59.9230001926,Calcarius lapponicus,Lapland Longspur,Aves,116840,north_atlantic_2023,baseline
+61400485,2020-10-01,47.5732525,-52.7285534997,Anser brachyrhynchus,Pink-footed Goose,Aves,7007,north_atlantic_2023,baseline
+61400439,2020-10-01,47.573365,-52.7284429722,Anas acuta,Northern Pintail,Aves,6933,north_atlantic_2023,baseline
+61379279,2020-10-01,51.175412,-13.842892,Hoplostethus mediterraneus,Blacktip Sawbelly,Actinopterygii,120620,north_atlantic_2023,baseline
+61396289,2020-09-30,62.1951235904,-12.5282093883,Garrulus glandarius,Eurasian Jay,Aves,8088,north_atlantic_2023,baseline
+61346718,2020-09-30,50.9614,-14.019704,Evermannella balbo,Balbo Sabretooth,Actinopterygii,459382,north_atlantic_2023,baseline
+61346531,2020-09-30,50.740795,-13.951433,Lampanyctus crocodilus,Jewel Lanternfish,Actinopterygii,120704,north_atlantic_2023,baseline
+61321430,2020-09-30,47.5832500868,-52.8305860051,Limax maximus,Leopard Slug,Mollusca,62470,north_atlantic_2023,baseline
+63264363,2020-09-29,47.5191984515,-52.7549555909,Leuconotopicus villosus,Hairy Woodpecker,Aves,1651487,north_atlantic_2023,baseline
+63264361,2020-09-29,47.5217477251,-52.7526766944,Tamias striatus,Eastern Chipmunk,Mammalia,46217,north_atlantic_2023,baseline
+61195943,2020-09-29,47.4896598453,-52.8316817999,Sorex cinereus,Masked Shrew,Mammalia,59815,north_atlantic_2023,baseline
+61242295,2020-09-29,47.5632039,-52.7131891,Colaptes auratus,Northern Flicker,Aves,18236,north_atlantic_2023,baseline
+61190103,2020-09-28,51.79640833,-10.34747167,Pyrrhocorax pyrrhocorax,Red-billed Chough,Aves,8349,north_atlantic_2023,baseline
+62280865,2020-09-28,48.6372194444,-53.7605583333,Vulpes vulpes deletrix,Insular Newfoundland Red Fox,Mammalia,1158931,north_atlantic_2023,baseline
+61008735,2020-09-27,47.5255373855,-52.6503855419,Spizella passerina,Chipping Sparrow,Aves,9135,north_atlantic_2023,baseline
+61008731,2020-09-27,47.5222577023,-52.6226530399,Melospiza melodia,Song Sparrow,Aves,9100,north_atlantic_2023,baseline
+60988314,2020-09-27,64.1315016663,-21.8318112754,Deroceras reticulatum,Milky Slug,Mollusca,124432,north_atlantic_2023,baseline
+62220244,2020-09-27,47.5222116004,-52.7546664281,Columba livia domestica,Feral Pigeon,Aves,122767,north_atlantic_2023,baseline
+61811924,2020-09-27,47.522335891,-52.7546465357,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+61811358,2020-09-27,47.52180871,-52.7551713843,Cepaea nemoralis,Brown-lipped Snail,Mollusca,48586,north_atlantic_2023,baseline
+61171444,2020-09-27,47.521195699,-52.7551792888,Cygnus olor,Mute Swan,Aves,6921,north_atlantic_2023,baseline
+61138888,2020-09-27,47.5213257625,-52.7553381465,Arion ater,Black Slug,Mollusca,82003,north_atlantic_2023,baseline
+260606918,2020-09-26,51.9541085,-10.2159855,Magallana gigas,Pacific Oyster,Mollusca,605992,north_atlantic_2023,baseline
+60929968,2020-09-26,64.02580283,-21.21164667,Corvus corax,Common Raven,Aves,8010,north_atlantic_2023,baseline
+317737885,2020-09-26,50.7074048365,-57.3569436264,Columba livia domestica,Feral Pigeon,Aves,122767,north_atlantic_2023,baseline
+260207065,2020-09-26,51.9576379673,-10.2057540044,Phoca vitulina vitulina,Atlantic Harbor Seal,Mammalia,566601,north_atlantic_2023,baseline
+60997507,2020-09-26,47.4348316399,-52.680270291,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,baseline
+60738901,2020-09-25,64.1514040344,-21.8880588748,Buccinum undatum,Common Whelk,Mollusca,130213,north_atlantic_2023,baseline
+60903830,2020-09-25,47.5795512278,-52.7317093244,Pheucticus ludovicianus,Rose-breasted Grosbeak,Aves,10271,north_atlantic_2023,baseline
+60738327,2020-09-25,64.1514926311,-21.8885324523,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+60737970,2020-09-25,64.1514583491,-21.8885006849,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+60736794,2020-09-25,64.1511991388,-21.8881901354,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+60736741,2020-09-25,64.1511479254,-21.888333885,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+60736539,2020-09-25,64.1510888329,-21.8883685861,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+60771747,2020-09-25,47.5733519722,-52.728489,Spatula clypeata,Northern Shoveler,Aves,558438,north_atlantic_2023,baseline
+60608456,2020-09-24,46.0109898,-59.9556719,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,baseline
+155249555,2020-09-23,49.7114000995,-55.9018616482,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,baseline
+61471686,2020-09-23,46.1782145396,-59.843201302,Halichoerus grypus,Grey Seal,Mammalia,41733,north_atlantic_2023,baseline
+66113907,2020-09-22,46.1737400993,-59.8997538402,Falco peregrinus,Peregrine Falcon,Aves,4647,north_atlantic_2023,baseline
+60872916,2020-09-22,64.14476117,-21.94467167,Anser anser,Greylag Goose,Aves,7018,north_atlantic_2023,baseline
+60407157,2020-09-22,64.14292783,-21.940805,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,baseline
+60407154,2020-09-22,64.1438305,-21.9403,Mareca strepera,Gadwall,Aves,558439,north_atlantic_2023,baseline
+60406802,2020-09-22,64.1453488583,-21.9394512692,Anser anser,Greylag Goose,Aves,7018,north_atlantic_2023,baseline
+60406563,2020-09-22,64.1454153829,-21.9395064842,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,north_atlantic_2023,baseline
+60406558,2020-09-22,64.1453670864,-21.9395251206,Cygnus cygnus,Whooper Swan,Aves,6916,north_atlantic_2023,baseline
+60406549,2020-09-22,64.1452925965,-21.9395184916,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,baseline
+60429455,2020-09-22,47.6696423944,-52.7494372119,Cepaea nemoralis,Brown-lipped Snail,Mollusca,48586,north_atlantic_2023,baseline
+60423366,2020-09-22,47.5141870431,-53.6772896576,Anguilla rostrata,American Eel,Actinopterygii,49219,north_atlantic_2023,baseline
+60548473,2020-09-21,48.3723222222,-53.3406,Mytilus edulis,Blue Mussel Complex,Mollusca,1108240,north_atlantic_2023,baseline
+60336401,2020-09-21,64.1540380056,-21.885072738,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+60548304,2020-09-20,48.564125,-58.5766333333,Pyganodon fragilis,Newfoundland Floater,Mollusca,151717,north_atlantic_2023,baseline
+60243417,2020-09-20,47.5909214659,-52.71417677,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,north_atlantic_2023,baseline
+60243398,2020-09-20,47.5909155759,-52.7142068115,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,north_atlantic_2023,baseline
+60243224,2020-09-20,47.5908723521,-52.7143110836,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,north_atlantic_2023,baseline
+60242031,2020-09-20,47.5634761294,-52.7128889132,Cepaea nemoralis,Brown-lipped Snail,Mollusca,48586,north_atlantic_2023,baseline
+60220746,2020-09-20,47.5213189951,-52.6363407519,Setophaga discolor,Prairie Warbler,Aves,145249,north_atlantic_2023,baseline
+60607347,2020-09-19,46.0109898,-59.9556719,Colaptes auratus,Northern Flicker,Aves,18236,north_atlantic_2023,baseline
+60063461,2020-09-19,64.1480195057,-21.8940626644,Littorina obtusata,,Mollusca,1393130,north_atlantic_2023,baseline
+60062598,2020-09-19,64.1482898221,-21.89302071,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+60062390,2020-09-19,64.1483295523,-21.8929423392,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+60062339,2020-09-19,64.14832599,-21.8929372262,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+60062034,2020-09-19,64.1483642534,-21.8927187938,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,baseline
+66519895,2020-09-19,47.5827466667,-52.6694533333,Vulpes vulpes deletrix,Insular Newfoundland Red Fox,Mammalia,1158931,north_atlantic_2023,baseline
+60134288,2020-09-19,48.5650083604,-58.5679003224,Aythya collaris,Ring-necked Duck,Aves,7044,north_atlantic_2023,baseline
+60115130,2020-09-19,47.6021335495,-52.7012181716,Cepaea nemoralis,Brown-lipped Snail,Mollusca,48586,north_atlantic_2023,baseline
+60145540,2020-09-18,47.5335404762,-52.9447046196,Limosa haemastica,Hudsonian Godwit,Aves,3950,north_atlantic_2023,baseline
+61604787,2020-09-18,49.5252921571,-57.8810347278,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,baseline
+59999239,2020-09-18,48.5523467742,-53.9687416703,Canachites canadensis,Spruce Grouse,Aves,1289698,north_atlantic_2023,baseline
+59822835,2020-09-16,47.4690253727,-52.6549413106,Phalaropus fulicarius,Red Phalarope,Aves,73203,north_atlantic_2023,baseline
+59789358,2020-09-16,48.5528541063,-58.5751191527,Passerculus sandwichensis,Savannah Sparrow,Aves,9981,north_atlantic_2023,baseline
+59789280,2020-09-16,48.5528541063,-58.5751191527,Pinicola enucleator,Pine Grosbeak,Aves,9771,north_atlantic_2023,baseline
+59788973,2020-09-16,48.5528541063,-58.5751191527,Setophaga coronata coronata,Myrtle Warbler,Aves,132704,north_atlantic_2023,baseline
+111248344,2020-09-15,49.5243433859,-57.8748049645,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,baseline
+66789782,2020-09-15,64.1464875873,-21.9426356256,Anthus pratensis,Meadow Pipit,Aves,13729,north_atlantic_2023,baseline
+66789679,2020-09-15,64.8448839881,-19.0208349377,Tringa totanus,Common Redshank,Aves,3879,north_atlantic_2023,baseline
+59822197,2020-09-15,47.4684526511,-52.6305900749,Anarhichas lupus,Atlantic Wolffish,Actinopterygii,213519,north_atlantic_2023,baseline
+59822118,2020-09-15,47.4674745564,-52.6341478025,Anarhichas lupus,Atlantic Wolffish,Actinopterygii,213519,north_atlantic_2023,baseline
+59723546,2020-09-15,48.66375833,-53.7075,Vulpes vulpes deletrix,Insular Newfoundland Red Fox,Mammalia,1158931,north_atlantic_2023,baseline
+59587497,2020-09-14,47.4958229011,-52.7668992109,Calidris subruficollis,Buff-breasted Sandpiper,Aves,339596,north_atlantic_2023,baseline
+59587621,2020-09-14,47.4980038766,-52.7651154878,Pluvialis dominica,American Golden-Plover,Aves,4893,north_atlantic_2023,baseline
+182628343,2020-09-14,49.64815,-54.7741777778,Cepaea,,Mollusca,48587,north_atlantic_2023,baseline
+59565149,2020-09-14,52.1209068878,-10.2051673676,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,baseline
+66789682,2020-09-14,64.1464875873,-21.9426356256,Rissa tridactyla,Black-legged Kittiwake,Aves,4494,north_atlantic_2023,baseline
+59605766,2020-09-14,47.6027019869,-52.7075243582,Cepaea nemoralis,Brown-lipped Snail,Mollusca,48586,north_atlantic_2023,baseline
+59605618,2020-09-14,47.6026931513,-52.7075376803,Lehmannia marginata,Tree slug,Mollusca,172036,north_atlantic_2023,baseline
+61128851,2020-09-13,60.0720370816,-45.326616918,Falco rusticolus,Gyrfalcon,Aves,4657,north_atlantic_2023,baseline
+61130542,2020-09-13,60.894905,-46.0242916667,Gadus ogac,Greenland Cod,Actinopterygii,1316214,north_atlantic_2023,baseline
+60592699,2020-09-13,64.207305,-22.28343333,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,baseline
+59516923,2020-09-13,48.5638521533,-58.7811064348,Setophaga coronata,Yellow-rumped Warbler,Aves,145245,north_atlantic_2023,baseline
+59516746,2020-09-13,48.5623129434,-58.7676005065,Setophaga striata,Blackpoll Warbler,Aves,145240,north_atlantic_2023,baseline
+59516461,2020-09-13,48.5595310639,-58.7320035696,Ardea herodias,Great Blue Heron,Aves,4956,north_atlantic_2023,baseline
+59506836,2020-09-13,47.6699967535,-53.7141400203,Regulus satrapa,Golden-crowned Kinglet,Aves,117100,north_atlantic_2023,baseline
+59506702,2020-09-13,47.6788721113,-53.706237562,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,baseline
+59506573,2020-09-13,47.6726662471,-53.7143418565,Poecile hudsonicus,Boreal Chickadee,Aves,144821,north_atlantic_2023,baseline
+59506484,2020-09-13,47.6704428827,-53.7178387865,Passerella iliaca,Fox Sparrow,Aves,9156,north_atlantic_2023,baseline
+59510550,2020-09-12,46.0530859158,-59.9401496698,Buteo platypterus,Broad-winged Hawk,Aves,5227,north_atlantic_2023,baseline
+59510542,2020-09-12,46.1139113826,-59.8902456618,Ardea herodias,Great Blue Heron,Aves,4956,north_atlantic_2023,baseline
+59502143,2020-09-12,46.07855,-59.9006766667,Buteo platypterus,Broad-winged Hawk,Aves,5227,north_atlantic_2023,baseline
+59666478,2020-09-12,46.1145283333,-59.8870483333,Calidris pusilla,Semipalmated Sandpiper,Aves,3862,north_atlantic_2023,baseline
+59666477,2020-09-12,46.1144933333,-59.8870733333,Charadrius semipalmatus,Semipalmated Plover,Aves,4817,north_atlantic_2023,baseline
+59510540,2020-09-12,46.1139113826,-59.8902456618,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,baseline
+59666476,2020-09-12,46.1144933333,-59.88712,Pluvialis squatarola,Black-bellied Plover,Aves,4892,north_atlantic_2023,baseline
+59510541,2020-09-12,46.1139113826,-59.8902456618,Pluvialis squatarola,Black-bellied Plover,Aves,4892,north_atlantic_2023,baseline
+59666475,2020-09-12,46.11448,-59.8870883333,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,baseline
+59510535,2020-09-12,46.1139113826,-59.8902456618,Pandion haliaetus,Osprey,Aves,116999,north_atlantic_2023,baseline
+59504322,2020-09-12,46.1106583333,-59.8854233333,Pandion haliaetus,Osprey,Aves,116999,north_atlantic_2023,baseline
+65664123,2020-09-12,46.1121206264,-59.8856194838,Mergus merganser,Common Merganser,Aves,7004,north_atlantic_2023,baseline
+59504325,2020-09-12,46.1106,-59.8857866667,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,baseline
+59504319,2020-09-12,46.17776,-59.8455233333,Passerculus sandwichensis,Savannah Sparrow,Aves,9981,north_atlantic_2023,baseline
+65664108,2020-09-12,46.1778055556,-59.9212111111,Halichoerus grypus atlantica,Atlantic Grey Seal,Mammalia,711289,north_atlantic_2023,baseline
+59864332,2020-09-12,46.1762133333,-59.91959,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+59570788,2020-09-12,46.17537833,-59.918595,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+59570692,2020-09-12,46.17539667,-59.91859667,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,baseline
+59510533,2020-09-12,46.1755548308,-59.9215048234,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+59510534,2020-09-12,46.1755548308,-59.9215048234,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,baseline
+59510531,2020-09-12,46.1741869823,-59.9155682839,Bombycilla cedrorum,Cedar Waxwing,Aves,7428,north_atlantic_2023,baseline
+59864329,2020-09-12,46.1744133333,-59.9159433333,Bombycilla cedrorum,Cedar Waxwing,Aves,7428,north_atlantic_2023,baseline
+59504324,2020-09-12,46.1743366667,-59.91603,Chordeiles minor,Common Nighthawk,Aves,19577,north_atlantic_2023,baseline
+59864330,2020-09-12,46.156385,-59.9597583333,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,baseline
+59510528,2020-09-12,46.1564869346,-59.9584105233,Aix sponsa,Wood Duck,Aves,7107,north_atlantic_2023,baseline
+59764502,2020-09-12,46.1563733333,-59.9596833333,Setophaga coronata,Yellow-rumped Warbler,Aves,145245,north_atlantic_2023,baseline
+59477812,2020-09-12,46.1136130079,-59.8871834401,Charadrius semipalmatus,Semipalmated Plover,Aves,4817,north_atlantic_2023,baseline
+59764500,2020-09-12,46.1571616667,-59.9593233333,Melospiza melodia,Song Sparrow,Aves,9100,north_atlantic_2023,baseline
+59477815,2020-09-12,46.1136130079,-59.8871834401,Charadrius semipalmatus,Semipalmated Plover,Aves,4817,north_atlantic_2023,baseline
+59477816,2020-09-12,46.1136130079,-59.8871834401,Charadrius semipalmatus,Semipalmated Plover,Aves,4817,north_atlantic_2023,baseline
+59764503,2020-09-12,46.1563671154,-59.959396045,Setophaga coronata,Yellow-rumped Warbler,Aves,145245,north_atlantic_2023,baseline
+59477819,2020-09-12,46.1136130079,-59.8871834401,Calidris pusilla,Semipalmated Sandpiper,Aves,3862,north_atlantic_2023,baseline
+60986802,2020-09-12,46.1772656625,-59.8439332843,Melospiza georgiana,Swamp Sparrow,Aves,9096,north_atlantic_2023,baseline
+59477822,2020-09-12,46.1791308997,-59.8453336848,Passerculus sandwichensis,Savannah Sparrow,Aves,9981,north_atlantic_2023,baseline
+59477823,2020-09-12,46.1791308997,-59.8453336848,Geothlypis trichas,Common Yellowthroat,Aves,9721,north_atlantic_2023,baseline
+59477824,2020-09-12,46.1779548097,-59.931925583,Limosa haemastica,Hudsonian Godwit,Aves,3950,north_atlantic_2023,baseline
+59477825,2020-09-12,46.1779548097,-59.931925583,Calidris alba,Sanderling,Aves,3849,north_atlantic_2023,baseline
+59477811,2020-09-12,46.1779548097,-59.931925583,Anthus rubescens,American Pipit,Aves,13732,north_atlantic_2023,baseline
+60772004,2020-09-12,47.6133619,-52.8421701997,Zenaida macroura,Mourning Dove,Aves,3454,north_atlantic_2023,baseline
+261844938,2020-09-11,51.9413950556,-10.2461164167,Steromphala umbilicalis,Purple Topshell,Mollusca,711719,north_atlantic_2023,baseline
+260606400,2020-09-11,51.9417076944,-10.2456679167,Patella vulgata,Common European Limpet,Mollusca,154706,north_atlantic_2023,baseline
+327521703,2020-09-11,45.533,-50.4526,Lycodes lavalaei,Newfoundland Eelpout,Actinopterygii,224187,north_atlantic_2023,baseline
+65691043,2020-09-11,48.6684472445,-58.2041510192,Rangifer tarandus terranovae,Newfoundland Caribou,Mammalia,1120497,north_atlantic_2023,baseline
+65690664,2020-09-11,47.6332353237,-57.6386179119,Rangifer tarandus terranovae,Newfoundland Caribou,Mammalia,1120497,north_atlantic_2023,baseline
+59208104,2020-09-11,47.4507613904,-52.7851339331,Arianta arbustorum,Copse Snail,Mollusca,55617,north_atlantic_2023,baseline
+194470177,2020-09-10,49.1599587773,-57.3777073481,Rangifer tarandus,Caribou,Mammalia,42199,north_atlantic_2023,baseline
+59174454,2020-09-10,48.5617753072,-58.7511639297,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,baseline
+59140924,2020-09-10,48.402961585,-54.1498132423,Charadrius semipalmatus,Semipalmated Plover,Aves,4817,north_atlantic_2023,baseline
+59083561,2020-09-09,47.5624074375,-52.7421991084,Spinus pinus pinus,Northern Pine Siskin,Aves,320107,north_atlantic_2023,baseline
+59066071,2020-09-09,47.6035952028,-52.7055945604,Calidris melanotos,Pectoral Sandpiper,Aves,3865,north_atlantic_2023,baseline
+59066335,2020-09-09,47.6036406237,-52.7057197352,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,baseline
+66789742,2020-09-09,64.8448839881,-19.0208349377,Haematopus ostralegus,Eurasian Oystercatcher,Aves,4843,north_atlantic_2023,baseline
+65690022,2020-09-09,50.6959504012,-57.4073953237,Rangifer tarandus,Caribou,Mammalia,42199,north_atlantic_2023,baseline
+59007423,2020-09-08,45.9076733333,-59.96392,Numenius hudsonicus,Hudsonian Whimbrel,Aves,1188213,north_atlantic_2023,baseline
+59002261,2020-09-08,45.9081333333,-59.965435,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,baseline
+66789773,2020-09-08,64.1464875873,-21.9426356256,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,north_atlantic_2023,baseline
+66789723,2020-09-08,64.1464875873,-21.9426356256,Turdus iliacus coburni,Icelandic Redwing,Aves,516886,north_atlantic_2023,baseline
+66789718,2020-09-08,64.1464875873,-21.9426356256,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,baseline
+66789660,2020-09-08,64.1464875873,-21.9426356256,Charadrius hiaticula,Common Ringed Plover,Aves,4801,north_atlantic_2023,baseline
+66789603,2020-09-08,64.1464875873,-21.9426356256,Turdus iliacus,Redwing,Aves,12749,north_atlantic_2023,baseline
+66789578,2020-09-08,64.1464875873,-21.9426356256,Rissa tridactyla,Black-legged Kittiwake,Aves,4494,north_atlantic_2023,baseline
+66789544,2020-09-08,64.1464875873,-21.9426356256,Mareca penelope,Eurasian Wigeon,Aves,558441,north_atlantic_2023,baseline
+58881834,2020-09-07,47.5209188112,-52.6454513874,Vireo olivaceus,Red-eyed Vireo,Aves,891704,north_atlantic_2023,baseline
+59066427,2020-09-07,47.5213143466,-52.6369026738,Polioptila caerulea,Blue-gray Gnatcatcher,Aves,7493,north_atlantic_2023,baseline
+229675739,2020-09-07,47.6336416667,-52.5798194444,Mola mola,Common Mola,Actinopterygii,49601,north_atlantic_2023,baseline
+58821107,2020-09-07,64.77413,-21.54593333,Lagopus muta islandorum,Icelandic Rock Ptarmigan,Aves,632996,north_atlantic_2023,baseline
+102688788,2020-09-07,47.6718033333,-53.2556133333,Anguilla rostrata,American Eel,Actinopterygii,49219,north_atlantic_2023,baseline
+66789793,2020-09-07,64.8448839881,-19.0208349377,Tringa totanus,Common Redshank,Aves,3879,north_atlantic_2023,baseline
+66789785,2020-09-07,64.1464875873,-21.9426356256,Larus fuscus,Lesser Black-backed Gull,Aves,4381,north_atlantic_2023,baseline
+66789734,2020-09-07,64.8448839881,-19.0208349377,Tringa totanus,Common Redshank,Aves,3879,north_atlantic_2023,baseline
+66789714,2020-09-07,64.1464875873,-21.9426356256,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,baseline
+66789704,2020-09-07,64.1464875873,-21.9426356256,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,baseline
+66789695,2020-09-07,64.1464875873,-21.9426356256,Rissa tridactyla,Black-legged Kittiwake,Aves,4494,north_atlantic_2023,baseline
+66789675,2020-09-07,64.8448839881,-19.0208349377,Pluvialis apricaria,European Golden-Plover,Aves,4889,north_atlantic_2023,baseline
+66789615,2020-09-07,64.8448839881,-19.0208349377,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,baseline
+59098406,2020-09-07,47.4775,-53.0613888889,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,baseline
+58767008,2020-09-06,47.882072,-59.39356,Pluvialis squatarola,Black-bellied Plover,Aves,4892,north_atlantic_2023,baseline
+58767009,2020-09-06,47.882072,-59.39356,Ardea herodias,Great Blue Heron,Aves,4956,north_atlantic_2023,baseline
+58767012,2020-09-06,47.882072,-59.39356,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+58767013,2020-09-06,47.882072,-59.39356,Charadrius semipalmatus,Semipalmated Plover,Aves,4817,north_atlantic_2023,baseline
+58767014,2020-09-06,47.882072,-59.39356,Phoca vitulina vitulina,Atlantic Harbor Seal,Mammalia,566601,north_atlantic_2023,baseline
+58741800,2020-09-06,47.882072,-59.39356,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,baseline
+58741801,2020-09-06,47.882072,-59.39356,Limnodromus griseus,Short-billed Dowitcher,Aves,3869,north_atlantic_2023,baseline
+58741802,2020-09-06,47.882072,-59.39356,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,baseline
+58741803,2020-09-06,47.882072,-59.39356,Corvus corax,Common Raven,Aves,8010,north_atlantic_2023,baseline
+58759186,2020-09-06,51.4731734121,-57.1797377989,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,baseline
+58707633,2020-09-06,47.882072,-59.39356,Mergus merganser,Common Merganser,Aves,7004,north_atlantic_2023,baseline
+58707634,2020-09-06,47.882072,-59.39356,Passerculus sandwichensis,Savannah Sparrow,Aves,9981,north_atlantic_2023,baseline
+58707635,2020-09-06,47.882072,-59.39356,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,baseline
+58707636,2020-09-06,47.882072,-59.39356,Calidris pusilla,Semipalmated Sandpiper,Aves,3862,north_atlantic_2023,baseline
+58707637,2020-09-06,47.882072,-59.39356,Calidris alba,Sanderling,Aves,3849,north_atlantic_2023,baseline
+58707638,2020-09-06,47.882072,-59.39356,Pluvialis squatarola,Black-bellied Plover,Aves,4892,north_atlantic_2023,baseline
+58707640,2020-09-06,47.882072,-59.39356,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,baseline
+73297146,2020-09-06,46.9670379247,-52.9453859709,Alces alces,Moose,Mammalia,522193,north_atlantic_2023,baseline
+336350495,2020-09-06,43.2415,-51.3977,Polymixia lowei,Beardfish,Actinopterygii,317310,north_atlantic_2023,baseline
+58707643,2020-09-05,47.882072,-59.39356,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,baseline
+58707642,2020-09-05,47.882072,-59.39356,Pluvialis squatarola,Black-bellied Plover,Aves,4892,north_atlantic_2023,baseline
+58707648,2020-09-05,47.882072,-59.39356,Ardea herodias,Great Blue Heron,Aves,4956,north_atlantic_2023,baseline
+58707649,2020-09-05,47.882072,-59.39356,Mergus merganser,Common Merganser,Aves,7004,north_atlantic_2023,baseline
+58707651,2020-09-05,47.882072,-59.39356,Ardea herodias,Great Blue Heron,Aves,4956,north_atlantic_2023,baseline
+58707656,2020-09-05,47.882072,-59.39356,Pluvialis squatarola,Black-bellied Plover,Aves,4892,north_atlantic_2023,baseline
+58707657,2020-09-05,47.882072,-59.39356,Halichoerus grypus,Grey Seal,Mammalia,41733,north_atlantic_2023,baseline
+58707658,2020-09-05,47.882072,-59.39356,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,baseline
+58707659,2020-09-05,47.882072,-59.39356,Passerculus sandwichensis,Savannah Sparrow,Aves,9981,north_atlantic_2023,baseline
+58707661,2020-09-05,47.882072,-59.39356,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,baseline
+58651054,2020-09-05,47.882072,-59.39356,Calidris pusilla,Semipalmated Sandpiper,Aves,3862,north_atlantic_2023,baseline
+58651055,2020-09-05,47.882072,-59.39356,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,baseline
+58651056,2020-09-05,47.882072,-59.39356,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,baseline
+58651059,2020-09-05,47.882072,-59.39356,Calidris alba,Sanderling,Aves,3849,north_atlantic_2023,baseline
+58651060,2020-09-05,47.882072,-59.39356,Charadrius semipalmatus,Semipalmated Plover,Aves,4817,north_atlantic_2023,baseline
+58651062,2020-09-05,47.882072,-59.39356,Menidia menidia,Atlantic Silverside,Actinopterygii,146827,north_atlantic_2023,baseline
+58651063,2020-09-05,47.882072,-59.39356,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,baseline
+58651064,2020-09-05,47.882072,-59.39356,Catharus ustulatus,Swainson's Thrush,Aves,12878,north_atlantic_2023,baseline
+58651065,2020-09-05,47.882072,-59.39356,Aythya collaris,Ring-necked Duck,Aves,7044,north_atlantic_2023,baseline
+58651067,2020-09-05,47.882072,-59.39356,Geothlypis trichas,Common Yellowthroat,Aves,9721,north_atlantic_2023,baseline
+58651068,2020-09-05,47.882072,-59.39356,Bombycilla cedrorum,Cedar Waxwing,Aves,7428,north_atlantic_2023,baseline
+58886480,2020-09-05,64.1183213503,-21.8405078351,Anser anser,Greylag Goose,Aves,7018,north_atlantic_2023,baseline
+59142589,2020-09-05,64.1383789277,-21.9331342354,Anser anser,Greylag Goose,Aves,7018,north_atlantic_2023,baseline
+58600926,2020-09-05,49.5133761707,-55.6145292161,Cepaea nemoralis,Brown-lipped Snail,Mollusca,48586,north_atlantic_2023,baseline
+58651069,2020-09-05,49.49749,-56.0729969,Perisoreus canadensis,Canada Jay,Aves,8335,north_atlantic_2023,baseline
+58651071,2020-09-05,49.49749,-56.0729969,Castor canadensis,American Beaver,Mammalia,43794,north_atlantic_2023,baseline
+58612728,2020-09-05,47.52019881,-52.7535015171,Lehmannia marginata,Tree slug,Mollusca,172036,north_atlantic_2023,baseline
+58604476,2020-09-05,47.52746667,-52.74766167,Tamias striatus,Eastern Chipmunk,Mammalia,46217,north_atlantic_2023,baseline
+58548238,2020-09-04,49.49749,-56.0729969,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,baseline
+58548239,2020-09-04,49.49749,-56.0729969,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,baseline
+58548240,2020-09-04,49.49749,-56.0729969,Poecile atricapillus,Black-capped Chickadee,Aves,144815,north_atlantic_2023,baseline
+58548242,2020-09-04,49.49749,-56.0729969,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,baseline
+58548243,2020-09-04,49.49749,-56.0729969,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,baseline
+58548244,2020-09-04,49.49749,-56.0729969,Pandion haliaetus carolinensis,American Osprey,Aves,126619,north_atlantic_2023,baseline
+58548483,2020-09-04,48.9276687,-55.6575025,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,baseline
+327509131,2020-09-04,43.339,-51.5712,Epigonus pandionis,,Actinopterygii,317093,north_atlantic_2023,baseline
+327509130,2020-09-04,43.339,-51.5712,Chlorophthalmus agassizi,Shortnose Greeneye,Actinopterygii,120612,north_atlantic_2023,baseline
+327509129,2020-09-04,43.339,-51.5712,Parasudis truculenta,Longnose Greeneye,Actinopterygii,317279,north_atlantic_2023,baseline
+327509126,2020-09-04,43.339,-51.5712,Malacocephalus occidentalis,Western Softhead Grenadier,Actinopterygii,105109,north_atlantic_2023,baseline
+59366394,2020-09-04,52.1390083335,-10.27197,Coloeus monedula,Eurasian Jackdaw,Aves,336399,north_atlantic_2023,baseline
+66002580,2020-09-04,46.181075,-59.934405,Larus delawarensis,Ring-billed Gull,Aves,4364,north_atlantic_2023,baseline
+58900326,2020-09-04,47.2597582521,-52.7774512768,Lontra canadensis,North American River Otter,Mammalia,41777,north_atlantic_2023,baseline
+195413109,2023-12-31,46.1786416667,-59.9256583333,Spisula solidissima,West Atlantic Surfclam,Mollusca,231421,north_atlantic_2023,event
+195412973,2023-12-31,46.1782033333,-59.9230166667,Spisula solidissima,West Atlantic Surfclam,Mollusca,231421,north_atlantic_2023,event
+195486055,2023-12-31,47.5020970112,-53.0213131001,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,north_atlantic_2023,event
+195485927,2023-12-31,47.5018152206,-53.0210828244,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+195486056,2023-12-31,47.5019832202,-53.0211092522,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,north_atlantic_2023,event
+195379386,2023-12-31,64.1582801267,-22.017634213,Falco columbarius,Merlin,Aves,4672,north_atlantic_2023,event
+195302274,2023-12-30,49.664227,-57.967148,Bucephala clangula,Common Goldeneye,Aves,6990,north_atlantic_2023,event
+195301720,2023-12-30,49.665587,-57.966361,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+196887185,2023-12-30,63.4072479212,-19.1170590862,Corvus corax,Common Raven,Aves,8010,north_atlantic_2023,event
+339984702,2023-12-30,47.501386823,-53.0215630572,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,north_atlantic_2023,event
+195278328,2023-12-30,64.0482674997,-16.1791209997,Plectrophenax nivalis,Snow Bunting,Aves,117059,north_atlantic_2023,event
+195268604,2023-12-30,46.17767059,-59.92710233,Argopecten irradians,Atlantic Bay Scallop,Mollusca,122039,north_atlantic_2023,event
+195482124,2023-12-30,47.5821667915,-52.6897560407,Anthus rubescens,American Pipit,Aves,13732,north_atlantic_2023,event
+195586713,2023-12-29,48.1530692974,-53.7432094046,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,event
+195192449,2023-12-29,47.5905509722,-53.2688569722,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,event
+195175603,2023-12-29,64.1817989267,-21.8555979431,Megaptera novaeangliae novaeangliae,North Atlantic Humpback Whale,Mammalia,705330,north_atlantic_2023,event
+195891666,2023-12-29,64.254813486,-21.1175821762,Salvelinus thingvallensis,Thingvallavatn Char,Actinopterygii,111997,north_atlantic_2023,event
+195225481,2023-12-28,47.58005905,-52.6971817,Ondatra zibethicus obscurus,Newfoundland Muskrat,Mammalia,1380798,north_atlantic_2023,event
+195225492,2023-12-28,47.57814025,-52.6997604333,Calidris pugnax,Ruff,Aves,339593,north_atlantic_2023,event
+195225484,2023-12-28,47.57814025,-52.6997604333,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,event
+195225491,2023-12-28,47.5771865833,-52.70108795,Setophaga dominica,Yellow-throated Warbler,Aves,145246,north_atlantic_2023,event
+195225483,2023-12-28,47.5777702167,-52.6968994,Lophodytes cucullatus,Hooded Merganser,Aves,7109,north_atlantic_2023,event
+305716571,2023-12-28,64.1417528333,-21.92737,Turdus iliacus,Redwing,Aves,12749,north_atlantic_2023,event
+195225478,2023-12-28,47.5851631,-52.689373,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,event
+227177194,2023-12-28,50.2908359262,-57.5267928466,Rangifer tarandus,Caribou,Mammalia,42199,north_atlantic_2023,event
+195225475,2023-12-28,47.58561705,-52.6885299667,Poecile atricapillus,Black-capped Chickadee,Aves,144815,north_atlantic_2023,event
+195225474,2023-12-28,47.58561705,-52.6885299667,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,event
+195225473,2023-12-28,47.58707045,-52.68995285,Melospiza melodia,Song Sparrow,Aves,9100,north_atlantic_2023,event
+195075481,2023-12-28,47.5780930361,-52.6997975528,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,north_atlantic_2023,event
+195106807,2023-12-28,51.9063888889,-10.3363888889,Lipophrys pholis,Shanny,Actinopterygii,210294,north_atlantic_2023,event
+227176950,2023-12-28,49.9812334691,-57.7396194264,Rangifer tarandus,Caribou,Mammalia,42199,north_atlantic_2023,event
+195648776,2023-12-28,64.0640597613,-16.1698596582,Plectrophenax nivalis,Snow Bunting,Aves,117059,north_atlantic_2023,event
+195065710,2023-12-28,64.1448137587,-21.9394810744,Cygnus cygnus,Whooper Swan,Aves,6916,north_atlantic_2023,event
+195481022,2023-12-27,48.1544751416,-53.7443159425,Mergus serrator,Red-breasted Merganser,Aves,6996,north_atlantic_2023,event
+195480425,2023-12-27,48.1542755245,-53.7445208128,Mergus serrator,Red-breasted Merganser,Aves,6996,north_atlantic_2023,event
+196447513,2023-12-27,48.9572433598,-57.9599937902,Bucephala islandica,Barrow's Goldeneye,Aves,6994,north_atlantic_2023,event
+196447512,2023-12-27,48.9573665506,-57.9605738438,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+279887293,2023-12-27,64.1551639624,-21.953412948,Plectrophenax nivalis,Snow Bunting,Aves,117059,north_atlantic_2023,event
+279887292,2023-12-27,64.1510090818,-21.9655146761,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,event
+279887290,2023-12-27,64.1550292042,-21.9671641966,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,event
+279887289,2023-12-27,64.151291137,-21.9669714747,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,event
+194984280,2023-12-27,63.9159568796,-16.5247325201,Plectrophenax nivalis,Snow Bunting,Aves,117059,north_atlantic_2023,event
+195473219,2023-12-26,48.1533257292,-53.7427693605,Mergus serrator,Red-breasted Merganser,Aves,6996,north_atlantic_2023,event
+201953442,2023-12-26,64.7977048579,-20.8121147006,Limosa limosa,Black-tailed Godwit,Aves,3947,north_atlantic_2023,event
+201953420,2023-12-26,64.4864747024,-17.1942728745,Numenius phaeopus,Eurasian Whimbrel,Aves,3901,north_atlantic_2023,event
+201953389,2023-12-26,64.2030266144,-18.8309832821,Tringa totanus,Common Redshank,Aves,3879,north_atlantic_2023,event
+195798599,2023-12-26,48.4250017801,-58.7612593378,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+279887288,2023-12-26,64.3103719,-20.3023605,Corvus corax varius,Icelandic raven,Aves,721983,north_atlantic_2023,event
+195684122,2023-12-26,51.9030555556,-10.3355555556,Lipophrys pholis,Shanny,Actinopterygii,210294,north_atlantic_2023,event
+194840028,2023-12-25,47.5780965,-52.6994412997,Lophodytes cucullatus,Hooded Merganser,Aves,7109,north_atlantic_2023,event
+293604229,2023-12-25,64.2220655027,-22.1758186013,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,north_atlantic_2023,event
+195621242,2023-12-25,48.153134086,-53.7435427703,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,event
+195375792,2023-12-25,48.1536096844,-53.7417366803,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+195375237,2023-12-25,48.1533534057,-53.742281424,Alca torda,Razorbill,Aves,4501,north_atlantic_2023,event
+195374726,2023-12-25,48.1533829903,-53.7421739101,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+278284196,2023-12-25,64.1842363407,-22.2970324799,Orcinus orca,Orca,Mammalia,41521,north_atlantic_2023,event
+279887287,2023-12-25,64.1554309569,-21.9971080454,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+279887286,2023-12-25,64.1505694983,-21.9258493646,Larus hyperboreus,Glaucous Gull,Aves,4349,north_atlantic_2023,event
+279887285,2023-12-25,64.1496604321,-21.9278834898,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+194806666,2023-12-24,47.58745999,-52.7312014104,Felis catus,Domestic Cat,Mammalia,118552,north_atlantic_2023,event
+194758786,2023-12-24,64.14007067,-21.86914135,Turdus merula,Eurasian Blackbird,Aves,12716,north_atlantic_2023,event
+194747205,2023-12-24,64.13573242,-21.89380967,Anser anser,Greylag Goose,Aves,7018,north_atlantic_2023,event
+194699093,2023-12-23,47.5861469482,-52.6892147028,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,event
+194699091,2023-12-23,47.5796521819,-52.6956680977,Aythya fuligula,Tufted Duck,Aves,7046,north_atlantic_2023,event
+194699090,2023-12-23,47.5789285809,-52.6972881469,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,event
+194699085,2023-12-23,47.5771903833,-52.70108795,Setophaga dominica,Yellow-throated Warbler,Aves,145246,north_atlantic_2023,event
+194691708,2023-12-23,47.5777702167,-52.69927215,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,north_atlantic_2023,event
+194699089,2023-12-23,47.5798694365,-52.692704201,Aythya fuligula,Tufted Duck,Aves,7046,north_atlantic_2023,event
+194699088,2023-12-23,47.58439635,-52.6827774,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,event
+194699087,2023-12-23,47.58439635,-52.6827774,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,event
+194699086,2023-12-23,47.58268355,-52.6899375833,Calidris pugnax,Ruff,Aves,339593,north_atlantic_2023,event
+198262937,2023-12-23,47.6515379764,-52.66622141,Lepus americanus,Snowshoe Hare,Mammalia,43132,north_atlantic_2023,event
+194583833,2023-12-22,47.6244277778,-52.6626777778,Cepaea,,Mollusca,48587,north_atlantic_2023,event
+343251277,2023-12-22,47.8384601752,-59.3257990944,Haliaeetus pelagicus,Steller's Sea-Eagle,Aves,5304,north_atlantic_2023,event
+194581637,2023-12-22,47.5825834167,-52.689790556,Calidris pugnax,Ruff,Aves,339593,north_atlantic_2023,event
+197334633,2023-12-21,47.4556868606,-52.7857592907,Lehmannia marginata,Tree slug,Mollusca,172036,north_atlantic_2023,event
+194443342,2023-12-20,48.9474357407,-57.9391486198,Mergus merganser,Common Merganser,Aves,7004,north_atlantic_2023,event
+194529406,2023-12-20,64.3099533152,-20.3023819577,Acanthis flammea,Redpoll,Aves,145300,north_atlantic_2023,event
+194529404,2023-12-20,64.3099777741,-20.3024205671,Acanthis flammea,Redpoll,Aves,145300,north_atlantic_2023,event
+195799510,2023-12-20,48.5152577646,-58.4803611887,Rangifer tarandus,Caribou,Mammalia,42199,north_atlantic_2023,event
+194355269,2023-12-19,64.1455078125,-21.9399871826,Cygnus cygnus,Whooper Swan,Aves,6916,north_atlantic_2023,event
+327799337,2023-12-18,64.0133972167,-22.1826583333,Corvus corax,Common Raven,Aves,8010,north_atlantic_2023,event
+327801116,2023-12-18,64.0187388333,-22.1578916667,Cygnus cygnus,Whooper Swan,Aves,6916,north_atlantic_2023,event
+196272112,2023-12-18,46.9836528121,-52.9414498006,Gavia immer,Common Loon,Aves,4626,north_atlantic_2023,event
+194294341,2023-12-18,54.2457221,-10.0528829,Cygnus cygnus,Whooper Swan,Aves,6916,north_atlantic_2023,event
+194294334,2023-12-18,54.2457221,-10.0528829,Accipiter nisus,Eurasian Sparrowhawk,Aves,5106,north_atlantic_2023,event
+194294331,2023-12-18,54.2457221,-10.0528829,Branta leucopsis,Barnacle Goose,Aves,7101,north_atlantic_2023,event
+194294338,2023-12-18,54.2457221,-10.0528829,Pyrrhocorax pyrrhocorax,Red-billed Chough,Aves,8349,north_atlantic_2023,event
+194279502,2023-12-18,51.5527270627,-55.7230324298,Canis latrans,Coyote,Mammalia,42051,north_atlantic_2023,event
+194294339,2023-12-18,54.2457221,-10.0528829,Asio flammeus,Short-eared Owl,Aves,20315,north_atlantic_2023,event
+194294337,2023-12-18,54.2457221,-10.0528829,Falco peregrinus,Peregrine Falcon,Aves,4647,north_atlantic_2023,event
+194225318,2023-12-17,47.527645,-52.7484883333,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+194226096,2023-12-17,47.5224,-52.7523616667,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,event
+194218579,2023-12-17,47.57,-52.7,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,event
+194218704,2023-12-17,47.57,-52.7,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,event
+194218957,2023-12-17,47.57,-52.7,Mareca penelope,Eurasian Wigeon,Aves,558441,north_atlantic_2023,event
+194198487,2023-12-17,64.2470083333,-21.0257388333,Apodemus sylvaticus,European Wood Mouse,Mammalia,45562,north_atlantic_2023,event
+194373060,2023-12-17,49.9173222222,-57.8288361111,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+194193038,2023-12-17,46.008,-59.941,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,event
+194194647,2023-12-17,46.008,-59.941,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,event
+194194726,2023-12-17,46.008,-59.941,Turdus migratorius,American Robin,Aves,12727,north_atlantic_2023,event
+194194468,2023-12-17,46.008,-59.941,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,event
+194194527,2023-12-17,46.008,-59.941,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+194193328,2023-12-17,46.008,-59.941,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,event
+194194353,2023-12-17,46.008,-59.941,Poecile atricapillus,Black-capped Chickadee,Aves,144815,north_atlantic_2023,event
+194193185,2023-12-17,46.008,-59.941,Corvus corax,Common Raven,Aves,8010,north_atlantic_2023,event
+194275818,2023-12-17,64.2555616667,-21.128425,Corvus corax,Common Raven,Aves,8010,north_atlantic_2023,event
+194194591,2023-12-17,46.008,-59.941,Turdus migratorius,American Robin,Aves,12727,north_atlantic_2023,event
+194183714,2023-12-17,64.1553583333,-21.875205,Anser anser,Greylag Goose,Aves,7018,north_atlantic_2023,event
+194218611,2023-12-17,64.1430195,-21.926955,Turdus merula,Eurasian Blackbird,Aves,12716,north_atlantic_2023,event
+296777241,2023-12-17,64.0479533333,-16.1790183333,Plectrophenax nivalis,Snow Bunting,Aves,117059,north_atlantic_2023,event
+199735586,2023-12-16,47.5263208118,-52.7484162975,Tamias striatus,Eastern Chipmunk,Mammalia,46217,north_atlantic_2023,event
+194190900,2023-12-16,47.5824012756,-52.7306098936,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+194190837,2023-12-16,47.5731124878,-52.7245597839,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,event
+194146521,2023-12-16,47.5826721167,-52.6899070667,Calidris pugnax,Ruff,Aves,339593,north_atlantic_2023,event
+194151411,2023-12-16,47.5824699333,-52.6918411167,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,event
+194151409,2023-12-16,47.5824699333,-52.6918411167,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,event
+194150675,2023-12-16,47.5785408,-52.6999816833,Mareca penelope,Eurasian Wigeon,Aves,558441,north_atlantic_2023,event
+194149288,2023-12-16,47.5785408,-52.6999816833,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,event
+194149074,2023-12-16,47.5785408,-52.6999816833,Aythya fuligula,Tufted Duck,Aves,7046,north_atlantic_2023,event
+194149073,2023-12-16,47.5785408,-52.6999816833,Aythya fuligula,Tufted Duck,Aves,7046,north_atlantic_2023,event
+194147899,2023-12-16,47.5803527667,-52.6870040833,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,event
+196784726,2023-12-16,45.9163519316,-59.9727123292,Melanitta perspicillata,Surf Scoter,Aves,7036,north_atlantic_2023,event
+194146523,2023-12-16,47.5858955333,-52.6888771,Setophaga aestiva,Northern Yellow Warbler,Aves,1188207,north_atlantic_2023,event
+194146990,2023-12-16,47.5858955333,-52.6888771,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,event
+194146989,2023-12-16,47.5858955333,-52.6888771,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,event
+194137473,2023-12-16,46.005,-59.8375,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,event
+194292884,2023-12-16,45.917239,-59.9437794997,Setophaga pinus,Pine Warbler,Aves,145244,north_atlantic_2023,event
+196784224,2023-12-16,45.894021642,-59.9810887889,Aythya affinis,Lesser Scaup,Aves,7054,north_atlantic_2023,event
+196784222,2023-12-16,45.8940175616,-59.9811677126,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,event
+194292577,2023-12-16,45.9172069722,-59.9437089722,Setophaga palmarum palmarum,Western Palm Warbler,Aves,238505,north_atlantic_2023,event
+194137471,2023-12-16,46.0041466667,-59.844605,Chondestes grammacus,Lark Sparrow,Aves,10479,north_atlantic_2023,event
+196784223,2023-12-16,45.8929810561,-59.9874206365,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,event
+194137469,2023-12-16,46.0042233333,-59.844375,Melospiza melodia,Song Sparrow,Aves,9100,north_atlantic_2023,event
+194137468,2023-12-16,45.9906733333,-59.8446233333,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,event
+194137467,2023-12-16,45.956165,-59.8299216667,Melanitta perspicillata,Surf Scoter,Aves,7036,north_atlantic_2023,event
+194384495,2023-12-16,46.0230759526,-59.969742966,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+194137476,2023-12-16,45.9570066667,-59.8600033333,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,event
+194363806,2023-12-16,63.4137231307,-19.1364161073,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+194363803,2023-12-16,63.4016142269,-19.1309768041,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363801,2023-12-16,63.4014876444,-19.1306620582,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363800,2023-12-16,63.4016290211,-19.1304755379,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363795,2023-12-16,63.4059218095,-19.1027439295,Corvus corax varius,Icelandic raven,Aves,721983,north_atlantic_2023,event
+194363793,2023-12-16,63.4058365521,-19.1025952322,Stercorarius skua,Great Skua,Aves,144297,north_atlantic_2023,event
+194363792,2023-12-16,63.4120255181,-19.10506488,Mergus merganser,Common Merganser,Aves,7004,north_atlantic_2023,event
+194363791,2023-12-16,63.4159416666,-19.1049421171,Gavia immer,Common Loon,Aves,4626,north_atlantic_2023,event
+194363790,2023-12-16,63.5131546554,-19.0412902239,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+194363789,2023-12-16,63.4062249674,-19.1000492024,Troglodytes troglodytes islandicus,Iceland Eurasian Wren,Aves,516773,north_atlantic_2023,event
+194363788,2023-12-16,63.4071310214,-19.1030667753,Troglodytes troglodytes islandicus,Iceland Eurasian Wren,Aves,516773,north_atlantic_2023,event
+194363787,2023-12-16,63.4066651655,-19.1008316772,Troglodytes troglodytes islandicus,Iceland Eurasian Wren,Aves,516773,north_atlantic_2023,event
+194363785,2023-12-16,63.4086206511,-19.1038244538,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363784,2023-12-16,63.4069265571,-19.1019787988,Columba livia domestica,Feral Pigeon,Aves,122767,north_atlantic_2023,event
+194363782,2023-12-16,63.4069245319,-19.1026415089,Falco columbarius,Merlin,Aves,4672,north_atlantic_2023,event
+194363780,2023-12-16,63.4057232429,-19.0975962992,Corvus corax varius,Icelandic raven,Aves,721983,north_atlantic_2023,event
+194363777,2023-12-16,63.4315747999,-19.044851699,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+194363776,2023-12-16,63.4052354286,-19.1021102859,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363771,2023-12-16,63.4049854823,-19.1019732417,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363772,2023-12-16,63.4056429356,-19.1014706703,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363768,2023-12-16,63.405537966,-19.1017058134,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363763,2023-12-16,63.4054863799,-19.1019079124,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363755,2023-12-16,63.405075809,-19.1020917715,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363752,2023-12-16,63.4029377721,-19.0413807709,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363751,2023-12-16,63.4028474314,-19.0415728125,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363747,2023-12-16,63.402899682,-19.0418225803,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363745,2023-12-16,63.4030824864,-19.0415293292,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363735,2023-12-16,63.4027830306,-19.0416619425,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194363737,2023-12-16,63.4031766695,-19.0418103226,Corvus corax varius,Icelandic raven,Aves,721983,north_atlantic_2023,event
+194363732,2023-12-16,63.4027780553,-19.0410978605,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194362399,2023-12-16,63.4032376516,-19.041993975,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194362397,2023-12-16,63.4034561512,-19.0421156827,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194362396,2023-12-16,63.4031545761,-19.0419162526,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194362392,2023-12-16,63.4029909699,-19.041165135,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194362393,2023-12-16,63.4033924268,-19.0416809324,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194362388,2023-12-16,63.403624908,-19.0424527595,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+194426487,2023-12-15,47.5779166956,-52.6978523657,Anas crecca,Green-winged Teal,Aves,6937,north_atlantic_2023,event
+263381422,2023-12-15,64.1477383333,-21.9324383333,Turdus iliacus coburni,Icelandic Redwing,Aves,516886,north_atlantic_2023,event
+193905910,2023-12-13,47.6428190997,-52.8132085,Circus hudsonius,Northern Harrier,Aves,558446,north_atlantic_2023,event
+195481957,2023-12-13,47.2762443931,-52.8302823092,Melanitta perspicillata,Surf Scoter,Aves,7036,north_atlantic_2023,event
+193623893,2023-12-10,47.59,-52.71,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,event
+193623838,2023-12-10,47.59,-52.71,Accipiter striatus,Sharp-shinned Hawk,Aves,5097,north_atlantic_2023,event
+193619372,2023-12-10,47.5780585058,-52.6997265592,Columba livia domestica,Feral Pigeon,Aves,122767,north_atlantic_2023,event
+193619252,2023-12-10,47.5780609937,-52.6997909322,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+193622123,2023-12-10,46.1305611667,-59.8751416667,Spisula solidissima,West Atlantic Surfclam,Mollusca,231421,north_atlantic_2023,event
+193623857,2023-12-10,46.1305055,-59.87502,Heteranomia squamula,Prickly Jingle,Mollusca,482992,north_atlantic_2023,event
+196327992,2023-12-10,46.1304972222,-59.8751916667,Ameritella agilis,Northern Dwarf-tellin,Mollusca,548290,north_atlantic_2023,event
+193622064,2023-12-10,46.1304638333,-59.8752133333,Heteranomia squamula,Prickly Jingle,Mollusca,482992,north_atlantic_2023,event
+193623840,2023-12-10,46.1303361667,-59.8754116667,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+196327990,2023-12-10,46.1303833333,-59.8752666667,Lacuna vincta,Northern Lacuna,Mollusca,193902,north_atlantic_2023,event
+193623711,2023-12-10,46.1302695,-59.8753883333,Crepidula plana,Eastern White Slippersnail,Mollusca,81645,north_atlantic_2023,event
+196327989,2023-12-10,46.1303472222,-59.8753138889,Ameritella agilis,Northern Dwarf-tellin,Mollusca,548290,north_atlantic_2023,event
+196327988,2023-12-10,46.1303416667,-59.8753138889,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,event
+196327986,2023-12-10,46.130325,-59.875325,Heteranomia squamula,Prickly Jingle,Mollusca,482992,north_atlantic_2023,event
+193623693,2023-12-10,46.1302445,-59.8754116667,Testudinalia testudinalis,Tortoiseshell Limpet,Mollusca,415169,north_atlantic_2023,event
+196327985,2023-12-10,46.1302611111,-59.8753388889,Ensis leei,Atlantic Jackknife,Mollusca,765132,north_atlantic_2023,event
+196327984,2023-12-10,46.1302611111,-59.8753388889,Spisula solidissima,West Atlantic Surfclam,Mollusca,231421,north_atlantic_2023,event
+196327982,2023-12-10,46.1302611111,-59.87535,Crepidula plana,Eastern White Slippersnail,Mollusca,81645,north_atlantic_2023,event
+193623674,2023-12-10,46.1302333333,-59.8754116667,Heteranomia squamula,Prickly Jingle,Mollusca,482992,north_atlantic_2023,event
+193623626,2023-12-10,46.130225,-59.8754216667,Crepidula plana,Eastern White Slippersnail,Mollusca,81645,north_atlantic_2023,event
+193623573,2023-12-10,46.1302305,-59.8754116667,Crepidula plana,Eastern White Slippersnail,Mollusca,81645,north_atlantic_2023,event
+193620003,2023-12-10,46.13025,-59.8754533333,Divalinga quadrisulcata,Cross-hatched Lucine,Mollusca,461145,north_atlantic_2023,event
+193623547,2023-12-10,46.1302528333,-59.87542,Ensis leei,Atlantic Jackknife,Mollusca,765132,north_atlantic_2023,event
+193623514,2023-12-10,46.1301416667,-59.8754716667,Heteranomia squamula,Prickly Jingle,Mollusca,482992,north_atlantic_2023,event
+193623377,2023-12-10,46.1301528333,-59.87548,Crepidula plana,Eastern White Slippersnail,Mollusca,81645,north_atlantic_2023,event
+196327983,2023-12-10,46.13015,-59.8754583333,Hiatella arctica,Arctic Hiatella,Mollusca,117617,north_atlantic_2023,event
+193623369,2023-12-10,46.1300861667,-59.8755116667,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,event
+196327981,2023-12-10,46.1301722222,-59.8754666667,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,event
+196327978,2023-12-10,46.1300805556,-59.8755138889,Ameritella agilis,Northern Dwarf-tellin,Mollusca,548290,north_atlantic_2023,event
+196327977,2023-12-10,46.1301,-59.8755083333,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,event
+196327976,2023-12-10,46.1300888889,-59.8755138889,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,event
+196327974,2023-12-10,46.1300972222,-59.8755083333,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,event
+193623307,2023-12-10,46.1296471667,-59.8755916667,Ensis leei,Atlantic Jackknife,Mollusca,765132,north_atlantic_2023,event
+196327975,2023-12-10,46.1297277778,-59.8754472222,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,event
+193623167,2023-12-10,46.1304888333,-59.87495,Ameritella agilis,Northern Dwarf-tellin,Mollusca,548290,north_atlantic_2023,event
+196327970,2023-12-10,46.1304777778,-59.8747555556,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,event
+193623115,2023-12-10,46.1305916667,-59.8748666667,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,event
+196327968,2023-12-10,46.1304805556,-59.8748472222,Ameritella agilis,Northern Dwarf-tellin,Mollusca,548290,north_atlantic_2023,event
+196327966,2023-12-10,46.1309361111,-59.8749305556,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,event
+193623359,2023-12-10,47.6,-52.71,Anas acuta,Northern Pintail,Aves,6933,north_atlantic_2023,event
+193623050,2023-12-10,46.1307805,-59.874825,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,event
+193623004,2023-12-10,46.1306278333,-59.8750633333,Crepidula plana,Eastern White Slippersnail,Mollusca,81645,north_atlantic_2023,event
+196327961,2023-12-10,46.0074666667,-59.9362555556,Crassostrea virginica,Eastern Oyster,Mollusca,47585,north_atlantic_2023,event
+193622922,2023-12-10,46.00756945,-59.936275,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,event
+193622893,2023-12-10,46.0075861167,-59.9361716667,Crassostrea virginica,Eastern Oyster,Mollusca,47585,north_atlantic_2023,event
+196327962,2023-12-10,46.0074888889,-59.9361916667,Geukensia demissa,Atlantic Ribbed Mussel,Mollusca,81608,north_atlantic_2023,event
+193622841,2023-12-10,46.00779445,-59.9363883333,Macoma petalum,Atlantic Macoma,Mollusca,224289,north_atlantic_2023,event
+193622787,2023-12-10,46.0077861167,-59.9364366667,Macoma petalum,Atlantic Macoma,Mollusca,224289,north_atlantic_2023,event
+193622741,2023-12-10,46.0078416667,-59.93647,Macoma petalum,Atlantic Macoma,Mollusca,224289,north_atlantic_2023,event
+196327960,2023-12-10,46.0077222222,-59.9363666667,Geukensia demissa,Atlantic Ribbed Mussel,Mollusca,81608,north_atlantic_2023,event
+196327958,2023-12-10,46.0084694444,-59.9369,Macoma petalum,Atlantic Macoma,Mollusca,224289,north_atlantic_2023,event
+193622687,2023-12-10,46.0078138833,-59.9364883333,Macoma petalum,Atlantic Macoma,Mollusca,224289,north_atlantic_2023,event
+193622623,2023-12-10,46.0078277833,-59.9364883333,Macoma petalum,Atlantic Macoma,Mollusca,224289,north_atlantic_2023,event
+196327959,2023-12-10,46.0077944444,-59.9364388889,Macoma petalum,Atlantic Macoma,Mollusca,224289,north_atlantic_2023,event
+193622574,2023-12-10,46.0078138833,-59.93647,Macoma petalum,Atlantic Macoma,Mollusca,224289,north_atlantic_2023,event
+193622482,2023-12-10,46.0077472167,-59.93617,Geukensia demissa,Atlantic Ribbed Mussel,Mollusca,81608,north_atlantic_2023,event
+196327957,2023-12-10,46.0078166667,-59.9364805556,Macoma petalum,Atlantic Macoma,Mollusca,224289,north_atlantic_2023,event
+196327956,2023-12-10,46.0078166667,-59.9364888889,Geukensia demissa,Atlantic Ribbed Mussel,Mollusca,81608,north_atlantic_2023,event
+196327955,2023-12-10,46.0091472222,-59.9375083333,Geukensia demissa,Atlantic Ribbed Mussel,Mollusca,81608,north_atlantic_2023,event
+196327952,2023-12-10,46.0091472222,-59.9375083333,Geukensia demissa,Atlantic Ribbed Mussel,Mollusca,81608,north_atlantic_2023,event
+193622471,2023-12-10,46.0080861167,-59.9364133333,Geukensia demissa,Atlantic Ribbed Mussel,Mollusca,81608,north_atlantic_2023,event
+193622397,2023-12-10,46.0080111167,-59.936375,Geukensia demissa,Atlantic Ribbed Mussel,Mollusca,81608,north_atlantic_2023,event
+193736568,2023-12-10,45.9288074156,-59.9230414936,Podiceps grisegena,Red-necked Grebe,Aves,4224,north_atlantic_2023,event
+193736565,2023-12-10,45.9275835587,-59.9272901126,Troglodytes hiemalis,Winter Wren,Aves,144883,north_atlantic_2023,event
+193736567,2023-12-10,45.9275835587,-59.9272901126,Vireo solitarius,Blue-headed Vireo,Aves,17402,north_atlantic_2023,event
+193608806,2023-12-10,49.682708,-57.956263,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,event
+193596030,2023-12-10,48.6167833333,-55.4968733333,Rangifer tarandus caribou,Woodland Caribou,Mammalia,238266,north_atlantic_2023,event
+193536986,2023-12-09,47.5894241331,-52.7322921753,Junco hyemalis,Dark-eyed Junco,Aves,10094,north_atlantic_2023,event
+193595114,2023-12-09,64.0750595553,-16.196661526,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+345107750,2023-12-09,53.476441,-10.016475,Coryphella lineata,Striped Fjordia,Mollusca,1392212,north_atlantic_2023,event
+193434291,2023-12-08,47.5260651505,-52.8779424308,Bucephala clangula,Common Goldeneye,Aves,6990,north_atlantic_2023,event
+193331798,2023-12-07,47.5447674336,-52.83208648,Poecile hudsonicus,Boreal Chickadee,Aves,144821,north_atlantic_2023,event
+193329813,2023-12-07,47.5447569748,-52.8320484371,Poecile atricapillus,Black-capped Chickadee,Aves,144815,north_atlantic_2023,event
+194362990,2023-12-06,48.1536910775,-53.7429946922,Mergus serrator,Red-breasted Merganser,Aves,6996,north_atlantic_2023,event
+194362784,2023-12-06,48.156379992,-53.743099952,Balaenoptera acutorostrata acutorostrata,North Atlantic Minke Whale,Mammalia,209460,north_atlantic_2023,event
+231421090,2023-12-05,64.3604494483,-21.2317181567,Anser brachyrhynchus,Pink-footed Goose,Aves,7007,north_atlantic_2023,event
+195481329,2023-12-05,47.5782136285,-52.6981828127,Oxyura jamaicensis,Ruddy Duck,Aves,850859,north_atlantic_2023,event
+195486491,2023-12-05,47.5792452942,-52.6986863117,Larus fuscus,Lesser Black-backed Gull,Aves,4381,north_atlantic_2023,event
+194077747,2023-12-05,52.2461693815,-10.0474024267,Ensis siliqua,Pod Razor,Mollusca,332435,north_atlantic_2023,event
+194077748,2023-12-05,52.2902325211,-10.122003908,Donax vittatus,Banded Wedge Shell,Mollusca,363775,north_atlantic_2023,event
+193844389,2023-12-05,52.2374472393,-10.0154986163,Cygnus olor,Mute Swan,Aves,6921,north_atlantic_2023,event
+193159969,2023-12-05,64.0933018712,-16.1750087498,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+193160097,2023-12-05,64.0443339658,-16.1776622012,Gavia immer,Common Loon,Aves,4626,north_atlantic_2023,event
+193160194,2023-12-05,64.0443339658,-16.1776622012,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+193844388,2023-12-05,52.3206850567,-10.1640190007,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+193844386,2023-12-05,52.2678821552,-10.0149333154,Haematopus ostralegus,Eurasian Oystercatcher,Aves,4843,north_atlantic_2023,event
+193844385,2023-12-05,52.3279754822,-10.0478619267,Branta bernicla,Brant,Aves,7087,north_atlantic_2023,event
+193159822,2023-12-05,64.0443339658,-16.1776622012,Plectrophenax nivalis,Snow Bunting,Aves,117059,north_atlantic_2023,event
+193844384,2023-12-05,52.3635090142,-10.191541519,Haematopus ostralegus,Eurasian Oystercatcher,Aves,4843,north_atlantic_2023,event
+193844382,2023-12-05,52.3216416853,-10.0981499092,Corvus frugilegus,Rook,Aves,8029,north_atlantic_2023,event
+193844381,2023-12-05,52.2637830194,-10.0532587974,Pyrrhocorax pyrrhocorax,Red-billed Chough,Aves,8349,north_atlantic_2023,event
+193844380,2023-12-05,52.2511993916,-10.1401179109,Gavia immer,Common Loon,Aves,4626,north_atlantic_2023,event
+193766194,2023-12-05,52.3475423687,-10.1632346512,Calidris alba,Sanderling,Aves,3849,north_atlantic_2023,event
+193766193,2023-12-05,52.3292941172,-10.0512166831,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,event
+193766192,2023-12-05,52.3181329039,-10.1658317228,Tringa totanus,Common Redshank,Aves,3879,north_atlantic_2023,event
+193766191,2023-12-05,52.3009159325,-10.1872334992,Haematopus ostralegus,Eurasian Oystercatcher,Aves,4843,north_atlantic_2023,event
+193765914,2023-12-05,52.2292944535,-10.1191025373,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+193765913,2023-12-05,52.381277114,-10.0351364491,Branta bernicla,Brant,Aves,7087,north_atlantic_2023,event
+193765912,2023-12-05,52.3650293497,-10.19182175,Mactra stultorum,Rayed Trough Shell,Mollusca,366852,north_atlantic_2023,event
+193765731,2023-12-05,52.297017984,-10.1043556328,Ardea cinerea,Grey Heron,Aves,4954,north_atlantic_2023,event
+193765730,2023-12-05,52.2950168493,-10.0353892208,Branta bernicla,Brant,Aves,7087,north_atlantic_2023,event
+193764026,2023-12-05,52.2864282344,-10.0454210118,Haematopus ostralegus,Eurasian Oystercatcher,Aves,4843,north_atlantic_2023,event
+193764029,2023-12-05,52.3942476899,-10.1973983802,Coloeus monedula,Eurasian Jackdaw,Aves,336399,north_atlantic_2023,event
+193764027,2023-12-05,52.2940513365,-10.0283585193,Corvus cornix,Hooded Crow,Aves,144757,north_atlantic_2023,event
+193764025,2023-12-05,52.2029466393,-10.1358256941,Limosa limosa,Black-tailed Godwit,Aves,3947,north_atlantic_2023,event
+193764024,2023-12-05,52.0440836488,-10.4286497998,Corvus cornix,Hooded Crow,Aves,144757,north_atlantic_2023,event
+193764023,2023-12-05,52.0687034903,-10.466116422,Troglodytes troglodytes,Eurasian Wren,Aves,145363,north_atlantic_2023,event
+193764020,2023-12-05,52.1160688202,-10.4684304919,Erithacus rubecula,European Robin,Aves,13094,north_atlantic_2023,event
+193050403,2023-12-04,64.1473965463,-21.933311195,Turdus iliacus,Redwing,Aves,12749,north_atlantic_2023,event
+193049776,2023-12-04,46.008,-59.941,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,event
+193049940,2023-12-04,46.008,-59.941,Poecile atricapillus,Black-capped Chickadee,Aves,144815,north_atlantic_2023,event
+193049990,2023-12-04,46.008,-59.941,Turdus migratorius,American Robin,Aves,12727,north_atlantic_2023,event
+193050022,2023-12-04,46.008,-59.941,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,event
+193050068,2023-12-04,46.008,-59.941,Bombycilla garrulus,Bohemian Waxwing,Aves,7429,north_atlantic_2023,event
+193049658,2023-12-04,46.008,-59.941,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,event
+193049708,2023-12-04,46.008,-59.941,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,event
+193049600,2023-12-04,46.008,-59.941,Gavia immer,Common Loon,Aves,4626,north_atlantic_2023,event
+194362229,2023-12-04,48.1535741503,-53.7435828902,Mergus serrator,Red-breasted Merganser,Aves,6996,north_atlantic_2023,event
+195486136,2023-12-04,47.2762594375,-52.8301232208,Arenaria interpres,Ruddy Turnstone,Aves,3938,north_atlantic_2023,event
+194078153,2023-12-04,52.1927853858,-10.5372475581,Cornu aspersum,Garden Snail,Mollusca,480298,north_atlantic_2023,event
+193028948,2023-12-04,64.30831935,-20.21414451,Turdus iliacus,Redwing,Aves,12749,north_atlantic_2023,event
+193764018,2023-12-04,52.0953307545,-10.3133401776,Haematopus ostralegus,Eurasian Oystercatcher,Aves,4843,north_atlantic_2023,event
+193763408,2023-12-04,52.1791166667,-10.3861666667,Calidris alba,Sanderling,Aves,3849,north_atlantic_2023,event
+193760314,2023-12-04,52.1888936316,-10.5517202839,Pica pica,Eurasian Magpie,Aves,891696,north_atlantic_2023,event
+193760315,2023-12-04,52.1741195217,-10.4341720453,Pica pica,Eurasian Magpie,Aves,891696,north_atlantic_2023,event
+193760311,2023-12-04,52.1148295264,-10.4203858235,Saxicola rubicola,European Stonechat,Aves,201192,north_atlantic_2023,event
+193760310,2023-12-04,52.0162553435,-10.4185976102,Saxicola rubicola,European Stonechat,Aves,201192,north_atlantic_2023,event
+193760309,2023-12-04,52.029334645,-10.5923178015,Anthus petrosus,Rock Pipit,Aves,13734,north_atlantic_2023,event
+193760042,2023-12-04,52.0581117935,-10.4061412312,Anthus petrosus,Rock Pipit,Aves,13734,north_atlantic_2023,event
+193760039,2023-12-04,52.0773372827,-10.461964972,Motacilla alba yarrellii,Pied Wagtail,Aves,366951,north_atlantic_2023,event
+193760034,2023-12-04,52.0118797225,-10.4201406499,Corvus corax,Common Raven,Aves,8010,north_atlantic_2023,event
+193759773,2023-12-04,52.0248985984,-10.5858450254,Anthus pratensis,Meadow Pipit,Aves,13729,north_atlantic_2023,event
+193759772,2023-12-04,52.1969802513,-10.5183674717,Erithacus rubecula,European Robin,Aves,13094,north_atlantic_2023,event
+192979306,2023-12-03,51.9069961697,-10.3545164179,Erithacus rubecula,European Robin,Aves,13094,north_atlantic_2023,event
+193759771,2023-12-03,51.9840976591,-10.2017834437,Anthus pratensis,Meadow Pipit,Aves,13729,north_atlantic_2023,event
+193759062,2023-12-03,51.9565740151,-10.2005684177,Erithacus rubecula,European Robin,Aves,13094,north_atlantic_2023,event
+192979312,2023-12-03,51.959284327,-10.262719689,Pica pica,Eurasian Magpie,Aves,891696,north_atlantic_2023,event
+193759064,2023-12-03,51.8473783293,-10.2276717844,Haematopus ostralegus,Eurasian Oystercatcher,Aves,4843,north_atlantic_2023,event
+193759063,2023-12-03,51.9407705857,-10.3711894862,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+193759058,2023-12-03,51.8337902212,-10.2567548988,Coloeus monedula,Eurasian Jackdaw,Aves,336399,north_atlantic_2023,event
+193759059,2023-12-03,51.94739603,-10.3321437945,Corvus cornix,Hooded Crow,Aves,144757,north_atlantic_2023,event
+193759057,2023-12-03,51.9419270942,-10.3723883317,Motacilla alba yarrellii,Pied Wagtail,Aves,366951,north_atlantic_2023,event
+193759052,2023-12-03,51.8522019459,-10.3793979275,Turdus philomelos,Song Thrush,Aves,12748,north_atlantic_2023,event
+193759049,2023-12-03,51.9958987286,-10.2847549045,Erithacus rubecula,European Robin,Aves,13094,north_atlantic_2023,event
+193344585,2023-12-02,46.1140833333,-59.88573,Modiolus modiolus,Northern Horse Mussel,Mollusca,123772,north_atlantic_2023,event
+193344512,2023-12-02,46.1143083333,-59.8854116667,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+192889943,2023-12-02,46.1143305556,-59.8854833333,Arctica islandica,Ocean Quahog,Mollusca,203762,north_atlantic_2023,event
+192889941,2023-12-02,46.1147777778,-59.8856777778,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889940,2023-12-02,46.1147722222,-59.8856805556,Ensis leei,Atlantic Jackknife,Mollusca,765132,north_atlantic_2023,event
+192889938,2023-12-02,46.1147888889,-59.8856972222,Ameritella agilis,Northern Dwarf-tellin,Mollusca,548290,north_atlantic_2023,event
+192889936,2023-12-02,46.1148333333,-59.8857166667,Spisula solidissima,West Atlantic Surfclam,Mollusca,231421,north_atlantic_2023,event
+192889935,2023-12-02,46.1148333333,-59.8857194444,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889934,2023-12-02,46.1148305556,-59.8857194444,Ameritella agilis,Northern Dwarf-tellin,Mollusca,548290,north_atlantic_2023,event
+193344459,2023-12-02,46.1149638333,-59.88567,Ensis leei,Atlantic Jackknife,Mollusca,765132,north_atlantic_2023,event
+192889933,2023-12-02,46.1148444444,-59.8857305556,Ameritella agilis,Northern Dwarf-tellin,Mollusca,548290,north_atlantic_2023,event
+192889932,2023-12-02,46.1148944444,-59.8857722222,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,event
+192889931,2023-12-02,46.1149,-59.8857722222,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+192889930,2023-12-02,46.1149,-59.8857833333,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,event
+192889929,2023-12-02,46.1149,-59.8857888889,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,event
+192889928,2023-12-02,46.1148944444,-59.8858,Euspira heros,Northern Moonsnail,Mollusca,424402,north_atlantic_2023,event
+192889927,2023-12-02,46.1148944444,-59.8858027778,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889926,2023-12-02,46.1149027778,-59.8858027778,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+193344440,2023-12-02,46.1149221667,-59.8856716667,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+192889921,2023-12-02,46.1149166667,-59.8858,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889920,2023-12-02,46.1149222222,-59.8858,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889918,2023-12-02,46.1149527778,-59.8858805556,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,event
+192889917,2023-12-02,46.1149472222,-59.8858805556,Littorina littorea,Common Periwinkle,Mollusca,81606,north_atlantic_2023,event
+192889913,2023-12-02,46.1149527778,-59.8858833333,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+192889912,2023-12-02,46.1149972222,-59.8859222222,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,event
+193344434,2023-12-02,46.1151695,-59.8857616667,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+192889909,2023-12-02,46.1150666667,-59.8859527778,Littorina littorea,Common Periwinkle,Mollusca,81606,north_atlantic_2023,event
+192889908,2023-12-02,46.1150666667,-59.8859472222,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,event
+192889906,2023-12-02,46.1151,-59.8860027778,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+192889905,2023-12-02,46.1151083333,-59.8860083333,Ensis leei,Atlantic Jackknife,Mollusca,765132,north_atlantic_2023,event
+192889902,2023-12-02,46.1152083333,-59.8860555556,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889901,2023-12-02,46.1152083333,-59.8860555556,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889900,2023-12-02,46.1152027778,-59.8860583333,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889899,2023-12-02,46.1152,-59.8860583333,Littorina obtusata,Flat Periwinkle,Mollusca,48916,north_atlantic_2023,event
+192889897,2023-12-02,46.1152333333,-59.8860777778,Spisula solidissima,West Atlantic Surfclam,Mollusca,231421,north_atlantic_2023,event
+192889895,2023-12-02,46.1152416667,-59.8860805556,Astyris lunata,Lunate Dove Shell,Mollusca,254742,north_atlantic_2023,event
+192889894,2023-12-02,46.1152388889,-59.8860777778,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889893,2023-12-02,46.1152416667,-59.8860694444,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+193344422,2023-12-02,46.1174138333,-59.8863216667,Siliqua costata,Atlantic Razor,Mollusca,447437,north_atlantic_2023,event
+192889892,2023-12-02,46.1152388889,-59.8861,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+192889891,2023-12-02,46.11525,-59.8861388889,Siliqua costata,Atlantic Razor,Mollusca,447437,north_atlantic_2023,event
+192889887,2023-12-02,46.1152222222,-59.8861611111,Macoma petalum,Atlantic Macoma,Mollusca,224289,north_atlantic_2023,event
+192889883,2023-12-02,46.1153361111,-59.8862444444,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,event
+192889882,2023-12-02,46.1153805556,-59.8862944444,Ensis leei,Atlantic Jackknife,Mollusca,765132,north_atlantic_2023,event
+192889880,2023-12-02,46.1154138889,-59.8862388889,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+192889879,2023-12-02,46.1155805556,-59.8863833333,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,event
+192889876,2023-12-02,46.1157805556,-59.8865055556,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889875,2023-12-02,46.1159083333,-59.8865472222,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+192889874,2023-12-02,46.1160194444,-59.8865777778,Testudinalia testudinalis,Tortoiseshell Limpet,Mollusca,415169,north_atlantic_2023,event
+192889873,2023-12-02,46.1160194444,-59.8865666667,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889871,2023-12-02,46.1160166667,-59.8865694444,Testudinalia testudinalis,Tortoiseshell Limpet,Mollusca,415169,north_atlantic_2023,event
+192889870,2023-12-02,46.1160277778,-59.8865666667,Lacuna vincta,Northern Lacuna,Mollusca,193902,north_atlantic_2023,event
+192889869,2023-12-02,46.1160305556,-59.8865694444,Parvicardium pinnulatum,Ribbed Cockle,Mollusca,567291,north_atlantic_2023,event
+193344365,2023-12-02,46.1161,-59.8867116667,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889867,2023-12-02,46.1160583333,-59.8865805556,Testudinalia testudinalis,Tortoiseshell Limpet,Mollusca,415169,north_atlantic_2023,event
+192889866,2023-12-02,46.1160555556,-59.8865805556,Lacuna vincta,Northern Lacuna,Mollusca,193902,north_atlantic_2023,event
+192889865,2023-12-02,46.11605,-59.8865916667,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889864,2023-12-02,46.11605,-59.8865916667,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889863,2023-12-02,46.11605,-59.8865916667,Macoma petalum,Atlantic Macoma,Mollusca,224289,north_atlantic_2023,event
+192889862,2023-12-02,46.116425,-59.8868138889,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+192889855,2023-12-02,46.116875,-59.8871222222,Ensis leei,Atlantic Jackknife,Mollusca,765132,north_atlantic_2023,event
+192889851,2023-12-02,46.1170666667,-59.8870916667,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,event
+192889850,2023-12-02,46.1171805556,-59.8871222222,Agriopoma morrhuanum,False Quahog,Mollusca,1404716,north_atlantic_2023,event
+193344328,2023-12-02,46.1174971667,-59.8871,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,event
+193344304,2023-12-02,46.1175416667,-59.8871216667,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+193344294,2023-12-02,46.1176611667,-59.8870716667,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,event
+192889849,2023-12-02,46.1175333333,-59.8871416667,Agriopoma morrhuanum,False Quahog,Mollusca,1404716,north_atlantic_2023,event
+193344254,2023-12-02,46.1177445,-59.88712,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+193344237,2023-12-02,46.1177166667,-59.8870716667,Testudinalia testudinalis,Tortoiseshell Limpet,Mollusca,415169,north_atlantic_2023,event
+192889846,2023-12-02,46.11755,-59.88715,Crassostrea virginica,Eastern Oyster,Mollusca,47585,north_atlantic_2023,event
+193344144,2023-12-02,46.1177666667,-59.8870883333,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,event
+192889835,2023-12-02,46.1179388889,-59.8870722222,Ensis leei,Atlantic Jackknife,Mollusca,765132,north_atlantic_2023,event
+193344130,2023-12-02,46.1180805,-59.88707,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+193344112,2023-12-02,46.1182528333,-59.8871583333,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889829,2023-12-02,46.1180222222,-59.8870083333,Mya arenaria,Soft-shelled Clam,Mollusca,81634,north_atlantic_2023,event
+192889828,2023-12-02,46.1179805556,-59.8870583333,Littorina littorea,Common Periwinkle,Mollusca,81606,north_atlantic_2023,event
+192889827,2023-12-02,46.1179805556,-59.88705,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889826,2023-12-02,46.1179805556,-59.8870666667,Spisula solidissima,West Atlantic Surfclam,Mollusca,231421,north_atlantic_2023,event
+192889825,2023-12-02,46.1179861111,-59.8870666667,Ilyanassa trivittata,Threeline Mudsnail,Mollusca,70008,north_atlantic_2023,event
+192889821,2023-12-02,46.1179888889,-59.8870694444,Littorina littorea,Common Periwinkle,Mollusca,81606,north_atlantic_2023,event
+193344079,2023-12-02,46.1180721667,-59.886905,Ameritella agilis,Northern Dwarf-tellin,Mollusca,548290,north_atlantic_2023,event
+193344026,2023-12-02,46.1181361667,-59.88702,Euspira heros,Northern Moonsnail,Mollusca,424402,north_atlantic_2023,event
+192889822,2023-12-02,46.1179888889,-59.8870694444,Euspira heros,Northern Moonsnail,Mollusca,424402,north_atlantic_2023,event
+192889820,2023-12-02,46.1180527778,-59.8870611111,Nucella lapillus,Atlantic Dogwhelk,Mollusca,203761,north_atlantic_2023,event
+192889819,2023-12-02,46.118075,-59.8870555556,Macoma petalum,Atlantic Macoma,Mollusca,224289,north_atlantic_2023,event
+192889818,2023-12-02,46.118075,-59.8870472222,Euspira heros,Northern Moonsnail,Mollusca,424402,north_atlantic_2023,event
+193344015,2023-12-02,46.1181445,-59.8870166667,Petricolaria pholadiformis,False Angelwing,Mollusca,227597,north_atlantic_2023,event
+193343993,2023-12-02,46.1174916667,-59.8885166667,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,event
+192889817,2023-12-02,46.1182111111,-59.8870194444,Euspira heros,Northern Moonsnail,Mollusca,424402,north_atlantic_2023,event
+192889816,2023-12-02,46.1182166667,-59.8870194444,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,event
+192889813,2023-12-02,46.1182777778,-59.8870194444,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,event
+192889812,2023-12-02,46.1183055556,-59.8870361111,Crepidula fornicata,Common Atlantic Slippersnail,Mollusca,125343,north_atlantic_2023,event
+193344061,2023-12-02,46.204955,-59.9662216667,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,event
+193343777,2023-12-02,46.20513,-59.9666216667,Columba livia domestica,Feral Pigeon,Aves,122767,north_atlantic_2023,event
+192939611,2023-12-02,48.9510335643,-57.9497249052,Dumetella carolinensis,Gray Catbird,Aves,14995,north_atlantic_2023,event
+193786379,2023-12-02,64.1137329358,-54.9801944218,Hyperoodon ampullatus,North Atlantic Bottlenose Whale,Mammalia,41421,north_atlantic_2023,event
+193759047,2023-12-02,51.8308125874,-10.3441571236,Erithacus rubecula,European Robin,Aves,13094,north_atlantic_2023,event
+233006762,2023-12-01,47.5448287576,-52.8379126871,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,event
+192667443,2023-11-30,64.92952405,-18.9127397,Fratercula arctica,Atlantic Puffin,Aves,4504,north_atlantic_2023,event
+192642989,2023-11-30,64.1407916667,-21.9421383333,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+192643062,2023-11-30,64.156769364,-21.8358339793,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+192643007,2023-11-30,64.1381833333,-21.9414383333,Anser anser,Greylag Goose,Aves,7018,north_atlantic_2023,event
+193537127,2023-11-29,47.5927619933,-52.7283020019,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,event
+261999384,2023-11-29,63.4579494795,-19.0663228557,Equus caballus,Domestic Horse,Mammalia,209233,north_atlantic_2023,event
+193049556,2023-11-28,46.008,-59.941,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,event
+193049495,2023-11-28,46.008,-59.941,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,event
+193049394,2023-11-28,46.008,-59.941,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+193049265,2023-11-28,46.008,-59.941,Turdus migratorius,American Robin,Aves,12727,north_atlantic_2023,event
+194073954,2023-11-28,64.1422246691,-21.9264018908,Turdus iliacus coburni,Icelandic Redwing,Aves,516886,north_atlantic_2023,event
+192372706,2023-11-27,47.5199569786,-52.7559521432,Tamiasciurus hudsonicus,American Red Squirrel,Mammalia,46260,north_atlantic_2023,event
+193128504,2023-11-27,47.5728491811,-52.7360075698,Anser brachyrhynchus,Pink-footed Goose,Aves,7007,north_atlantic_2023,event
+192340142,2023-11-27,64.0791631289,-21.8666987615,Mergus merganser,Common Merganser,Aves,7004,north_atlantic_2023,event
+194109069,2023-11-26,46.2051506908,-59.9663331189,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+194109021,2023-11-26,46.2051351837,-59.966434215,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+194109220,2023-11-26,46.2047955375,-59.9660177889,Mareca penelope,Eurasian Wigeon,Aves,558441,north_atlantic_2023,event
+194108938,2023-11-26,46.2048924473,-59.9661317871,Larus delawarensis,Ring-billed Gull,Aves,4364,north_atlantic_2023,event
+194108854,2023-11-26,46.2048135066,-59.9660013839,Mareca penelope,Eurasian Wigeon,Aves,558441,north_atlantic_2023,event
+194108807,2023-11-26,46.2048516658,-59.966731212,Columba livia domestica,Feral Pigeon,Aves,122767,north_atlantic_2023,event
+194108755,2023-11-26,46.205045383,-59.9666734578,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,event
+194108691,2023-11-26,46.2053642014,-59.9667557597,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,event
+194108604,2023-11-26,46.205409208,-59.9658954071,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,event
+194108545,2023-11-26,46.2055374203,-59.9664130642,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,event
+194108454,2023-11-26,46.2055195023,-59.9665938352,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,event
+194108392,2023-11-26,46.2050348133,-59.9666926984,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+192359866,2023-11-26,48.7652095241,-57.9080088437,Perisoreus canadensis,Canada Jay,Aves,8335,north_atlantic_2023,event
+192276009,2023-11-26,47.5244027778,-52.620825,Alca torda,Razorbill,Aves,4501,north_atlantic_2023,event
+195155029,2023-11-26,47.5518399242,-52.7393780233,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+195155028,2023-11-26,47.5518399242,-52.7393780233,Balaenoptera acutorostrata,Common Minke Whale,Mammalia,41550,north_atlantic_2023,event
+192275965,2023-11-26,47.5246083333,-52.6225333333,Alca torda,Razorbill,Aves,4501,north_atlantic_2023,event
+192253276,2023-11-26,47.5245944444,-52.6225638889,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,event
+195155027,2023-11-26,47.5518399242,-52.7393780233,Alca torda,Razorbill,Aves,4501,north_atlantic_2023,event
+195155025,2023-11-26,47.5518399242,-52.7393780233,Uria lomvia,Thick-billed Murre,Aves,4516,north_atlantic_2023,event
+195155024,2023-11-26,47.5518399242,-52.7393780233,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+195155023,2023-11-26,47.5518399242,-52.7393780233,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,event
+192384227,2023-11-26,47.5242716667,-52.62068,Balaenoptera acutorostrata,Common Minke Whale,Mammalia,41550,north_atlantic_2023,event
+195155022,2023-11-26,47.5518399242,-52.7393780233,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+192384224,2023-11-26,47.52432,-52.6207383333,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+246214134,2023-11-26,51.9252871112,-10.2847843402,Limacia clavigera,Orange-clubbed Sea Slug,Mollusca,467344,north_atlantic_2023,event
+246229649,2023-11-26,51.9252439576,-10.2843842788,Patella pellucida,Blue-rayed Limpet,Mollusca,130087,north_atlantic_2023,event
+246214460,2023-11-26,51.9252700729,-10.2845488724,Polycera quadrilineata,Four-lined Polycera,Mollusca,425249,north_atlantic_2023,event
+246225329,2023-11-26,51.9251872731,-10.2851607593,Mytilus edulis,Blue Mussel,Mollusca,117650,north_atlantic_2023,event
+192384223,2023-11-26,47.5241933333,-52.6222266667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192384222,2023-11-26,47.524285,-52.622205,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,event
+192240027,2023-11-26,47.59,-52.7199999997,Colaptes auratus,Northern Flicker,Aves,18236,north_atlantic_2023,event
+192331482,2023-11-26,64.1455778333,-21.9398783333,Cygnus cygnus,Whooper Swan,Aves,6916,north_atlantic_2023,event
+192248432,2023-11-26,64.1456528333,-21.9393833333,Anser anser,Greylag Goose,Aves,7018,north_atlantic_2023,event
+247910148,2023-11-26,63.7856150941,-20.6965149983,Fratercula arctica,Atlantic Puffin,Aves,4504,north_atlantic_2023,event
+307358827,2023-11-25,46.8028380774,-56.1565112695,Lepus arcticus,Arctic Hare,Mammalia,43126,north_atlantic_2023,event
+195155021,2023-11-25,47.5518399242,-52.7393780233,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192360666,2023-11-25,47.6037316667,-52.7053866667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192360664,2023-11-25,47.6036416667,-52.7053866667,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+192360663,2023-11-25,47.60377,-52.705385,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192360662,2023-11-25,47.603795,-52.7055016667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192360659,2023-11-25,47.603795,-52.7055016667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192360658,2023-11-25,47.60374,-52.7054366667,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+195155020,2023-11-25,47.5518399242,-52.7393780233,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+195155018,2023-11-25,47.5804949,-52.6900543,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+195155017,2023-11-25,47.5804949,-52.6900543,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+195155016,2023-11-25,47.5804949,-52.6900543,Calidris pugnax,Ruff,Aves,339593,north_atlantic_2023,event
+192360660,2023-11-25,47.5796316667,-52.6981883333,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192360656,2023-11-25,47.5781283333,-52.7000483333,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192360655,2023-11-25,47.5781283333,-52.7000483333,Larus glaucoides kumlieni,Kumlien's Gull,Aves,342844,north_atlantic_2023,event
+192360657,2023-11-25,47.5781283333,-52.7000483333,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192360654,2023-11-25,47.57805,-52.7000516667,Larus glaucoides kumlieni,Kumlien's Gull,Aves,342844,north_atlantic_2023,event
+192360653,2023-11-25,47.5774883333,-52.6974533333,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+192360652,2023-11-25,47.5774883333,-52.6974533333,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,event
+192360651,2023-11-25,47.5774766667,-52.6973683333,Larus glaucoides kumlieni,Kumlien's Gull,Aves,342844,north_atlantic_2023,event
+192360649,2023-11-25,47.5774766667,-52.6973683333,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+192360648,2023-11-25,47.5775216667,-52.6974916667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192360647,2023-11-25,47.5775216667,-52.6974916667,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+192360643,2023-11-25,47.5774283333,-52.6977633333,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+192360641,2023-11-25,47.5774283333,-52.6977633333,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+192360642,2023-11-25,47.5773,-52.697965,Aythya fuligula,Tufted Duck,Aves,7046,north_atlantic_2023,event
+192360637,2023-11-25,47.5773,-52.697965,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+192360636,2023-11-25,47.5776933333,-52.6996033333,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,event
+192360639,2023-11-25,47.5781633333,-52.6996916667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192360633,2023-11-25,47.5823533333,-52.6912216667,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+192360632,2023-11-25,47.5825933333,-52.6897733333,Mergus serrator,Red-breasted Merganser,Aves,6996,north_atlantic_2023,event
+192360628,2023-11-25,47.582745,-52.68996,Calidris pugnax,Ruff,Aves,339593,north_atlantic_2023,event
+192360625,2023-11-25,47.582195,-52.6920283333,Aythya fuligula,Tufted Duck,Aves,7046,north_atlantic_2023,event
+192056674,2023-11-25,64.1454333333,-21.9444194444,Anser anser,Greylag Goose,Aves,7018,north_atlantic_2023,event
+192056528,2023-11-25,64.1459833333,-21.9400277778,Cygnus cygnus,Whooper Swan,Aves,6916,north_atlantic_2023,event
+195155015,2023-11-23,47.6185169691,-52.6944476085,Ardea ibis,Western Cattle-Egret,Aves,411086,north_atlantic_2023,event
+192360624,2023-11-23,47.617675,-52.6932633333,Ardea ibis,Western Cattle-Egret,Aves,411086,north_atlantic_2023,event
+195155010,2023-11-23,47.524088,-52.620112,Alle alle,Dovekie,Aves,4524,north_atlantic_2023,event
+195155014,2023-11-23,47.5518399242,-52.7393780233,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,event
+195155012,2023-11-23,47.5518399242,-52.7393780233,Rissa tridactyla,Black-legged Kittiwake,Aves,4494,north_atlantic_2023,event
+192360621,2023-11-23,47.5230166667,-52.6205383333,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+195155011,2023-11-23,47.5518399242,-52.7393780233,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+192360616,2023-11-23,47.523635,-52.6208983333,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+192360614,2023-11-23,47.52368,-52.6209583333,Rissa tridactyla,Black-legged Kittiwake,Aves,4494,north_atlantic_2023,event
+192360615,2023-11-23,47.5244183333,-52.62082,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+192360613,2023-11-23,47.5244183333,-52.62082,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+192360611,2023-11-23,47.5243516667,-52.6207916667,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,event
+195155009,2023-11-23,47.5518399242,-52.7393780233,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,event
+192360610,2023-11-23,47.524355,-52.6208283333,Rissa tridactyla,Black-legged Kittiwake,Aves,4494,north_atlantic_2023,event
+195155007,2023-11-23,47.524522,-52.620279,Uria lomvia,Thick-billed Murre,Aves,4516,north_atlantic_2023,event
+192360606,2023-11-23,47.5239816667,-52.6233366667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192360604,2023-11-23,47.5239816667,-52.6233366667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+192360601,2023-11-23,47.5243251493,-52.6206881592,Corvus corax,Common Raven,Aves,8010,north_atlantic_2023,event
+191813552,2023-11-22,45.9220116667,-59.96463,Heteranomia squamula,Prickly Jingle,Mollusca,482992,north_atlantic_2023,event
+191813502,2023-11-22,45.9220583333,-59.96402,Mercenaria mercenaria,Northern Quahog,Mollusca,125758,north_atlantic_2023,event
+195155006,2023-11-22,47.092134,-52.947429,Gavia immer,Common Loon,Aves,4626,north_atlantic_2023,event
+191797602,2023-11-22,47.0954066667,-52.9524616667,Mergus merganser,Common Merganser,Aves,7004,north_atlantic_2023,event
+191797601,2023-11-22,47.0951033333,-52.95194,Mergus serrator,Red-breasted Merganser,Aves,6996,north_atlantic_2023,event
+314113905,2023-11-22,48.0162,-46.4061,Alepisaurus brevirostris,Shortnose Lancetfish,Actinopterygii,450435,north_atlantic_2023,event
+191797599,2023-11-22,47.091505,-52.9551216667,Gavia immer,Common Loon,Aves,4626,north_atlantic_2023,event
+195155003,2023-11-22,47.525083,-52.619724,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+195155002,2023-11-22,47.525709,-52.62042,Larus glaucoides kumlieni,Kumlien's Gull,Aves,342844,north_atlantic_2023,event
+195155001,2023-11-22,47.524859,-52.618839,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,event
+195155000,2023-11-22,47.526545,-52.619278,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+191797598,2023-11-22,47.5221566667,-52.6229733333,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+191797590,2023-11-22,47.5197933333,-52.6218083333,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+191797592,2023-11-22,47.5239533333,-52.619625,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+191797589,2023-11-22,47.523915,-52.6196766667,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+191797587,2023-11-22,47.52388,-52.6197016667,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+191797586,2023-11-22,47.52386,-52.6198966667,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+191797581,2023-11-22,47.5239683333,-52.6193683333,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,event
+191797578,2023-11-22,47.5239683333,-52.6193683333,Larus glaucoides kumlieni,Kumlien's Gull,Aves,342844,north_atlantic_2023,event
+191797579,2023-11-22,47.5241116667,-52.620945,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+191797574,2023-11-22,47.5241916667,-52.6211766667,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+191797573,2023-11-22,47.52414,-52.6213733333,Larus glaucoides kumlieni,Kumlien's Gull,Aves,342844,north_atlantic_2023,event
+191797572,2023-11-22,47.5239933333,-52.621625,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+191797570,2023-11-22,47.5239933333,-52.621625,Larus glaucoides kumlieni,Kumlien's Gull,Aves,342844,north_atlantic_2023,event
+191797568,2023-11-22,47.5239933333,-52.621625,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+191797566,2023-11-22,47.5239933333,-52.621625,Larus glaucoides kumlieni,Kumlien's Gull,Aves,342844,north_atlantic_2023,event
+191797563,2023-11-22,47.5239933333,-52.621625,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+191797562,2023-11-22,47.5238116667,-52.6219083333,Larus glaucoides kumlieni,Kumlien's Gull,Aves,342844,north_atlantic_2023,event
+191797560,2023-11-22,47.5238116667,-52.6219083333,Larus glaucoides kumlieni,Kumlien's Gull,Aves,342844,north_atlantic_2023,event
+191797557,2023-11-22,47.5238333333,-52.62196,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+191797556,2023-11-22,47.5237783333,-52.622055,Larus glaucoides kumlieni,Kumlien's Gull,Aves,342844,north_atlantic_2023,event
+191797554,2023-11-22,47.5236883333,-52.6221783333,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+316764562,2023-11-22,48.1368,-46.4515,Bajacalifornia megalops,Bigeye Slickhead,Actinopterygii,459176,north_atlantic_2023,event
+316752153,2023-11-22,48.1339,-46.45,Caristius fasciatus,,Actinopterygii,609941,north_atlantic_2023,event
+195154999,2023-11-21,47.5519413,-52.7395926,Aythya fuligula,Tufted Duck,Aves,7046,north_atlantic_2023,event
+195154998,2023-11-21,47.5519413,-52.7395926,Fulica americana,American Coot,Aves,473,north_atlantic_2023,event
+195154997,2023-11-21,47.5519413,-52.7395926,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,event
+195154996,2023-11-21,47.5519413,-52.7395926,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+195154995,2023-11-21,47.5519413,-52.7395926,Nyctanassa violacea,Yellow-crowned Night Heron,Aves,4999,north_atlantic_2023,event
+195482304,2023-11-21,47.5501143507,-52.7385746451,Nyctanassa violacea,Yellow-crowned Night Heron,Aves,4999,north_atlantic_2023,event
+191699851,2023-11-21,47.552585,-52.7393316667,Aythya fuligula,Tufted Duck,Aves,7046,north_atlantic_2023,event
+191699850,2023-11-21,47.5524016667,-52.7398233333,Aythya fuligula,Tufted Duck,Aves,7046,north_atlantic_2023,event
+191699848,2023-11-21,47.5522916667,-52.7400283333,Fulica americana,American Coot,Aves,473,north_atlantic_2023,event
+191699846,2023-11-21,47.5497033333,-52.738695,Nyctanassa violacea,Yellow-crowned Night Heron,Aves,4999,north_atlantic_2023,event
+191699852,2023-11-21,47.6441067727,-52.663224077,Poecile hudsonicus,Boreal Chickadee,Aves,144821,north_atlantic_2023,event
+195154993,2023-11-21,47.6528284425,-52.6669868021,Poecile hudsonicus,Boreal Chickadee,Aves,144821,north_atlantic_2023,event
+191699845,2023-11-21,47.64481,-52.663615,Bonasa umbellus,Ruffed Grouse,Aves,890,north_atlantic_2023,event
+195154991,2023-11-21,47.5518399242,-52.7393780233,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,event
+191699841,2023-11-21,47.64409,-52.6632583333,Poecile hudsonicus,Boreal Chickadee,Aves,144821,north_atlantic_2023,event
+191699840,2023-11-21,47.6431583333,-52.6636733333,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+191699839,2023-11-21,47.6420616667,-52.66387,Colaptes auratus luteus,Northern Yellow-shafted Flicker,Aves,555736,north_atlantic_2023,event
+192481192,2023-11-20,47.5853849999,-52.6861852258,Calidris pugnax,Ruff,Aves,339593,north_atlantic_2023,event
+191707383,2023-11-20,47.5301061,-52.7614362,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,event
+195154992,2023-11-20,47.5518399242,-52.7393780233,Cygnus olor,Mute Swan,Aves,6921,north_atlantic_2023,event
+191707380,2023-11-20,47.5301061,-52.7614362,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,event
+195154990,2023-11-20,47.5519413,-52.7395926,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,event
+195154989,2023-11-20,47.5519413,-52.7395926,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+195154988,2023-11-20,47.5234630219,-52.751297501,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,event
+195154987,2023-11-20,47.5234630219,-52.751297501,Quiscalus quiscula,Common Grackle,Aves,9602,north_atlantic_2023,event
+191616570,2023-11-20,47.5531143516,-52.7378453354,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+191616569,2023-11-20,47.5531143516,-52.7378453354,Cygnus olor,Mute Swan,Aves,6921,north_atlantic_2023,event
+191616568,2023-11-20,47.5532183333,-52.737075,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+191616567,2023-11-20,47.5252733333,-52.75253,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,event
+191593025,2023-11-20,47.5291187652,-52.7452771222,Anas acuta,Northern Pintail,Aves,6933,north_atlantic_2023,event
+191593861,2023-11-20,47.529075,-52.7456333333,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+191616566,2023-11-20,47.5289666667,-52.7450066667,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,north_atlantic_2023,event
+191587994,2023-11-20,47.4659805556,-53.0839916667,Lagenorhynchus albirostris,White-beaked Dolphin,Mammalia,41505,north_atlantic_2023,event
+195154986,2023-11-20,47.4660681418,-53.0855663292,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,event
+195154985,2023-11-20,47.4660681418,-53.0855663292,Gavia immer,Common Loon,Aves,4626,north_atlantic_2023,event
+195154984,2023-11-20,47.4660681418,-53.0855663292,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+195154979,2023-11-20,47.5021578968,-53.0220014658,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+191587781,2023-11-20,47.5364555556,-52.9443222222,Modiolus modiolus,Northern Horse Mussel,Mollusca,123772,north_atlantic_2023,event
+191587742,2023-11-20,47.5363083333,-52.9448555556,Modiolus modiolus,Northern Horse Mussel,Mollusca,123772,north_atlantic_2023,event
+191587399,2023-11-20,47.5361722222,-52.94555,Modiolus modiolus,Northern Horse Mussel,Mollusca,123772,north_atlantic_2023,event
+195154978,2023-11-20,47.5021578968,-53.0220014658,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,north_atlantic_2023,event
+191616565,2023-11-20,47.4658583333,-53.084705,Gavia immer,Common Loon,Aves,4626,north_atlantic_2023,event
+195482523,2023-11-20,47.5849187524,-52.6868164858,Calidris pugnax,Ruff,Aves,339593,north_atlantic_2023,event
+191616563,2023-11-20,47.5043966667,-53.022495,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+191616562,2023-11-20,47.5043966667,-53.022495,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+191616561,2023-11-20,47.5044933333,-53.0227783333,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+191616559,2023-11-20,47.50447,-53.022605,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+191616558,2023-11-20,47.5042983333,-53.0228166667,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+191616557,2023-11-20,47.5042983333,-53.0228166667,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+191616555,2023-11-20,47.5039133333,-53.0230233333,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,event
+191616554,2023-11-20,47.5039133333,-53.0230233333,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+191616553,2023-11-20,47.5006433333,-53.0202616667,Anas rubripes × platyrhynchos,American Black Duck × Mallard,Aves,518415,north_atlantic_2023,event
+191616550,2023-11-20,47.5005433333,-53.0202033333,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,north_atlantic_2023,event
+191616552,2023-11-20,47.5003533333,-53.0201733333,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,north_atlantic_2023,event
+191616551,2023-11-20,47.5003533333,-53.0201733333,Chroicocephalus ridibundus,Black-headed Gull,Aves,144510,north_atlantic_2023,event
+317984768,2023-11-20,49.6313308034,-54.7496318727,Pandion haliaetus,Osprey,Aves,116999,north_atlantic_2023,event
+201225990,2023-11-20,64.1630826823,-22.0137134707,Halichoerus grypus atlantica,Atlantic Grey Seal,Mammalia,711289,north_atlantic_2023,event
+195154977,2023-11-19,47.5810159741,-52.6895822312,Astur atricapillus,American Goshawk,Aves,1579016,north_atlantic_2023,event
+191494111,2023-11-19,47.5497889845,-52.7387723979,Nyctanassa violacea,Yellow-crowned Night Heron,Aves,4999,north_atlantic_2023,event
+191545742,2023-11-19,47.5818,-52.6826666667,Aythya marila,Greater Scaup,Aves,7047,north_atlantic_2023,event
+191545741,2023-11-19,47.58413,-52.6802383333,Astur atricapillus,American Goshawk,Aves,1579016,north_atlantic_2023,event
+240125419,2023-11-19,53.4883757,-10.0311226,Larus argentatus,European Herring Gull,Aves,204533,north_atlantic_2023,event
+240125345,2023-11-19,53.4883757,-10.0311226,Pica pica,Eurasian Magpie,Aves,891696,north_atlantic_2023,event
+240125247,2023-11-19,53.4883757,-10.0311226,Turdus merula,Eurasian Blackbird,Aves,12716,north_atlantic_2023,event
+240125056,2023-11-19,53.4883757,-10.0311226,Motacilla alba yarrellii,Pied Wagtail,Aves,366951,north_atlantic_2023,event
+240124973,2023-11-19,53.4883757,-10.0311226,Turdus merula,Eurasian Blackbird,Aves,12716,north_atlantic_2023,event
+292340931,2023-11-18,48.2132,-48.5416,Magnisudis atlantica,Duckbill Barracudina,Actinopterygii,224382,north_atlantic_2023,event
+191392055,2023-11-18,47.6719583333,-52.7805466667,Bonasa umbellus,Ruffed Grouse,Aves,890,north_atlantic_2023,event
+195154972,2023-11-18,47.5810159741,-52.6895822312,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,event
+191545740,2023-11-18,46.9332966667,-52.951995,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,event
+191545739,2023-11-18,46.9332966667,-52.951995,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,event
+195154975,2023-11-18,46.6584896599,-53.0737891925,Melanitta deglandi,White-winged Scoter,Aves,144222,north_atlantic_2023,event
+195154971,2023-11-18,46.6584896599,-53.0737891925,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,event
+195154968,2023-11-18,46.6584896599,-53.0737891925,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+195154967,2023-11-18,46.6584896599,-53.0737891925,Calidris fuscicollis,White-rumped Sandpiper,Aves,3866,north_atlantic_2023,event
+191397824,2023-11-18,48.916949,-57.8702995,Perisoreus canadensis,Canada Jay,Aves,8335,north_atlantic_2023,event
+191545738,2023-11-18,46.6583216667,-53.0740916667,Melanitta perspicillata,Surf Scoter,Aves,7036,north_atlantic_2023,event
+191679700,2023-11-18,46.2053425198,-59.9665568665,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+191545737,2023-11-18,46.65867,-53.0728283333,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+191545734,2023-11-18,46.6583233333,-53.07309,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+191545733,2023-11-18,46.6582966667,-53.073265,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+191545732,2023-11-18,46.658265,-53.0733,Melanitta deglandi,White-winged Scoter,Aves,144222,north_atlantic_2023,event
+191545729,2023-11-18,46.6581883333,-53.0732533333,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,event
+191545727,2023-11-18,46.6582666667,-53.07341,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+191679698,2023-11-18,46.2053425198,-59.9665568665,Aythya americana,Redhead,Aves,7056,north_atlantic_2023,event
+191545726,2023-11-18,46.658505,-53.0739083333,Calidris fuscicollis,White-rumped Sandpiper,Aves,3866,north_atlantic_2023,event
+191545724,2023-11-18,46.6584066667,-53.0738916667,Calidris fuscicollis,White-rumped Sandpiper,Aves,3866,north_atlantic_2023,event
+195154964,2023-11-18,46.624192349,-53.595930823,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+195154962,2023-11-18,46.624192349,-53.595930823,Melanitta deglandi,White-winged Scoter,Aves,144222,north_atlantic_2023,event
+195154960,2023-11-18,46.624192349,-53.595930823,Melanitta americana,Black Scoter,Aves,144220,north_atlantic_2023,event
+195155034,2023-11-18,47.5518399242,-52.7393780233,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+195155033,2023-11-18,47.5518399242,-52.7393780233,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,event
+191545723,2023-11-18,46.62153,-53.5960216667,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+191545719,2023-11-18,46.6214483333,-53.5960666667,Melanitta deglandi,White-winged Scoter,Aves,144222,north_atlantic_2023,event
+191545718,2023-11-18,46.6214483333,-53.5960666667,Melanitta americana,Black Scoter,Aves,144220,north_atlantic_2023,event
+191545717,2023-11-18,46.621495,-53.59606,Melanitta americana,Black Scoter,Aves,144220,north_atlantic_2023,event
+191545716,2023-11-18,46.621485,-53.596035,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+191545713,2023-11-18,46.6213683333,-53.5961133333,Histrionicus histrionicus,Harlequin Duck,Aves,7111,north_atlantic_2023,event
+191545712,2023-11-18,46.6214166667,-53.5960483333,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+191545711,2023-11-18,46.6214133333,-53.5959383333,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+191545710,2023-11-18,46.626035,-53.5939033333,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,event
+191359937,2023-11-18,64.1466,-21.9422466667,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,event
+191545709,2023-11-18,46.6260266667,-53.59348,Cepphus grylle,Black Guillemot,Aves,4418,north_atlantic_2023,event
+191545708,2023-11-18,46.6260016667,-53.593445,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+191361311,2023-11-18,47.529451,-52.7656199,Poecile atricapillus,Black-capped Chickadee,Aves,144815,north_atlantic_2023,event
+191361310,2023-11-18,47.529451,-52.7656199,Junco hyemalis,Dark-eyed Junco,Aves,10094,north_atlantic_2023,event
+191361309,2023-11-18,47.529451,-52.7656199,Colaptes auratus,Northern Flicker,Aves,18236,north_atlantic_2023,event
+191358214,2023-11-18,46.17806796,-59.92296037,Morus bassanus,Northern Gannet,Aves,3802,north_atlantic_2023,event
+191346098,2023-11-18,64.92952405,-18.9127397,Turdus iliacus,Redwing,Aves,12749,north_atlantic_2023,event
+195460984,2023-11-17,48.774205,-55.8722833333,Vulpes vulpes deletrix,Insular Newfoundland Red Fox,Mammalia,1158931,north_atlantic_2023,event
+195155032,2023-11-17,47.5518399242,-52.7393780233,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,event
+195155031,2023-11-17,47.5518399242,-52.7393780233,Anser brachyrhynchus,Pink-footed Goose,Aves,7007,north_atlantic_2023,event
+195155030,2023-11-17,47.5518399242,-52.7393780233,Calidris pugnax,Ruff,Aves,339593,north_atlantic_2023,event
+191545707,2023-11-17,47.57434,-52.728045,Anser brachyrhynchus,Pink-footed Goose,Aves,7007,north_atlantic_2023,event
+191545706,2023-11-17,47.5744116667,-52.728075,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,north_atlantic_2023,event
+191545704,2023-11-17,47.5742333333,-52.7278166667,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+191545703,2023-11-17,47.5742283333,-52.72767,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+191545702,2023-11-17,47.5742283333,-52.72767,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,event
+191545701,2023-11-17,47.5742283333,-52.72767,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,event
+191545697,2023-11-17,47.585835,-52.6861033333,Calidris pugnax,Ruff,Aves,339593,north_atlantic_2023,event
+191272682,2023-11-17,64.1424471327,-21.927926559,Turdus iliacus,Redwing,Aves,12749,north_atlantic_2023,event
+191266454,2023-11-17,64.1095537176,-22.0313851036,Modiolus modiolus,Northern Horse Mussel,Mollusca,123772,north_atlantic_2023,event
+191266119,2023-11-17,64.1095588275,-22.0311954165,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,event
+191265687,2023-11-17,64.1088742199,-22.0303264549,Buccinum undatum,Common Whelk,Mollusca,130213,north_atlantic_2023,event
+191265680,2023-11-17,64.19817111,-22.1702789772,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+191265027,2023-11-17,64.1711691253,-22.1523996197,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+308982758,2023-11-17,48.3972,-49.2102,Borostomias antarcticus,Antarctic Snaggletooth,Actinopterygii,459178,north_atlantic_2023,event
+191307296,2023-11-17,64.0443924878,-16.1785227821,Phoca vitulina vitulina,Atlantic Harbor Seal,Mammalia,566601,north_atlantic_2023,event
+191259875,2023-11-17,64.2824313697,-21.0935919173,Corvus corax,Common Raven,Aves,8010,north_atlantic_2023,event
+191195285,2023-11-16,47.5222765,-52.7547358,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,event
+191195283,2023-11-16,47.5222765,-52.7547358,Tamias striatus,Eastern Chipmunk,Mammalia,46217,north_atlantic_2023,event
+191129842,2023-11-15,49.6108386096,-57.9549460963,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,event
+191312724,2023-11-15,64.0223696645,-16.9779738438,Apodemus sylvaticus,European Wood Mouse,Mammalia,45562,north_atlantic_2023,event
+191086797,2023-11-15,64.1076537353,-22.0302089481,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,event
+192480072,2023-11-14,47.6180608501,-52.6940202356,Ardea ibis,Western Cattle-Egret,Aves,411086,north_atlantic_2023,event
+193033532,2023-11-14,47.464099438,-52.9315843584,Canis latrans,Coyote,Mammalia,42051,north_atlantic_2023,event
+191002382,2023-11-14,47.5222765,-52.7547358,Nannopterum auritum,Double-crested Cormorant,Aves,1454382,north_atlantic_2023,event
+191002381,2023-11-14,47.5222765,-52.7547358,Dryobates pubescens,Downy Woodpecker,Aves,792988,north_atlantic_2023,event
+190992667,2023-11-14,64.52620798,-14.5649124631,Anser anser,Greylag Goose,Aves,7018,north_atlantic_2023,event
+190992304,2023-11-14,64.4460038217,-14.5092280208,Ardea cinerea,Grey Heron,Aves,4954,north_atlantic_2023,event
+190992070,2023-11-14,64.4181119835,-14.5357949122,Rangifer tarandus,Caribou,Mammalia,42199,north_atlantic_2023,event
+191199387,2023-11-14,64.4326586154,-14.5040264993,Cygnus cygnus,Whooper Swan,Aves,6916,north_atlantic_2023,event
+191199457,2023-11-14,64.2469228053,-15.0433437093,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,event
+191624113,2023-11-13,47.4607594949,-53.3455645979,Poecile hudsonicus,Boreal Chickadee,Aves,144821,north_atlantic_2023,event
+191624114,2023-11-13,47.4607740027,-53.3455645978,Pinicola enucleator,Pine Grosbeak,Aves,9771,north_atlantic_2023,event
+191624112,2023-11-13,47.4606814861,-53.3454358507,Loxia curvirostra percna,Newfoundland Red Crossbill,Aves,237072,north_atlantic_2023,event
+236332043,2023-11-13,47.3732584333,-53.162156173,Spinus pinus,Pine Siskin,Aves,145304,north_atlantic_2023,event
+193347172,2023-11-13,49.4768049749,-57.9567714036,Lynx canadensis,Canada Lynx,Mammalia,41974,north_atlantic_2023,event
+190907736,2023-11-13,64.144451136,-21.94956441,Turdus merula,Eurasian Blackbird,Aves,12716,north_atlantic_2023,event
+190991894,2023-11-13,64.0483876829,-16.1797078423,Plectrophenax nivalis,Snow Bunting,Aves,117059,north_atlantic_2023,event
+191199565,2023-11-13,64.1700293987,-16.1914518424,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+190902409,2023-11-13,64.14330553,-21.8921247364,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,event
+190985476,2023-11-13,46.0130173043,-59.9618855598,Mergus serrator,Red-breasted Merganser,Aves,6996,north_atlantic_2023,event
+247272502,2023-11-13,64.0166778333,-16.9686666667,Lagopus muta islandorum,Icelandic Rock Ptarmigan,Aves,632996,north_atlantic_2023,event
+190985475,2023-11-13,46.0085787701,-59.941530276,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,event
+190985474,2023-11-13,46.0083514922,-59.9413854367,Cyanocitta cristata,Blue Jay,Aves,8229,north_atlantic_2023,event
+190985473,2023-11-13,46.0083514922,-59.9413854367,Zenaida macroura,Mourning Dove,Aves,3454,north_atlantic_2023,event
+190819528,2023-11-12,46.0080360774,-59.9402025825,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,event
+190819527,2023-11-12,46.0083366699,-59.9409978576,Poecile atricapillus,Black-capped Chickadee,Aves,144815,north_atlantic_2023,event
+190819529,2023-11-12,46.0082649468,-59.9410461373,Spinus pinus,Pine Siskin,Aves,145304,north_atlantic_2023,event
+190819525,2023-11-12,46.0082585077,-59.9410421141,Setophaga pinus,Pine Warbler,Aves,145244,north_atlantic_2023,event
+190819524,2023-11-12,46.0082585077,-59.9410421141,Spinus tristis,American Goldfinch,Aves,145310,north_atlantic_2023,event
+190819523,2023-11-12,46.0082585077,-59.9410421141,Spinus pinus,Pine Siskin,Aves,145304,north_atlantic_2023,event
+190818906,2023-11-12,47.2705534197,-53.8758037984,Bonasa umbellus,Ruffed Grouse,Aves,890,north_atlantic_2023,event
+190821020,2023-11-12,49.6028906504,-57.9557384178,Haliaeetus leucocephalus,Bald Eagle,Aves,5305,north_atlantic_2023,event
+191453873,2023-11-12,60.1330593279,-45.2220930608,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,event
+190800224,2023-11-12,48.8275303422,-54.2424827949,Canachites canadensis,Spruce Grouse,Aves,1289698,north_atlantic_2023,event
+190804484,2023-11-12,47.5218823,-52.9468093,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,event
+190904038,2023-11-12,51.8442799788,-10.2073119496,Calidris alba,Sanderling,Aves,3849,north_atlantic_2023,event
+190783948,2023-11-12,63.4908388639,-19.364241603,Turdus iliacus,Redwing,Aves,12749,north_atlantic_2023,event
+196875895,2023-11-11,46.1565967248,-59.9589213847,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,event
+196875894,2023-11-11,46.1565967248,-59.9589213847,Aythya collaris,Ring-necked Duck,Aves,7044,north_atlantic_2023,event
+196875893,2023-11-11,46.1565967248,-59.9589213847,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,event
+196875892,2023-11-11,46.1565967248,-59.9589213847,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,event
+196875654,2023-11-11,46.2050146577,-59.9650871113,Larus delawarensis,Ring-billed Gull,Aves,4364,north_atlantic_2023,event
+196875652,2023-11-11,46.2050146577,-59.9650871113,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+196875651,2023-11-11,46.2050146577,-59.9650871113,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+196875650,2023-11-11,46.2050146577,-59.9650871113,Larus marinus,Great Black-backed Gull,Aves,4368,north_atlantic_2023,event
+196875649,2023-11-11,46.2050146577,-59.9650871113,Larus delawarensis,Ring-billed Gull,Aves,4364,north_atlantic_2023,event
+196875648,2023-11-11,46.2050146577,-59.9650871113,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+196875646,2023-11-11,46.2050146577,-59.9650871113,Mareca penelope,Eurasian Wigeon,Aves,558441,north_atlantic_2023,event
+196875645,2023-11-11,46.2050146577,-59.9650871113,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,event
+196875643,2023-11-11,46.2050146577,-59.9650871113,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,event
+196875642,2023-11-11,46.2050146577,-59.9650871113,Larus delawarensis,Ring-billed Gull,Aves,4364,north_atlantic_2023,event
+196875641,2023-11-11,46.2050146577,-59.9650871113,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,north_atlantic_2023,event
+196875636,2023-11-11,46.2050146577,-59.9650871113,Aythya collaris,Ring-necked Duck,Aves,7044,north_atlantic_2023,event
+196875635,2023-11-11,46.2050146577,-59.9650871113,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,event
+196875634,2023-11-11,46.2050146577,-59.9650871113,Anas rubripes,American Black Duck,Aves,6924,north_atlantic_2023,event
+196875631,2023-11-11,46.2050146577,-59.9650871113,Bucephala albeola,Bufflehead,Aves,6993,north_atlantic_2023,event
+196875630,2023-11-11,46.2050146577,-59.9650871113,Columba livia domestica,Feral Pigeon,Aves,122767,north_atlantic_2023,event
+196875628,2023-11-11,46.2050146577,-59.9650871113,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+196875623,2023-11-11,46.2050146577,-59.9650871113,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,event
+196875622,2023-11-11,46.2050146577,-59.9650871113,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+196875619,2023-11-11,46.2050146577,-59.9650871113,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,event
+195715577,2023-11-11,46.2050654803,-59.965037177,Fulica americana,American Coot,Aves,473,north_atlantic_2023,event
+190794421,2023-11-11,46.2045090374,-59.9654149962,Larus delawarensis,Ring-billed Gull,Aves,4364,north_atlantic_2023,event
+190794420,2023-11-11,46.2050139542,-59.9662840319,Anas platyrhynchos domesticus,Domestic Mallard,Aves,236935,north_atlantic_2023,event
+190794418,2023-11-11,46.2051847338,-59.9663805914,Anas platyrhynchos,Mallard,Aves,6930,north_atlantic_2023,event
+190791338,2023-11-11,46.2059278954,-59.9618852096,Mareca penelope,Eurasian Wigeon,Aves,558441,north_atlantic_2023,event
+190792048,2023-11-11,46.2059278954,-59.9618852096,Oxyura jamaicensis,Ruddy Duck,Aves,850859,north_atlantic_2023,event
+197422019,2023-11-11,46.2047166667,-59.9664833333,Oxyura jamaicensis,Ruddy Duck,Aves,850859,north_atlantic_2023,event
+190792049,2023-11-11,46.2058968996,-59.9642240949,Branta canadensis,Canada Goose,Aves,7089,north_atlantic_2023,event
+190792051,2023-11-11,46.2052652807,-59.9662359187,Fulica americana,American Coot,Aves,473,north_atlantic_2023,event
+190792050,2023-11-11,46.205318711,-59.9663859561,Mareca penelope,Eurasian Wigeon,Aves,558441,north_atlantic_2023,event
+190793698,2023-11-11,46.2052638317,-59.9665468892,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,event
+190712031,2023-11-11,47.6183527721,-52.6934733242,Ardea ibis,Western Cattle-Egret,Aves,411086,north_atlantic_2023,event
+190725621,2023-11-11,47.2590133333,-52.8094366667,Dendronotus frondosus,Bushy-backed Nudibranch,Mollusca,423919,north_atlantic_2023,event
+191019034,2023-11-11,64.1446757626,-21.9263938442,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,event
+191018902,2023-11-11,64.1431562651,-21.9286130369,Turdus merula,Eurasian Blackbird,Aves,12716,north_atlantic_2023,event
+190680685,2023-11-11,64.1513856,-21.9852832,Arenaria interpres,Ruddy Turnstone,Aves,3938,north_atlantic_2023,event
+190680588,2023-11-11,64.151084,-21.9847773,Calidris maritima,Purple Sandpiper,Aves,3856,north_atlantic_2023,event
+190685689,2023-11-11,46.206461429,-59.9658170772,Aythya americana,Redhead,Aves,7056,north_atlantic_2023,event
+190685692,2023-11-11,46.206461429,-59.9658170772,Oxyura jamaicensis,Ruddy Duck,Aves,850859,north_atlantic_2023,event
+190706044,2023-11-11,46.2050320981,-59.966358472,Fulica americana,American Coot,Aves,473,north_atlantic_2023,event
+190811213,2023-11-11,64.3625169495,-21.401743032,Apodemus sylvaticus,European Wood Mouse,Mammalia,45562,north_atlantic_2023,event
+190668277,2023-11-11,63.4443109954,-20.3018418177,Fulmarus glacialis,Northern Fulmar,Aves,4180,north_atlantic_2023,event
+190618854,2023-11-10,46.0096759722,-59.9362382774,Podiceps grisegena,Red-necked Grebe,Aves,4224,north_atlantic_2023,event
+190618852,2023-11-10,46.0096759722,-59.9362382774,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,event
+190624003,2023-11-10,46.1776059353,-59.8446292103,Corvus brachyrhynchos,American Crow,Aves,8021,north_atlantic_2023,event
+190622687,2023-11-10,46.1114404778,-59.8755917136,Larus smithsonianus,American Herring Gull,Aves,1578489,north_atlantic_2023,event
+222304378,2023-11-10,47.7863980593,-52.7819774964,Mustela richardsonii,American Ermine,Mammalia,1264427,north_atlantic_2023,event
+190619327,2023-11-10,46.1178352107,-59.8872056803,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,event
+190621306,2023-11-10,46.0842141942,-59.8905230516,Anas crecca,Green-winged Teal,Aves,6937,north_atlantic_2023,event
+190621308,2023-11-10,46.0841100939,-59.8905826931,Tringa melanoleuca,Greater Yellowlegs,Aves,3892,north_atlantic_2023,event
+190621305,2023-11-10,46.0841761781,-59.8912110383,Mareca penelope,Eurasian Wigeon,Aves,558441,north_atlantic_2023,event
+190621304,2023-11-10,46.084170678,-59.8912083561,Mareca americana,American Wigeon,Aves,485176,north_atlantic_2023,event
+195482408,2023-11-10,47.6191391305,-52.6931316644,Ardea ibis,Western Cattle-Egret,Aves,411086,north_atlantic_2023,event
+190585013,2023-11-10,64.309905,-20.3009916667,Turdus iliacus,Redwing,Aves,12749,north_atlantic_2023,event
+191018821,2023-11-10,64.1422517211,-21.9218444824,Turdus iliacus,Redwing,Aves,12749,north_atlantic_2023,event
+190585452,2023-11-10,45.9656737997,-59.8379677,Poecile hudsonicus,Boreal Chickadee,Aves,144821,north_atlantic_2023,event
+190584175,2023-11-10,46.0075597675,-59.8370672969,Bombycilla garrulus,Bohemian Waxwing,Aves,7429,north_atlantic_2023,event
+190581272,2023-11-10,46.003374224,-59.9369141934,Leiothlypis celata,Orange-crowned Warbler,Aves,979757,north_atlantic_2023,event
+190584452,2023-11-10,46.0037766533,-59.9372467873,Bombycilla garrulus,Bohemian Waxwing,Aves,7429,north_atlantic_2023,event
+190945833,2023-11-10,64.0558031756,-16.1764723063,Clangula hyemalis,Long-tailed Duck,Aves,7170,north_atlantic_2023,event
+190945504,2023-11-10,64.1445090009,-16.191548868,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+190945419,2023-11-10,64.1669157958,-21.933718957,Larus glaucoides,Iceland Gull,Aves,4361,north_atlantic_2023,event
+190680914,2023-11-10,64.1713008389,-21.8781459332,Megaptera novaeangliae novaeangliae,North Atlantic Humpback Whale,Mammalia,705330,north_atlantic_2023,event
+190940749,2023-11-10,64.1675308568,-21.9286415353,Alca torda,Razorbill,Aves,4501,north_atlantic_2023,event
+190940680,2023-11-10,64.0197733764,-21.9199063114,Somateria mollissima,Common Eider,Aves,7024,north_atlantic_2023,event
+190940510,2023-11-10,64.1585539961,-21.9154474139,Gavia stellata,Red-throated Loon,Aves,4627,north_atlantic_2023,event
+190894986,2023-11-09,49.6820870697,-57.9581826781,Rangifer tarandus,Caribou,Mammalia,42199,north_atlantic_2023,event
+263775355,2023-11-09,64.5436271208,-21.9118921078,Sturnus vulgaris,European Starling,Aves,14850,north_atlantic_2023,event
+190521451,2023-11-09,64.0588558971,-16.1729669943,Phoca vitulina,Harbor Seal,Mammalia,41708,north_atlantic_2023,event
+195715561,2023-11-09,46.1561941643,-59.9609840039,Columba livia domestica,Feral Pigeon,Aves,122767,north_atlantic_2023,event
