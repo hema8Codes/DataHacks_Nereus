@@ -446,7 +446,7 @@ Total target pool addressed: **~$14,000 across 8 categories.**
 - **ElevenLabs, Anthropic, Google** — inference layers
 - **DataHacks 2026** — the theme and the challenge
 
-Built solo in one weekend by **Hemakshi**.
+Built at DataHacks 2026 - UC San Diego.
 
 ---
 
