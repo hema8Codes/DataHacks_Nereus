@@ -1,5 +1,4 @@
-# Update
-Placed 2nd in Best Use of Scripps Data Category
+**Placed 2nd in Best Use of Scripps Data Category at DataHacks 2026 - Sponsor Challenge**  
 Devpost Link - https://devpost.com/software/git-push-to-green
 
 # Nereus
