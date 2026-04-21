@@ -1,3 +1,7 @@
+# Update
+Placed 2nd in Best Use of Scripps Data Category
+Devpost Link - https://devpost.com/software/git-push-to-green
+
 # Nereus
 
 **A voice-driven 3D intelligence platform for marine heatwaves.**
